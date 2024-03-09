@@ -7,9 +7,9 @@ Halifax er en ånd/sjæl, som er blevet forbandet til at leve i planter. Hver ga
 Nu er Halifax fanget i et fugleskræmsel lavet af græskar, grene og halm - for første gang har han muligheden for at tale og bevæge sig og forsøge at finde ud af hvorfor han er forbandet.
 Uden nogen egentligt grundlag for det, er Halifax overbevist om at han bare ikke er død på den rigtige måde endnu. Og derfor søger han efter det rigtige ritual der kan befri ham fra denne uendelige række af plantebaserede fængsler.
 
-# Forhold til [[My Bad Guy]]
+# Forhold til [[K'Sum-klanen]]
 
-# Forhold til [[My Country]]
+# Forhold til [[Cantua]]
 
 # Forhold til [[My Leader]]
 
