@@ -11,7 +11,7 @@ Uden nogen egentligt grundlag for det, er Halifax overbevist om at han bare ikke
 
 # Forhold til [[Cantua]]
 
-# Forhold til [[My Leader]]
+# Forhold til [[Kong Barcelos af Cantua]]
 
 # Images
 	![[Pumpkin-Mage_Print_sm.png]]
