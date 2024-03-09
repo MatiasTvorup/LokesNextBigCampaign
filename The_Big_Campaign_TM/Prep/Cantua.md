@@ -25,5 +25,8 @@ Selv hvis [[K'Sum-klanen]] forsvandt i dag, ville der gå generationer før at C
 
 # Mooboard
 ![[Coal_Insect.jpg]]
+
 ![[Coal_BattleMech.jpg]]
-![[SmokeStack.jpg]]![[Destroyed_Village.jpg]]
+
+![[SmokeStack.jpg]]
+![[Destroyed_Village.jpg]]
