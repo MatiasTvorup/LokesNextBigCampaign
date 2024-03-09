@@ -29,4 +29,5 @@ Selv hvis [[K'Sum-klanen]] forsvandt i dag, ville der gå generationer før at C
 ![[Coal_BattleMech.jpg]]
 
 ![[SmokeStack.jpg]]
+
 ![[Destroyed_Village.jpg]]
