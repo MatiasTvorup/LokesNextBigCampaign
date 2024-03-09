@@ -1,5 +1,5 @@
 # Indholdsfortegnelse
 
-Land: (Cantua)[Cantua.md]
+Land: (Cantua)[MatiasTvorup/LokesNextBigCampaign/blob/main/The_Big_Campaign_TM/Prep/Cantua.md]
 
 Leder af landet: (Kong Barcelos af Cantua)[Kong Barcelos af Cantua.md]
