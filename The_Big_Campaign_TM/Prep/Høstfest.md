@@ -1,0 +1,12 @@
+Dengang [[Cantua]]'s jord stadig kunne dyrkes, var høstfesten årets største begivenhed. I efteråret, når markerne var blevet mejet og høsten var sikkert i hus, samledes folkene på gårdene, for at finde ud af, om de havde nok til at klare sig igennem den kommende vinter. 
+
+Langt de fleste år var dette tilfælde. Og selvfølgeligt skulle det fejres. Bønderne valfartede til de større byer, og med sig bragte de, hvad der kunne undværes. Det blev ofte til et ugelangt gilde, hvor der blev delt ud af det bedste, som [[Cantua]] havde at byde på. For de få uheldige egne, blev høstfesten brugt til at finde hjælp hos de bønder, som havde klaret sig bedst.
+
+Dog er det ikke alle år, hvor høstefesten har været lige munter. Året med Den Solløse Sommer er et forfærdeligt eksempel på dette. Høsten havde slået fejl landet over, og mange stod overfor et umuligt valg, om hvem der skulle have lov til at spise den resterende smule mad, som var på lagrene. Det ledte til at mange unge forlod [[Cantua]] for at søge lykken i nabolandene, eller fandt arbejde ombord på skibe, der sejlede væk til fjerne egne. Få familier hjemme i [[Cantua]] endte med at se deres bortrejste igen, og måtte leve i håbet om, at de havde fundet et bedre liv, et sted derude.
+
+Tragedier som denne, har inspireret mange historier, sange og teaterstykker, ofte sørgelige om søfolk der er gået tabt på havet, eller nostalgiske om de bortrejste, der savner det gamle land. Kun nogle få er opmuntrende eller håbefulde, og handler ofte om et glemt barn, som endeligt vender hjem og har viden og rigdomme med sig.
+Selv i årene hvor høsten har været god, er det tradition at dele historierne og synge sangene. Det var det Cantiske folks måde at huske alle dem, som ikke kan tage del i festlighederne, og huske sig selv på, ikke at være alt for grådige til festen, da man ikke ved hvordan næste år kommer til at se ud.
+
+Nu, efter at langt størstedelen af det Cantiske folk er blevet fordrevet fra [[Cantua]], har høstfesten taget en anden form. Folk samles stadig, men selve festen mangler. Der er sjældent noget kæmpe overskud af afgrøder at dele ud af. Og dem de fejrer med er nu kun tæt familie, frem for både venner og fremmede fra fjerne egne, som det plejede at være.
+
+Et fåtal bruger høstfesten på at samles og konspirere. Diskutere hvor meget de savner det gamle land - om de så har været der eller ej. Lægge planer om at vende tilbage dertil. Overveje hvis skyld det er, at de er blevet tvunget til at forlade deres hjemstavn - og hvordan disse bør straffes.

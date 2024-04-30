@@ -28,4 +28,3 @@ Derfor har Halifax også en motivation for at kæmpe for at [[Cantua]] bliver re
 Antaget at vi spiller Pathfinder, så er vi ude i en Leshy spellcaster.
 Details TBD.
 
-
