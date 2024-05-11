@@ -1,0 +1,11 @@
+Kongeslottet, [[Cantinen]], var kongefamiliens permanente residens i [[Cantua]], og samtidigt hovedsæde for regeringen. [[Cantinen]] blev bygget af [[Cantua]]'s første konge, som forenede landet under sig.
+
+[[Cantinen]] ligger på et klippefremspring i udkanten af [[Cantua]]'s hovedstad. Herfra er der udsigt over byen, oplandet og floden, som løber forbi slottet, igennem hovedstaden og videre ud i landet.
+
+Placeringen af slottet og dets arkitektur, gør det meget let at forsvare og tilsvarende svært at angribe. På grund af placeringen på klippefremspringet, er der kun en vej ind til slottet og eventuelle angribere skal kæmpe sig op ad bakke. I samarbejde med samtlige forsvarslinjer, tykke vægge og porte, og en rute op til slottet fyldt med fælder, giver det forsvarerne en stor fordel. Den perfekte placering for et Last Stand. Men grundet kongefamiliens flugt, nåede [[Cantinen]] dog aldrig at blive brugt til sit formål.
+
+Hen over generationerne er [[Cantinen]] blevet moderniseret mange gange. Seneste tilføjelse kom efter Den Solløse Sommer. I klipperne under slottet er der blevet udgravet enorme kornkamre, som er blevet forstærket med magi, som sørger for at kornet kan holde sig unaturligt længe. Kornkamrene er derudover også blevet forseglet med magi, både for at holde skadedyr og tyve ude. 
+
+Nogle af dem, som drømmer om at tage [[Cantua]] tilbage fra [[K'Sum-klanen]], ser [[Cantinen]] med dets kornkamrende som værende en førsteprioritet. Så længe at landet er forurenet af [[K'Sum-klanen]]'s industri, kan intet gro der. Men hvis det Cantiske folk havde adgang til kornkamrene, kunne de have mad nok til et par år, før det bliver nødvendigt at kunne gro deres egen mad. Det tror de ihvertfald på. Og derfor kalder de på [[Barcelos af Cantua]] for at sende en mission afsted for at undersøge status på kornkamrene.
+
+På nuværende tidspunkt kender ingen den egentlige tilstand af kornkamrene, og selv før katastrofen, var det kun meget få, som havde set indersiden af kamrene. Kun [[Barcelos af Cantua]] havde nøglerne til dem, og kun yderst betroet personale fik mulighed for at undersøge kornet.
