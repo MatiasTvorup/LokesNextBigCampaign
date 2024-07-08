@@ -1,0 +1,1 @@
+Vi har fundet en note omkring det her, men den var fuldstændigt redacted, og vi lærte derfor ikke noget omkring det.

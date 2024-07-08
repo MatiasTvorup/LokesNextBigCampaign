@@ -1,0 +1,2 @@
+- Har tilbudt de 4 landes ledere, at give nogle forkæmpere for deres land magiske evner. Imod metafysiske betalinger.
+- Er angiveligtvis ikke en dæmon.

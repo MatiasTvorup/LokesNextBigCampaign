@@ -1,0 +1,2 @@
+- Cordes' Hero.
+- Helt fra [[Lorath]]

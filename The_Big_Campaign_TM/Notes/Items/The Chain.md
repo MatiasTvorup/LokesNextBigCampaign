@@ -1,0 +1,1 @@
+Holder [[Zeta Relk Prime - The Overmind]] fanget. Sørger for at den ikke kan eksistere i noget *reelt rum* (real space).

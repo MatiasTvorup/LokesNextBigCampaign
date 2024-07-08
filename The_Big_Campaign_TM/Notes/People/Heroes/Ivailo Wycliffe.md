@@ -1,0 +1,2 @@
+- Randers' Hero.
+- Helt fra [[Magonia]]

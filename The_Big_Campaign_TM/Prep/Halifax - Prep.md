@@ -14,9 +14,9 @@ Jeg så dværgene begynde deres invasion, da de kom i land, men jeg gjorde intet
 
 Nu har jeg arme og ben, jeg kan rejse og kæmpe, og jeg har tænkt mig at gøre det. For nogen skal møde konsekvenserne af deres handlinger.
 
-## Forhold til [[Cantua]]
-På trods af sin forbandede tilstedeværelse har Halifax en form for kærlighed eller nostalgi til [[Cantua]]. De er opvokset der mange gange - har set hvor godt folket tog sig af landet og planterne.
-Derfor har Halifax også en motivation for at kæmpe for at [[Cantua]] bliver returneret til sin originale tilstand og dets folk får mulighed for at komme tilbage.
+## Forhold til [[Cantua - Prep]]
+På trods af sin forbandede tilstedeværelse har Halifax en form for kærlighed eller nostalgi til [[Cantua - Prep]]. De er opvokset der mange gange - har set hvor godt folket tog sig af landet og planterne.
+Derfor har Halifax også en motivation for at kæmpe for at [[Cantua - Prep]] bliver returneret til sin originale tilstand og dets folk får mulighed for at komme tilbage.
 
 ## Forhold til [[Barcelos af Cantua]]
 
