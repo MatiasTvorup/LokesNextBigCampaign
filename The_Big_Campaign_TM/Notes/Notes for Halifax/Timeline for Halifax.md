@@ -183,3 +183,7 @@
 	1. "Gå ikke herind. Aldrig nogensinde. Overhovedet. I dit liv."
 2. Find ud af om [[Zeta Relk Beta]]'erne også er [[Averikari]]
 	1. Det ved bogen i biblioteket måske.
+3. Find ud af hvad, det er for et sted vi befinder os pt.
+4. Finde ud af hvem Mesteren er/var
+5. Hvorfor de kæmpede mod [[Averikari]]
+6. Hvordan de besejrede [[Averikari]]

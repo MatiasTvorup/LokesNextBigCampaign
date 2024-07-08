@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"18cc440c5fcb738f","type":"file","file":"Notes/People/People of Interest/Gnathaxxar.md","x":-1420,"y":-320,"width":400,"height":400},
+		{"id":"510796d0995708b6","type":"file","file":"Notes/People/People of Interest/G. Oslwill.md","x":-980,"y":-320,"width":400,"height":360},
+		{"id":"1d005a99037eec56","type":"file","file":"Notes/People/Zetas/Zeta Relk Prime - The Overmind.md","x":480,"y":-900,"width":400,"height":400},
+		{"id":"11ddcf467a2d1c29","type":"file","file":"Notes/Items/The Chain.md","x":-382,"y":-1300,"width":400,"height":400},
+		{"id":"69069afd0bc27d3d","type":"file","file":"Notes/People/People of Interest/Riela.md","x":-1220,"y":-980,"width":400,"height":400},
+		{"id":"d44908e03389dbde","type":"file","file":"Notes/People/Zetas/Zeta Relk Beta Alpha - The Prophet.md","x":18,"y":-160,"width":400,"height":400},
+		{"id":"c9a38ced5be9d072","type":"file","file":"Notes/People/Zetas/Zeta Relk Beta Beta - The Warrior.md","x":480,"y":-160,"width":400,"height":400},
+		{"id":"ebba1fc4df96281b","type":"file","file":"Notes/People/Zetas/Zeta Relk Beta Cata - The Shadow.md","x":940,"y":-160,"width":400,"height":400},
+		{"id":"5d821f229624337d","x":-1122,"y":-2260,"width":400,"height":400,"type":"file","file":"Notes/People/Heroes/Arcon.md"},
+		{"id":"8f34424ec0fa0b0f","x":-662,"y":-2260,"width":400,"height":400,"type":"file","file":"Notes/People/Heroes/Ganok.md"},
+		{"id":"ea0388a705a48d7c","x":-182,"y":-2260,"width":400,"height":400,"type":"file","file":"Notes/People/Heroes/Halifax.md"},
+		{"id":"6aaeda962b33b488","x":291,"y":-2260,"width":400,"height":400,"type":"file","file":"Notes/People/Heroes/Ivailo Wycliffe.md"}
+	],
+	"edges":[
+		{"id":"d1aab9a0ad5f89ce","fromNode":"69069afd0bc27d3d","fromSide":"bottom","toNode":"510796d0995708b6","toSide":"top","label":"Giver ordrer til"},
+		{"id":"2b368fa9db1dfb83","fromNode":"69069afd0bc27d3d","fromSide":"bottom","toNode":"18cc440c5fcb738f","toSide":"top","label":"Giver ordrer til"},
+		{"id":"9a36523f212215fe","fromNode":"510796d0995708b6","fromSide":"right","toNode":"11ddcf467a2d1c29","toSide":"left","label":"Leder efter"},
+		{"id":"4af64c42c76fc132","fromNode":"11ddcf467a2d1c29","fromSide":"right","toNode":"1d005a99037eec56","toSide":"top","label":"Holder fanget"},
+		{"id":"c43acf796953c134","fromNode":"1d005a99037eec56","fromSide":"bottom","toNode":"c9a38ced5be9d072","toSide":"top","label":"Har skabt"},
+		{"id":"6190208932277ec5","fromNode":"1d005a99037eec56","fromSide":"bottom","toNode":"d44908e03389dbde","toSide":"top","label":"Har skabt"},
+		{"id":"581c08f29460418e","fromNode":"1d005a99037eec56","fromSide":"bottom","toNode":"ebba1fc4df96281b","toSide":"top","label":"Har skabt"},
+		{"id":"721ed43d9f9f4a15","fromNode":"5d821f229624337d","fromSide":"bottom","toNode":"11ddcf467a2d1c29","toSide":"top","label":"Vil stjæle"},
+		{"id":"0b233c65345ecd70","fromNode":"8f34424ec0fa0b0f","fromSide":"bottom","toNode":"11ddcf467a2d1c29","toSide":"top","label":"Vil stjæle"},
+		{"id":"5f608f780e20f7fc","fromNode":"ea0388a705a48d7c","fromSide":"bottom","toNode":"11ddcf467a2d1c29","toSide":"top","label":"Vil stjæle"},
+		{"id":"dec62405615c9eba","fromNode":"6aaeda962b33b488","fromSide":"bottom","toNode":"11ddcf467a2d1c29","toSide":"top","label":"Vil stjæle"}
+	]
+}
