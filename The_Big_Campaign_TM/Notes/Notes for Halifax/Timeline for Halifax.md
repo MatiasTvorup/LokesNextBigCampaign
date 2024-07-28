@@ -15,7 +15,7 @@
 	- Det er [[Null]].
 	- Ansigtet smutter fra mit ansigt.
 	- [[The Peddler]] siger at vi skal have kronerne fra manden med måneøjnene.
-- Vi kommer hen til manden med måneøjnene.
+- Vi kommer hen til [[Manden Med Måneøjnene]].
 	- Han er kæmpestor. Øjne er literally måner. 
 	- Han er himlen!?
 	- Han hed engang [[Muanwa]].
@@ -65,8 +65,8 @@
 	- De har ikke helt så store problemer med [[Averikari]] - endnu.
 	- Vi fisker efter monster, fanger monster og laver sushi af monster.
 - Vi ankommer til [[Leswell]]
-	- Guards fortæller os at [[G. Oslwill]] har problemer i minen.
-		- [[G. Oslwill]] ejer minen og er herre over [[Leswell]]
+	- Guards fortæller os at [[Grevalt Oslwill]] har problemer i minen.
+		- [[Grevalt Oslwill]] ejer minen og er herre over [[Leswell]]
 		- Problemer med noget stort, vildt i minen.
 - Vi får job.
 	- Planen er:
@@ -75,8 +75,8 @@
 		3. Vi slagter dyret i minen.
 		4. Vi stjæler [[The Chain]] fra minen.
 		5. Vi stjæler [[The Chain]] fra mine arbejderne
-		6. Vi stjæler [[The Chain]] fra [[G. Oslwill]]
-	- [[G. Oslwill]] fortæller at arbejderne er blevet skræmt op af minen.
+		6. Vi stjæler [[The Chain]] fra [[Grevalt Oslwill]]
+	- [[Grevalt Oslwill]] fortæller at arbejderne er blevet skræmt op af minen.
 	- Hvisken i mørket, store kløer. Lidt som en krabbe, men ikke en krabbe.
 - Vi drager ned i minen.
 	- Det er bare en dude, som har narret alle minearbejderne?
@@ -116,8 +116,8 @@
 # Session 5
 - Vi sparker døren ind til et køkken.
 	- Bliver angrebet af nogle små feer
-	- Og Arkon med et meget langt navn.
-	- Ganok gør sig fjender med PETA
+	- Og [[Arcon]] med et meget langt navn.
+	- [[Ganok]] gør sig fjender med PETA
 	- Btw, vi har fightet Fae-creatures, og de er lidt underlige.
 		- Det virker til at de er lavet af modellervoks.
 - Vi bevæger os ind til et rum, med runer på gulvet og et alter.
@@ -152,7 +152,7 @@
 - Vi skal udnytte Runic Weapon og skynder os ind i et umarkeret rum.
 	- Der er skeletter som spiller kort.
 	- Vi bliver lukket forbi, fordi [[Arcon]] har forfalsket noget id.
-- Vi kommer ind til Mesteren lokale
+- Vi kommer ind til Mesterens lokale
 	- Og finder dokumenter der beskriver Zeta Relk Beta og [[Zeta Relk Prime - The Overmind]].
 	- De er delvist redacted.
 	- Der er også dokumenter omkring [[Zeta Relk Cata]], men den er fuldt redacted.
@@ -171,7 +171,7 @@
 	- Arkon har lige pludseligt et problem med en bog, som han har glemt at aflevere.
 	- Vi spørger bogen om [[Zeta Relk Prime - The Overmind]].
 		- Fortæller at det er relateret til [[The Chain]].
-		- Det var en af Anasasierne, som de skulle holde fanget.
+		- Det var en af [[Anasazi]], som de skulle holde fanget.
 		- En af de udefrakommende.
 		- Har ikke fundet nogen måde, at slå dem permanent ihjel.
 		- Der findes faciliteret ligesom denne, som holder Prime fanget.
@@ -181,9 +181,88 @@
 ## Goals:
 1. Find ud af hvad der er bag døren, med det meget uhyggelige skilt.
 	1. "Gå ikke herind. Aldrig nogensinde. Overhovedet. I dit liv."
-2. Find ud af om [[Zeta Relk Beta]]'erne også er [[Averikari]]
+2. Find ud af om [[Zeta Relk Beta]]'erne også er [[Anasazi]]
 	1. Det ved bogen i biblioteket måske.
 3. Find ud af hvad, det er for et sted vi befinder os pt.
-4. Finde ud af hvem Mesteren er/var
-5. Hvorfor de kæmpede mod [[Averikari]]
-6. Hvordan de besejrede [[Averikari]]
+4. Finde ud af hvem [[Mesteren]] er/var
+	1. Han hedder [[Galen]] aka [[Gaellartharien]].
+	2. Han researchede og skrev bøger om at skabe nyt liv.
+	3. Samarbejdede med et andet laboratorie, som lå nordøst dette sted.
+5. Hvorfor de kæmpede mod [[Anasazi]]
+	1. Bogen ved det ikke.
+	2. Krigen hed "The Emtombing War".
+6. Hvordan de besejrede [[Anasazi]]
+	1. Bogen ved det ikke.
+7. Hvem er Anasazi?
+	1. Zeta-bois er [[Anasazi]]
+## Notes
+Vi tager til [[Mesteren]]s kammer og leder efter flere clues, og finder endnu et dokument.
+- Vi finder et dokument der beskriver Chains of ___.
+- Skabt af [[Galen]]
+- Beskriver at [[The Chain]] er blevet installeret ud over [[Zeta Relk Prime - The Overmind]]'s "Containment zone".
+- "Containment zone" er over vand.
+- Der er flere [[The Chain]], brugt til at holde [[Zeta Relk Prime - The Overmind]] fanget.
+- [[The Chain]] skal holdes sikkert, så der ikke kommer nogen og ødelægger det.
+[[Arcon]] finder en medallion. 
+- Den ser gammel og faldefærdig ud.
+- Den har inskriptioner bag på.
+- Det er et navn - [[Gaellartharien]].
+- Minder om et ID.
+Vi tager til armory, for at tage en ballista med til dont go here room.
+Vi stiller ballistaen op i gangen til Dont Go Here Door, og åbner døren.
+- Der er en statue med maske på den anden side af døren.
+- Den siger at vi skal lukke døren, og ikke må passere.
+- Endnu en gang går vi imod meget tydligere instruktioner, og har måske fordømt os selv.
+- [[Ivailo Wycliffe]] er human shield, men det er OK, for ballistaen gør stor dum damage.
+- Statue trækker Uno Reverse og sender en ballista bolt tilbage i ansigtet på [[Arcon]]
+- Ballista gør stor dum damage.
+- Statuen havde et nice sværd
+Rummet vi ikke måtte gå ind i er tomt, men der er døre i den anden ende. Der står "Chamber of [[The Chain]]" over dørene. 
+- I rummet er der et stort hul, som går både ned gennem gulvet og op gennem loftet.
+- [[The Chain]] er spænd op, ned gennem hullet.
+- Kæden er meget stor og tung, og vi kan nok ikke rigtigt stjæle den alligevel.
+- Så vi er lidt lost.
+De andre har hørt nogen stemmer et sted med en dyb kløft. Så det undersøger vi, for at se, om vi kan finde flere ledetråde.
+- Vi smider en rustning ned, for at finde ud af hvor dybt der er.
+- Rustningen får stemmerne til at panikke og stoppe.
+- Jeg klatrer ned.
+- Jeg snakker med stemmerne og inviterer dem med op ovenpå.
+- Vi kommer op, og ser at stemmerne kommer fra nogle underlige smooth, white bois.
+- De kender mesteren.
+	- [[Mesteren]] har lavet dem.
+Vi undersøger laboratoriet uden ret mange resultater, så vi tager en lur i barrakkerne.
+Vi hører en eksplosion, det er [[K'Sum-klan]]s maskiner, som er nede i grotten.
+- De kæmper mod [[Greffen-Gornenheim]]s folk.
+- Vi er klar til kæmpe mod dem, og lede de våde drenge ud.
+- Vi bliver instantly blinded af en friendly [[Greffen-Gornenheim]]er.
+- Glub Glub er en fucking tank.
+Vi banker dem og finder et brev.
+- De er kommet for at tage prøver af [[The Chain]]
+# Session 7
+## Goals
+- Sørg for at andre ikke kan få adgang til [[The Chain]]
+	- [x] Dør sprunget i luften
+- Tag prøve af [[The Chain]]
+	- Udstyr gået i stykker. Lootet, men broken.
+- Hvad skal [[K'Sum-klan]] med [[The Chain]]
+- Hvad er [[The Device]]
+- Hvad/hvor er [[Unkla Kesh]]
+- Hvem er [[Tholk ga Voramm]]
+- Hvem er [[Forgemaster Swoutom]]
+## Notes
+Vi looter [[K'Sum-klan]]-dværgen, som var kommet for at tage prøver af [[The Chain]] - og finder et apparat, som kan tage prøver. Under kamp er apparatet blevet ødelagt. [[Ivailo Wycliffe]] kan måske reparere det, men ikke lige her og lige nu.
+
+Vi sprænger døren i luften. Healer op. Og bevæger os tilbage op mod overfladen. Der kommer nogle minearbejdere ned, og vi scammer dem, til at smutte tilbage mod overfladen.
+
+Vi venter lidt, med at re-surface. Og har planer om at fortælle, at dværgene stadig arbejder med deres minearbejde. Eksplosion pga fuel-leak.
+
+Endeligt kommer vi til overfladen. Og snakker med nogle lokale, som er skuffede over at dværgene er OK. Minearbejderne er [[Sparitanere]]. Og de er fucking klar til at lave oprør.
+
+Vi beder om betaling og [[Grevalt Oslwill]] vil ikke betale uden beviser, så han sender nogle folk ned i minen. Vi venter til de er væk, og begynder at udspørge ham om [[The Eight Hands]] og [[Riela]]. Han bliver ret panisk, og spørger om vi er blevet sendt af [[Uduun of Ghathoth]] og [[Søstrene]].
+
+[[Grevalt Oslwill]]'s grævling bliver mega-mad, trækker en kniv på os og turbocritter. 
+Det ender med at [[Grevalt Oslwill]] begår sudoku, for at vi ikke kommer til at kende [[The Eight Hands]] hemmeligheder.
+
+På [[Grevalt Oslwill]]'s kontor er en mand igang med at destruere dokumenter. Vi finder et nyt dokument. Og en tjener, som bliver remote-nakket, hvis han siger for meget. Vi vil tage ham the [[Last Hope]], for at få ham fixet, så han kan få lov til at snakke.
+
+Der bliver oprettet en outpost i [[Leswell]], og så rejser vi hjemad.

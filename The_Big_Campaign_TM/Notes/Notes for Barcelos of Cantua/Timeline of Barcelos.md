@@ -32,7 +32,7 @@ Make sure that no matter what, the people of Last Hope are ignorant about our ef
 
 If things continue at its current pace we should reach it within a fortnight. 
 
-[[G. Oslwill]]
+[[Grevalt Oslwill]]
 
 ---
 - Vi beslutter at sende vores heros til [[Leswell]].
@@ -40,4 +40,10 @@ If things continue at its current pace we should reach it within a fortnight.
 	- Det er pt. ikke nødvendigt, at jage [[Artemvores]], da de allerede har lidt nok skade i angrebet på [[Last Hope]].
 # Session 4
 - Jeg er fraværende
-# Session 5
+# Session 7
+## [[Averikari]] Activity West of [[Last Hope]]
+Der bliver smuglet folk ud af [[Last Hope]], til en fangelejr, videre til [[Corinthar]]. Derudover finder de også et hemmeligt brev.
+### Brev
+Greeting [[Maravek vo Durillio]]
+I have spoken with The Veil and she have assured me that things are going according to plan on their end. The [[House Of Deliverance]] tells me that Thal will start processing people quickly soon, so we can get the cores to our short allies. Hopefully their machine can be ready soon. We also have some leads regarding where the shadow is being held and will seek to free them soon, Im sure the Prophet will be pleased to hear this.
+-Your Loyal Servant [[Riela]]

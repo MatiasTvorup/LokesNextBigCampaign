@@ -9,7 +9,7 @@ Udover at lede efter en besværgelse der kan befri dem, er Halifax også dybt in
 For eksempel har Halifax været tæt ved at komme op at slås med landmænd, når de ser dem høste deres afgrøder. Det har bragt ubehagelige minder frem, om nogle af de gange, hvor Halifax er blevet fældet eller høstet. Selvom de stadig leder efter "den rigtige måde at de på", har ingen af deres tidligere dødsfald været behagelige eller direkte ønskede på daværende tidspunkt.
 Derudover har Halifax også ret svært ved at forstå meningen med erhverv der ikke er involveret i landbrug. 
 
-## Forhold til [[K'Sum-klanen]]
+## Forhold til [[K'Sum-klanen - story]]
 Jeg så dværgene begynde deres invasion, da de kom i land, men jeg gjorde intet, for jeg var en hybenbusk på stranden. Jeg hørte hvordan de overtog landet, men jeg gjorde intet, for jeg var et kornstrå på marken. Jeg opdagede hvordan de byggede krigsmaskiner, men jeg gjorde intet, for jeg var mos på hulevæggen. Jeg forstod hvordan de havde infiltreret regeringen, men jeg gjorde intet, for jeg var en cikorie-blomst i vindueskarmen. Jeg så hvordan de ødelagde landet, men jeg gjorde intet, for jeg var et æbletræ uden for byens mure.
 
 Nu har jeg arme og ben, jeg kan rejse og kæmpe, og jeg har tænkt mig at gøre det. For nogen skal møde konsekvenserne af deres handlinger.

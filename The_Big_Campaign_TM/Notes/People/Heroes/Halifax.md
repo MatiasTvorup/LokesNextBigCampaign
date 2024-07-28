@@ -1,0 +1,1 @@
+Er et besat lille fugleskræmsel fra [[Cantua]]

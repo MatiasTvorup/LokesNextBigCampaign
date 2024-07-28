@@ -1,0 +1,3 @@
+- Er et sted?
+- Kan tilgås fra en rød dør i [[Last Hope]]
+	- [[The Peddler]] kan finde derhen.
