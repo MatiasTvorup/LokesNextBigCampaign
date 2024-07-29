@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"a19f89e931327530","x":-2880,"y":-1360,"width":1160,"height":2640,"color":"3","type":"group","label":"Human Trafficking Business"},
+		{"id":"a19f89e931327530","type":"group","x":-3440,"y":-1360,"width":1920,"height":2640,"color":"3","label":"Human Trafficking Business"},
 		{"id":"7815f633fd0ad0bf","type":"group","x":480,"y":-1360,"width":1580,"height":1300,"color":"6","label":"Udefrakommende"},
 		{"id":"f137016297761092","type":"group","x":-440,"y":360,"width":1280,"height":1360,"color":"1","label":"K'Sum Business"},
 		{"id":"89ed27e8ef07f369","type":"group","x":-1160,"y":-2480,"width":1960,"height":680,"color":"4","label":"Heroes"},
@@ -17,21 +17,22 @@
 		{"id":"a0de7814e813ec54","type":"file","file":"Notes/Items/The Device.md","x":398,"y":400,"width":400,"height":400},
 		{"id":"599d2b8501d1188e","type":"file","file":"Notes/People/People of Interest/Tholk ga Voramm.md","x":-1082,"y":400,"width":400,"height":400},
 		{"id":"510796d0995708b6","type":"file","file":"Notes/People/People of Interest/Grevalt Oslwill.md","x":-1082,"y":-180,"width":400,"height":360},
-		{"id":"18cc440c5fcb738f","type":"file","file":"Notes/People/People of Interest/Gnathaxxar.md","x":-1720,"y":-2260,"width":400,"height":400},
-		{"id":"58ba41a34cd8ce5e","type":"file","file":"Notes/People/Enemies/Artemvores.md","x":-1720,"y":-2840,"width":400,"height":400},
-		{"id":"3bbd3860b29c0bfe","type":"file","file":"Notes/People/People of Interest/Maravek vo Durillio.md","x":-2160,"y":-1280,"width":400,"height":400},
-		{"id":"7d01aadcc27e6b01","type":"file","file":"Notes/People/Factions/House Of Deliverance.md","x":-2720,"y":-1280,"width":400,"height":400},
-		{"id":"d2263b868c5e860e","type":"file","file":"Notes/People/People of Interest/Thal.md","x":-2160,"y":840,"width":400,"height":400},
-		{"id":"69069afd0bc27d3d","type":"file","file":"Notes/People/People of Interest/Riela.md","x":-1082,"y":-1280,"width":400,"height":400},
 		{"id":"5d821f229624337d","type":"file","file":"Notes/People/Heroes/Arcon.md","x":-1082,"y":-2380,"width":400,"height":400},
 		{"id":"8f34424ec0fa0b0f","type":"file","file":"Notes/People/Heroes/Ganok.md","x":-622,"y":-2380,"width":400,"height":400},
 		{"id":"ea0388a705a48d7c","type":"file","file":"Notes/People/Heroes/Halifax.md","x":-142,"y":-2380,"width":400,"height":400},
 		{"id":"6aaeda962b33b488","type":"file","file":"Notes/People/Heroes/Ivailo Wycliffe.md","x":331,"y":-2380,"width":400,"height":400},
-		{"id":"9e60dd96a6bff9a2","x":-382,"y":-1880,"width":400,"height":50,"color":"#0000ff","type":"text","text":"# UN Peacekeeping Forces"}
+		{"id":"9e60dd96a6bff9a2","type":"text","text":"# UN Peacekeeping Forces","x":-382,"y":-1880,"width":400,"height":50,"color":"#0000ff"},
+		{"id":"d2263b868c5e860e","type":"file","file":"Notes/People/People of Interest/Thal.md","x":-2720,"y":840,"width":400,"height":400},
+		{"id":"18cc440c5fcb738f","type":"file","file":"Notes/People/People of Interest/Gnathaxxar.md","x":-2000,"y":-2080,"width":400,"height":400},
+		{"id":"58ba41a34cd8ce5e","type":"file","file":"Notes/People/Enemies/Artemvores.md","x":-2000,"y":-2660,"width":400,"height":400},
+		{"id":"b7178157b897a029","x":-4000,"y":0,"width":400,"height":400,"type":"file","file":"Notes/People/People of Interest/The Veil.md"},
+		{"id":"7d01aadcc27e6b01","type":"file","file":"Notes/People/Factions/House Of Deliverance.md","x":-3280,"y":0,"width":400,"height":400},
+		{"id":"3bbd3860b29c0bfe","type":"file","file":"Notes/People/People of Interest/Maravek vo Durillio.md","x":-2720,"y":0,"width":400,"height":400},
+		{"id":"e6eb979287667593","x":-3280,"y":-700,"width":400,"height":400,"type":"file","file":"Notes/People/People of Interest/Velanon.md"},
+		{"id":"69069afd0bc27d3d","type":"file","file":"Notes/People/People of Interest/Riela.md","x":-2000,"y":-700,"width":400,"height":400},
+		{"id":"138081d0dfbaf76f","x":-3360,"y":-1280,"width":400,"height":400,"type":"file","file":"Notes/Places/Camp Sgarya.md"}
 	],
 	"edges":[
-		{"id":"d1aab9a0ad5f89ce","fromNode":"69069afd0bc27d3d","fromSide":"bottom","toNode":"510796d0995708b6","toSide":"top","label":"Giver ordrer til"},
-		{"id":"9a36523f212215fe","fromNode":"510796d0995708b6","fromSide":"right","toNode":"11ddcf467a2d1c29","toSide":"bottom","label":"Ledte efter"},
 		{"id":"4af64c42c76fc132","fromNode":"11ddcf467a2d1c29","fromSide":"right","toNode":"1d005a99037eec56","toSide":"left","label":"Holder fanget"},
 		{"id":"75e01fb9e3157ec4","fromNode":"18cc440c5fcb738f","fromSide":"top","toNode":"58ba41a34cd8ce5e","toSide":"bottom","label":"General for"},
 		{"id":"2b368fa9db1dfb83","fromNode":"69069afd0bc27d3d","fromSide":"top","toNode":"18cc440c5fcb738f","toSide":"bottom","label":"Giver ordrer til"},
@@ -42,11 +43,17 @@
 		{"id":"1f47b3fd4a2a3512","fromNode":"599d2b8501d1188e","fromSide":"right","toNode":"e146b7a80d09b426","toSide":"left","label":"Har hjulpet"},
 		{"id":"98b0dbfe847fc6ba","fromNode":"fb7cc3134143e83d","fromSide":"top","toNode":"e146b7a80d09b426","toSide":"bottom","label":"Kender til deres arbejde"},
 		{"id":"29b0d89358873bf4","fromNode":"e146b7a80d09b426","fromSide":"right","toNode":"a0de7814e813ec54","toSide":"left","label":"Udvikler"},
-		{"id":"dc73c1e667c72fe8","fromNode":"599d2b8501d1188e","fromSide":"top","toNode":"510796d0995708b6","toSide":"bottom","label":"Kender/Kommunikerer med"},
-		{"id":"2f1b0d27b4af4456","fromNode":"3bbd3860b29c0bfe","fromSide":"right","toNode":"510796d0995708b6","toSide":"top","label":"Giver ordrer til"},
 		{"id":"5561284d6589fbd8","fromNode":"3bbd3860b29c0bfe","fromSide":"right","toNode":"69069afd0bc27d3d","toSide":"left","label":"Giver ordrer til"},
 		{"id":"49c5dce714dde95e","fromNode":"d2263b868c5e860e","fromSide":"right","toNode":"f137016297761092","toSide":"left","label":"Laver \"Cores\" til"},
 		{"id":"3213360412cc4d45","fromNode":"3bbd3860b29c0bfe","fromSide":"bottom","toNode":"d2263b868c5e860e","toSide":"top","label":"Sender mennesker til"},
-		{"id":"f938022a6ef50a53","fromNode":"9e60dd96a6bff9a2","fromSide":"bottom","toNode":"11ddcf467a2d1c29","toSide":"top","label":"Beskytter"}
+		{"id":"f938022a6ef50a53","fromNode":"9e60dd96a6bff9a2","fromSide":"bottom","toNode":"11ddcf467a2d1c29","toSide":"top","label":"Beskytter"},
+		{"id":"9a36523f212215fe","fromNode":"510796d0995708b6","fromSide":"right","toNode":"11ddcf467a2d1c29","toSide":"bottom","label":"Ledte efter"},
+		{"id":"dc73c1e667c72fe8","fromNode":"599d2b8501d1188e","fromSide":"top","toNode":"510796d0995708b6","toSide":"bottom","label":"Kender/Kommunikerer med"},
+		{"id":"d1aab9a0ad5f89ce","fromNode":"69069afd0bc27d3d","fromSide":"bottom","toNode":"510796d0995708b6","toSide":"top","label":"Gav ordrer til"},
+		{"id":"2f1b0d27b4af4456","fromNode":"3bbd3860b29c0bfe","fromSide":"right","toNode":"510796d0995708b6","toSide":"top","label":"Gav ordrer til"},
+		{"id":"c955faa84de6d79a","fromNode":"e6eb979287667593","fromSide":"right","toNode":"69069afd0bc27d3d","toSide":"left","label":"Arbejder med"},
+		{"id":"3a76a26fa6a6221a","fromNode":"e6eb979287667593","fromSide":"bottom","toNode":"7d01aadcc27e6b01","toSide":"top","label":"Vil lukke"},
+		{"id":"284759d115fb9f00","fromNode":"b7178157b897a029","fromSide":"right","toNode":"7d01aadcc27e6b01","toSide":"left","label":"Styrer"},
+		{"id":"39b4f571bf1511d1","fromNode":"a19f89e931327530","fromSide":"top","toNode":"138081d0dfbaf76f","toSide":"top","label":"Foregår i"}
 	]
 }

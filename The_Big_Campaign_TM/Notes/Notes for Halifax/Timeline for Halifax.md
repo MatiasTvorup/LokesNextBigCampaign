@@ -265,4 +265,14 @@ Det ender med at [[Grevalt Oslwill]] begår sudoku, for at vi ikke kommer til at
 
 På [[Grevalt Oslwill]]'s kontor er en mand igang med at destruere dokumenter. Vi finder et nyt dokument. Og en tjener, som bliver remote-nakket, hvis han siger for meget. Vi vil tage ham the [[Last Hope]], for at få ham fixet, så han kan få lov til at snakke.
 
-Der bliver oprettet en outpost i [[Leswell]], og så rejser vi hjemad.
+Der bliver oprettet en outpost i [[Leswell]] & [[Thenbel]], og så rejser vi hjemad.
+# Session 8
+Vi rejser ud mod fangelejren. Vi bliver forfulgt af nogle gutter, som meget gerne vil have vores hoveder. Og de leaker, at fangelejren hedder [[Camp Sgarya]]. Vi tog 2 fanger, og fandt et brev.
+Sendt af [[Riela]]. Siger at vi skal nakkes, og at [[Velanon]] siger at [[House Of Deliverance]] skal nedlægges.
+Headkickersne, som angreb os, skulle samles på [[Det Knækkede Horn]]. [[Riela]] kommer også her.
+Vores fange fortæller os, at vi bliver overvåget i [[Last Hope]]. De ved ikke om, de er blevet hyret af [[Riela]] eller [[The Veil]].
+Vi overbeviser dem om, at slutte sig til outposten i [[Thenbel]].
+
+Vi ankommer til [[Camp Sgarya]]. Der er fængselstelte, med fanger i. Vi laver et rigtigt dårligt bagholdsangreb. [[Ivailo Wycliffe]] stjæler drageblod og [[Arcon]] er mad. Vi nakker sovende mennesker og befrier fanger. Nogen gange bliver fangerne sendt afsted for at blive processeret i [[Cantua]].
+Nogle af fangerne arbejdede i [[Unkla Kesh]]
+[[Arcon]] har title-dickmeasuring contest med en eller anden drage. [[Dratharnus the Blight]].
