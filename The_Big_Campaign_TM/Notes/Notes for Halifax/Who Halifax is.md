@@ -1,0 +1,3 @@
+- Har ikke længere tillid til [[Arcon]], [[Ivailo Wycliffe]] og [[Ganok]]
+	- Har solgt sin tillid til [[The Peddler]]
+	- De er bare med, fordi at regenter har bestemt at de skal med.

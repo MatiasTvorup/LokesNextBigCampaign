@@ -276,3 +276,41 @@ Vi overbeviser dem om, at slutte sig til outposten i [[Thenbel]].
 Vi ankommer til [[Camp Sgarya]]. Der er fængselstelte, med fanger i. Vi laver et rigtigt dårligt bagholdsangreb. [[Ivailo Wycliffe]] stjæler drageblod og [[Arcon]] er mad. Vi nakker sovende mennesker og befrier fanger. Nogen gange bliver fangerne sendt afsted for at blive processeret i [[Cantua]].
 Nogle af fangerne arbejdede i [[Unkla Kesh]]
 [[Arcon]] har title-dickmeasuring contest med en eller anden drage. [[Dratharnus the Blight]].
+
+# Session 9
+## Raid on [[Camp Sgarya]]
+Vi er i [[Camp Sgarya]], hvor vi looter et telt med en note. Den skal til [[Last Hope]] for at blive dekodet. 
+
+Der kommer en mand fra åbningen af slave-hulen. Hans mester er [[Yuvinon von Gavigar]] og [[Averikari]], og så er han også en del af [[Uduun of Ghathoth]]. Han har et tilbud; han vil gerne have at vi afskaffer [[Riela]], og til gengæld vil han slipper fangerne fra [[Camp Sgarya]] fri. Han fortæller at [[Riela]] og [[The Eight Hands]] er påvej til at få for meget magt, og det vil de gerne stoppe. 
+Vi vil gerne tage imod opgaven, hvis de vil fortælle os, hvad de skulle bruge fangerne til.
+Folkene i [[Corinthar]], [[Thal]] og hans venner, skal bruge menneskerne til at ødelægge noget "meget solidt". De kan konvertere mennesker til energikilder. Menneskerne bliver fodret til et stort bæst, som laver dem til energi.
+Spørger om vi har fundet flere. FLERE HVAD!?
+
+Vi tager 200 befriede fanger med fra [[Camp Sgarya]] til [[Last Hope]].
+## Message fra [[Tholk ga Voramm]]
+Vi har dekodet et brev, fra [[Tholk ga Voramm]] til [[Yuvinon von Gavigar]], som fortæller at deres operation går godt, og at [[K'Sum-klan]]en snart skal "forsøges for", og at de måske har fundet endnu en [[The Chain]] ved bjergene nær [[Kruma Pra'ga]]. Derudovar leder [[Gnathaxxar]] for [[Devla Vaults]].
+En sidste note siger, at [[Camp Sgarya]] skal lukkes, og at [[Yuvinon von Gavigar]] skal stikke af, så hvad han har på sig, ikke falder i vores hæmder.
+## Magonia info
+Magonia har giga storm, og derfor bygger folk ikke huse. Kun mega-frysere. Der er gamle ruiner rundt i landet. Man går ikke ind i dem, fordi de er hjemsøgte af onde ånder. Det er dårligt tegn bare at se dem. Stormen kom til [[Magonia]] for at straffe det onde folk, som har bygget ruinerne.
+## Corinthar Raider [[House Of Deliverance]]
+Her er fucking tomt. Finder nogle narkomaner og efterladte dragefolk. [[Arcon]] er løbet tør for nåde og begynder at henrette folk.
+## The return of the peddler
+En rød dør dukker op i [[Last Hope]], som leder os til en stor græsmark. En stemmer spørger til vores sko. Og [[The Peddler]] får os væk meget hurtigt, for at vi ikke skal svare om vores sko. Vi ender i en ubåd fyldt med lig istedet.
+Jeg bytter min tillid til [[Ivailo Wycliffe]], [[Arcon]] og [[Ganok]], for information om [[Anasazi]]erne.
+Han fortæller at [[Anasazi]] er det modsatte af ham. Han er skaber, de er ødelæggere. [[The Peddler]] har spærret dem inde.
+
+# Session 10
+## [[Riela]] Assassination attempt
+En ulækker gut fortæller os, at det hele er gjort klart. Nu er det tid til at begå murderhobo på [[Riela]] fordi det har vi lovet. Vi kommer til en kro, og går ligeså stille indenfor, for at stille nogle spørgsmål - og får at vide, at dem som stiller spørgsmål for bank. Men heldigvis har vi et uno reverse kort med.
+
+[[Riela]] fortæller at hun tjener [[The Eight Hands]]. Og at [[Zeta Relk Beta Alpha - The Prophet]] og de fremmede har taget overhånd. De vil beskytte [[Velekia]] - overtage måske.
+Hun summoner en angry kat, som næsten nakker os, men vi nakker hende først. Så nu er vores fjender glade.
+Vi gennemsøger lokalet, og finder mange noter, som nævner [[Velanon]] og [[The Veil]]. 
+Kroen her var ikke hendes primære tilholdssted - det mangler vi stadig at finde.
+
+## Interview af magic tattoo man
+Han kom fra [[Leswell]], og har nogle tatoveringer, som gjorde at han ikke kunne sige noget, uden at tatoveringerne fucking nakker ham. [[Ivailo Wycliffe]] prøver at finde ud af noget, men ruller fordær
+# Session 11
+## Pre-session huskeliste
+- [ ] Send soldiers til [[Leswell]]
+- [ ] Overvej at tage til [[Leswell]] for at tage en prøve af [[The Chain]]

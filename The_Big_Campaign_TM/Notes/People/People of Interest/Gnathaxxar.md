@@ -2,3 +2,5 @@ Har modtaget et brev med ordrer fra en, hvis initialer var "R.". Dette kan poten
 Gnathaxxar har indtaget en "Vessel", som har krævet mange ressourcer at lave.
 
 - Er general/leder af [[Artemvores]]
+
+Er stukket af til [[Magonia]]

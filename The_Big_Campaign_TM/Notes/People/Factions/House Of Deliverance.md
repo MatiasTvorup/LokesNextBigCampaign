@@ -4,4 +4,4 @@
 - Er et sted der caterer til nydelse.
 	- Fest, mad and stuff?
 # Conspiracy
-- Kender the [[Thal]] og hvordan han processerer fanger.
+- Kender til [[Thal]] og hvordan han processerer fanger.

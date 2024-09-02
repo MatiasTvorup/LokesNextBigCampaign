@@ -1,6 +1,6 @@
 # Confirmed
 - Evil guy from [[Corinthar]]
+- Fodrer mennesker til et stort bæst, for at konvertere dem til energi, som så skal bruges til at smadre noget meget solidt.
 
 # Conspiracy
-- Styrer en fangelejr - [[Camp Sgarya]]
-	- Hvor mennesker skal "processeres" for at lave "cores" som skal til [[K'Sum-klan]]en for at få deres maskine til at fungere.
+- Vil smadre [[The Chain]]?

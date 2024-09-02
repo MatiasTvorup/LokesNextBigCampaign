@@ -2,3 +2,6 @@
 - Er angiveligtvis ikke en dæmon.
 - Er low key insane.
 	- Siger at 
+- Er skaberer
+	- Det modsatte af [[Anasazi]]er.
+- Har været i krig med [[Anasazi]]

@@ -5,3 +5,4 @@
 - Arbejder sammen med [[Velanon]]
 - Kommer fra [[Lorath]].
 - Er [[Averikari]]
+- Er del af [[The Eight Hands]]
