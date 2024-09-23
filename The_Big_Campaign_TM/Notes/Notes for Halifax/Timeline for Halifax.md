@@ -309,8 +309,78 @@ Vi gennemsøger lokalet, og finder mange noter, som nævner [[Velanon]] og [[The
 Kroen her var ikke hendes primære tilholdssted - det mangler vi stadig at finde.
 
 ## Interview af magic tattoo man
-Han kom fra [[Leswell]], og har nogle tatoveringer, som gjorde at han ikke kunne sige noget, uden at tatoveringerne fucking nakker ham. [[Ivailo Wycliffe]] prøver at finde ud af noget, men ruller fordær
+Han kom fra [[Leswell]], og har nogle tatoveringer, som gjorde at han ikke kunne sige noget, uden at tatoveringerne fucking nakker ham. [[Ivailo Wycliffe]] prøver at finde ud af noget, men ruller forfærdeligt.
+
+## Arcons Religious Quest
+Find [[Syte Harvel Quintel]], som befinder sig i den sydvestlige del af sector H4.
 # Session 11
 ## Pre-session huskeliste
 - [ ] Send soldiers til [[Leswell]]
 - [ ] Overvej at tage til [[Leswell]] for at tage en prøve af [[The Chain]]
+## Rejse til [[Cantua]]
+Ankommer til [[Unkla Kesh]]. Stor fabrik. Shantytown omkring hedder [[Kishwanom]]. Dværgene tilbyder af og til jobs i [[Kishwanom]], som fabriksarbejdere. Dette er et ret prestigefyldt job, da det nærmest er den eneste vej til at få mad.
+[[Natas Sønner]] holder til her. De er ledt af [[Valek de Brada]] og er lokal frihedskæmpere, de er meget anti-[[Last Hope]]-folk.
+Dværgene leder efter frivillige til at rejse til [[Argar-skoven]] og dræbe monsteret "Slim-moderen", som er naturens ånder, der svarer tilbage mod en jern-mine, som ødelægger skoven.
+
+Dværgene vil henrette nogen ved hængning. Det var en spion fra [[Last Hope]]. Vi redder dem.
+
+Vi bliver ledt til et møde med [[Natas Sønner]]. De vil gerne være med til at lave ravage i [[Unkla Kesh]].
+De fortæller at mennesker bliver sendt til [[Garak Kvoor]], hvor der bliver lavet grusomme eksperimenter. De forsøger at lave menneskelige robotter.
+
+Vi lægger en battleplan, for at komme ind i frabrikken.
+1. Tag til minen [[Pivu Tivl]] i [[Argar-skoven]]
+2. Stjæl en vogn
+3. Stik af
+4. Fyld vognen med sten
+5. Kør til frabrikken
+## Heist-Time
+Vi rejser mod [[Pivu Tivl]] for at stjæle en vogn. Vi møder et træ, som tager os til [[Cantua]]s moder. Et træ dybt inde i sumpen ved [[Argar-skoven]], som har planer om at begå folkemord på alle, der ikke er en plante. Det vil vi gerne være med til, så vi lægger os til at sove under træ-moderens rødder.
+
+Jeg husker, at man kan lave et ritual, som gør onde ånder gode igen. Men for [[Cantua]]s moders vedkommende, kræver det at man besejrer kroppen, for at ånden kan omvendes.
+
+Træerne angriber [[Pivu Tivl]] og vi er med. Der er en mand i en stor robot, som vi skal fighte i starten af næste session.
+# Session 12
+## Pre-session huskeliste
+- [x] Send soldier til [[Leswell]]. Det koster kingdom actions.
+	- [[Leswell]] blev angrebet, men de mistede ikke nogen folk.
+- [ ] Gør træet, [[Cantua]]s moder, god igen.
+## Kamp ved [[Pivu Tivl]]
+Å nej. Vi skal slås mod en gravko.
+
+Vi overbeviser et træ, om at vi godt må tage en(1) fange.  Jeg lover at komme tilbage til Modertræet i [[Argar-skoven]] med resultater.
+
+Vi skal bruge ham til at køre vognen med jernmalm til [[Unkla Kesh]]. På vej mødes vi med [[Natas Sønner]], som giver os Frost Vials, som vi skal bruge til at smadre fabrikken.
+
+Vores gode dværge-ven sniger os helt ind i [[Unkla Kesh]], hvor [[Forgemaster Swoutom]] er igang med at fodre kul til noget, som [[Arcon]] synes lyder som en drage.
+Turns out; det er en fucking drage. Og en maskine. Samtidigt.
+Og den giver os mega-bank. Hero points redder ingen røve her. The timeline is set in stone.
+
+Under kampen var der en gut, som åbnede en dør til døds-drage-rummet, siger "Fuck this shit im out", og smutter tilbage ud gennem en escape hatch. Antager at dette er [[Forgemaster Swoutom]]. I [[Forgemaster Swoutom]]
+
+# Session 13
+## Pre-session huskeliste
+- [ ] Find ud af om dragen var det bæst, som laver cores.
+- [ ] Tag beviser på K'Sum-bad guys activity til [[Cantua]]s modertræ.
+	- Bed om blessing til at fortsætte korstog gennem [[Cantua]]
+- Cordes får en free fucking scout action med garanteret success.
+
+## Vi har fået post
+Det er krypteret. Det er til [[Thal]] fra [[Yuvinon von Gavigar]].
+
+```
+Greetings [[Thal]]
+
+I am writing to inform you that I will take [[Riela]]s position as it have recently been vacated, I will handle communication going to [[Last Hope]], I ill make sure to send multiple messengers in case they get snatched so we dont lose information.
+
+In other news I want to pass along a note from your eastern allies, and say that they appreciate the cores you have been sending and have found many uses for them outside of powering the [[Moor Iconoclast]], apparently they can even power whole factories, the dwarves have taken to calling them [[Dragon Cores]].
+
+I also understand that this arrangement have been very profitable for you and your lord, I hear [[The Great Dragon]] have gained much power and shed its former skin and name.
+
+Our Scryers have also located something very important, the location of where [[Zeta Relk Beta Cata - The Shadow]] is imprisoned, the foreigners tell me that [[Zeta Relk Beta Alpha - The Prophet]], wants this to be done quick. There is a collection of ruins near the mountains inside the forest, that lies north-east of [[Krato]], send some surveyors to check it out and let us know once you have found it, [[Zeta Relk Beta Alpha - The Prophet]] says he would like to be there personally to wake [[Zeta Relk Beta Cata - The Shadow]].
+
+That is all for new -o-
+
+[[Yuvinon von Gavigar]]
+```
+
+## Tilbage til [[K'Sum-klan]] fabrikken i [[Unkla Kesh]]

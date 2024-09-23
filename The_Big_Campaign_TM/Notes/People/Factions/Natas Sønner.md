@@ -1,0 +1,3 @@
+- Holder til i [[Unkla Kesh]] og [[Kishwanom]]
+- Er frihedskæmpere inspireret af [[Pastel de Nata]]
+- Er virkeligt meget ikke fans af folk fra [[Last Hope]]

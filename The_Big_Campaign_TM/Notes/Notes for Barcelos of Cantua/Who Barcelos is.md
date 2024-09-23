@@ -1,3 +1,4 @@
 - Han har INGEN skam og skyldfølelse. Overhovedet. [[The Peddler]] har taget den.
 - Er et svin overfor sin datter, [[Prinsesse Lousada]].
 	- Har lovet hende væk til en gammel, nobel mand - i bytte for et fuckton penge, og at blive mere populær blandt folket.
+- "Øjet holder øje med mig". Han er paranoid.

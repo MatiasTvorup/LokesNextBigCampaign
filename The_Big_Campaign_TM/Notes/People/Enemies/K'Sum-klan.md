@@ -7,8 +7,21 @@ Abilities:
 - Flamethrower
 
 # Soldier
-Weakest save:
+Weakest save: Will
 Weaknesses:
 Resistances:
 Abilities:
-- 
+
+# PWR-rod
+*Electro bot*
+Weakest save: Will & Reflex
+Weaknesses: Earth damage, maybe bludgeoning
+Resistances:
+Abilities:
+
+# Bruiser:
+Weakest save: 
+Weaknesses: Electricity
+Resistances:
+Abilities:
+- Attack of opportunity
