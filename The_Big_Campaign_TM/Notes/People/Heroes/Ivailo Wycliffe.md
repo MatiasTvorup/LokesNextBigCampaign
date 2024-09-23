@@ -1,2 +1,3 @@
 - Randers' Hero.
 - Helt fra [[Magonia]]
+- Er honorable træ.

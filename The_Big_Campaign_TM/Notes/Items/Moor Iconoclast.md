@@ -1,0 +1,2 @@
+- Bliver powered af [[Dragon Cores]].
+- Er højst sandsynligt [[The Device]].

@@ -1,1 +1,3 @@
 - Eller bare Cores.
+- Bliver brugt til at give energi til [[Moor Iconoclast]]
+	- [[K'Sum-klan]] bruger dem også til andre ting.

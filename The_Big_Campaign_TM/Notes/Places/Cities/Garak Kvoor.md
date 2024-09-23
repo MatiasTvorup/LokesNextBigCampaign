@@ -1,0 +1,3 @@
+- Ligger i [[Cantua]].
+- Er også en fabrik.
+- Her laver de [[Meekamiks]]

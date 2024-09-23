@@ -355,7 +355,7 @@ Vores gode dværge-ven sniger os helt ind i [[Unkla Kesh]], hvor [[Forgemaster S
 Turns out; det er en fucking drage. Og en maskine. Samtidigt.
 Og den giver os mega-bank. Hero points redder ingen røve her. The timeline is set in stone.
 
-Under kampen var der en gut, som åbnede en dør til døds-drage-rummet, siger "Fuck this shit im out", og smutter tilbage ud gennem en escape hatch. Antager at dette er [[Forgemaster Swoutom]]. I [[Forgemaster Swoutom]]
+Under kampen var der en gut, som åbnede en dør til døds-drage-rummet, siger "Fuck this shit im out", og smutter tilbage ud gennem en escape hatch. Dette er [[Forgemaster Swoutom]].
 
 # Session 13
 ## Pre-session huskeliste
@@ -383,4 +383,42 @@ That is all for new -o-
 [[Yuvinon von Gavigar]]
 ```
 
+### Recap
+[[Yuvinon von Gavigar]] har taget [[Riela]]s position og står nu for al kommunikation ind i [[Last Hope]].
+
+[[Thal]] laver [[Dragon Cores]] og sender dem til [[K'Sum-klan]]en, som bruger dem til at give energi til [[Moor Iconoclast]]. Derudover har dværgene også fundet andre ting at bruge dem til.
+
+[[The Great Dragon]] er blevet meget magtfuld og har smidt sin hud og sit navn.
+
+Scryers har fundet lokation for [[Zeta Relk Beta Cata - The Shadow]]. Den skal befries. Og [[Zeta Relk Beta Alpha - The Prophet]] vil være der når det sker.
 ## Tilbage til [[K'Sum-klan]] fabrikken i [[Unkla Kesh]]
+Vi looter hvad man må antage er [[Forgemaster Swoutom]]'s rum.
+
+Vi bliver enige med vores dværgeven om at tage tilbage til [[Argar-skoven]], så frøet kan blive fjernet fra hans krop.
+
+Men først leder vi [[Unkla Kesh]] igennem for at finde ud af hvad [[Moor Iconoclast]] er. Virker umiddelbart som en battering ram, med en stor krystal på spidsen. Den blev bestilt af [[Zeta Relk Beta Alpha - The Prophet]], som skulle bruge den til at ødelægge noget meget holdbart.
+Som en del af betalingen har de fået [[Dragon Cores]], både til at give energi til [[Moor Iconoclast]] og til fabrikkerne.
+Det er [[Forgemaster Swoutom]] som har designet den.
+
+Vi leder også efter information om [[Garak Kvoor]]. Her finder vi at de er igang med at lave [[Meekamiks]], som er menneskelignende robotter. Man bruger både robot og menneske-lig til at lave dem. De kan bruges til at infiltrere menneske-society.
+De har fundet et meget potent lig, som de kan bruge.
+
+## Swamp time
+Jeg bringer en trofæ fra [[Unkla Kesh]]-dragen til ModerTræet. Det bliver de meget glade for. Jeg får en pind.
+Modertræet fortæller om fase 2, hvor de vil indtage resterne af [[Unkla Kesh]], og fjerne menneskene derfra.
+De tre andre har behov for at se en læge. Meget, meget snart. Det har vi ikke tid til, så [[Ivailo Wycliffe]] knækker en Peddler Coin, hidkalder en lem i skovbunden og bytter alt sit hår for at få fjernet frøet.
+
+## H4 lets go
+Vi lander for foden af bjerget, men der er bare slet ikke noget her. Heldigvis er [[Arcon]] cursed, og bliver besat af en ånd, som viser os vej til en ruin i bjerget. Ligner en kirke eller sådan noget. I kælderen er der en trappe, som leder til en stor dør, som er fyldt med symboler. [[Arcon]] taster den hemmelige kode, som åbner døren.
+
+Stedet hedder forresten [[Syte Harvel Quintel]]
+
+Der er en rustning, som beskytter døren. [[Arcon]] viser sit stjålne identifikationskort frem, og der kommer en bog/datamind, som vil tage imod en besked? De har forberedt en besked, som skal sendes afsted. Vi udgiver os for at være budbringere.
+
+Beskeden som vi skal viderebringe omhandler [[Projek Novicide]]. Som er udkast til forskellige muligheder for at gøre noget ved [[Anasazi]]. Dokumentet er skrevet af [[Mesteren]], [[Secarian Deltreon]] og [[Primalius Vortek]]
+
+Vi vil gerne snakke med [[Secarian Deltreon]]. Datamind advarer os om, at [[Secarian Deltreon]] måske vil fange os og lave eksperimenter på os. Den er gået lidt op i limningen. Den har brug for en Primalues, da den ikke har adgangskoder. Den har behov for at vi tager forbi moderarkivet.
+
+# Session 14
+## Pre-session huskeliste
+- [ ] Arcon må lave Peddler choices som Randers lavede i sidste session.

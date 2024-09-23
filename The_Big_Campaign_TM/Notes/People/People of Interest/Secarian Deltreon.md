@@ -1,0 +1,4 @@
+- Holder til i [[Syte Harvel Quintel]]
+- Har arbejdet på [[Projek Novicide]]
+- Er en gammel bog, som er gået op i limningen.
+- Er en over-datamind.
