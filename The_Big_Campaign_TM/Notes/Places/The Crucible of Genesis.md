@@ -1,0 +1,3 @@
+- Kan skaffe [[Vitalloy]]
+- Ligger i [[Magonia]]
+	- Kender ikke den eksakte position, men det kan findes i [[Syte Centralis]]

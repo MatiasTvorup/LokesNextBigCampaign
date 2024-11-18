@@ -21,7 +21,7 @@
 		{"id":"48743f03d7521eea","type":"file","file":"Notes/People/NPCs/The Peddler.md","x":2560,"y":-900,"width":400,"height":400},
 		{"id":"d44908e03389dbde","type":"file","file":"Notes/People/Zetas/Zeta Relk Beta Alpha - The Prophet.md","x":1060,"y":-580,"width":400,"height":400},
 		{"id":"c9a38ced5be9d072","type":"file","file":"Notes/People/Zetas/Zeta Relk Beta Beta - The Warrior.md","x":600,"y":-580,"width":400,"height":400},
-		{"id":"81c2e268b1ecfbcc","type":"text","text":"# Nogen i Magonia","x":700,"y":260,"width":196,"height":101},
+		{"id":"0f67261058cacf2b","type":"text","text":"# Mine uden for [[Krato]]","x":1600,"y":140,"width":240,"height":120},
 		{"id":"8dfccf74dac4c49c","type":"file","file":"Notes/People/People of Interest/Yuvinon von Gavigar.md","x":-3200,"y":440,"width":400,"height":400},
 		{"id":"e6eb979287667593","type":"file","file":"Notes/People/People of Interest/Velanon.md","x":-4400,"y":-1200,"width":400,"height":400},
 		{"id":"7d01aadcc27e6b01","type":"file","file":"Notes/People/Factions/House Of Deliverance.md","x":-4400,"y":-480,"width":400,"height":400},
@@ -29,6 +29,9 @@
 		{"id":"d2263b868c5e860e","type":"file","file":"Notes/People/People of Interest/Thal.md","x":-3840,"y":840,"width":400,"height":400},
 		{"id":"3bbd3860b29c0bfe","type":"file","file":"Notes/People/People of Interest/Maravek vo Durillio.md","x":-3720,"y":-580,"width":400,"height":400},
 		{"id":"b7178157b897a029","type":"file","file":"Notes/People/People of Interest/The Veil.md","x":-5120,"y":-480,"width":400,"height":400},
+		{"id":"41fb9608131cf4fc","type":"file","file":"Notes/People/Mesteren.md","x":2760,"y":-3140,"width":400,"height":400},
+		{"id":"8443cda50886c733","type":"file","file":"Notes/People/Galen.md","x":2760,"y":-3880,"width":400,"height":400},
+		{"id":"81c2e268b1ecfbcc","type":"text","text":"# Nogen i Magonia","x":700,"y":260,"width":196,"height":101},
 		{"id":"599d2b8501d1188e","type":"file","file":"Notes/People/People of Interest/Tholk ga Voramm.md","x":-2202,"y":400,"width":400,"height":400},
 		{"id":"6dd4396b76dc0733","type":"file","file":"Notes/Items/Dragon Cores.md","x":-2320,"y":1120,"width":400,"height":400},
 		{"id":"18cc440c5fcb738f","type":"file","file":"Notes/People/People of Interest/Gnathaxxar.md","x":-122,"y":-580,"width":400,"height":400},
@@ -36,11 +39,9 @@
 		{"id":"5bfd47938c27f866","type":"file","file":"Notes/Items/Moor Iconoclast - old.md","x":-1162,"y":760,"width":400,"height":400},
 		{"id":"93c25c5e657dc58d","type":"file","file":"Notes/People/Factions/Natas Sønner.md","x":-562,"y":2240,"width":400,"height":400},
 		{"id":"11ddcf467a2d1c29","type":"file","file":"Notes/Items/The Chain.md","x":-1162,"y":-1200,"width":400,"height":400},
-		{"id":"0f67261058cacf2b","x":1600,"y":140,"width":240,"height":120,"type":"text","text":"# Mine uden for [[Krato]]"},
 		{"id":"fb7cc3134143e83d","type":"file","file":"Notes/People/People of Interest/Forgemaster Swoutom.md","x":-360,"y":1440,"width":400,"height":400},
-		{"id":"e19f7d846af082f3","x":-542,"y":720,"width":400,"height":400,"type":"file","file":"Notes/Places/Cities/Unkla Kesh.md"},
-		{"id":"41fb9608131cf4fc","type":"file","file":"Notes/People/Mesteren.md","x":2760,"y":-3140,"width":400,"height":400},
-		{"id":"8443cda50886c733","type":"file","file":"Notes/People/Galen.md","x":2760,"y":-3880,"width":400,"height":400}
+		{"id":"e19f7d846af082f3","type":"file","file":"Notes/Places/Cities/Unkla Kesh.md","x":-542,"y":720,"width":400,"height":400},
+		{"id":"7ec73b4860e5fe48","x":556,"y":-840,"width":485,"height":50,"type":"text","text":"# Bliver kaldt \"The Ward Souls\""}
 	],
 	"edges":[
 		{"id":"4af64c42c76fc132","fromNode":"11ddcf467a2d1c29","fromSide":"right","toNode":"1d005a99037eec56","toSide":"left","label":"Holder fanget"},
@@ -76,6 +77,7 @@
 		{"id":"8691e185baa321e7","fromNode":"cbe9b51bf59a2b15","fromSide":"left","toNode":"11ddcf467a2d1c29","toSide":"top","label":"Har ledt til\nskabel af"},
 		{"id":"86a8d445670de5f7","fromNode":"ebba1fc4df96281b","fromSide":"bottom","toNode":"0f67261058cacf2b","toSide":"top","label":"Holdes fanget i"},
 		{"id":"150bec22f2b251e5","fromNode":"fb7cc3134143e83d","fromSide":"top","toNode":"e19f7d846af082f3","toSide":"bottom","label":"Holdte til i"},
-		{"id":"98882efc2cc47c58","fromNode":"89ed27e8ef07f369","fromSide":"bottom","toNode":"e19f7d846af082f3","toSide":"top","label":"Smadrede"}
+		{"id":"98882efc2cc47c58","fromNode":"89ed27e8ef07f369","fromSide":"bottom","toNode":"e19f7d846af082f3","toSide":"top","label":"Smadrede"},
+		{"id":"2ad2cbd956145b57","fromNode":"7ec73b4860e5fe48","fromSide":"bottom","toNode":"e764ff3c73234c16","toSide":"top"}
 	]
 }

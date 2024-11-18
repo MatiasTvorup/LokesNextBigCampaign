@@ -1,0 +1,5 @@
+- Cordes' Land
+- Der er tre factions som forsøger at få kontrol over landet.
+	- [[The Eight Hands]]
+	- [[Uduun of Ghathoth]]
+	- [[De Drømmende Søstre]]

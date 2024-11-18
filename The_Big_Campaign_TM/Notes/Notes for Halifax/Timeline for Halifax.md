@@ -245,7 +245,7 @@ Vi banker dem og finder et brev.
 - Tag prøve af [[The Chain]]
 	- Udstyr gået i stykker. Lootet, men broken.
 - Hvad skal [[K'Sum-klan]] med [[The Chain]]
-- Hvad er [[The Device]]
+- Hvad er [[Moor Iconoclast]]
 - Hvad/hvor er [[Unkla Kesh]]
 - Hvem er [[Tholk ga Voramm]]
 - Hvem er [[Forgemaster Swoutom]]
@@ -415,10 +415,113 @@ Stedet hedder forresten [[Syte Harvel Quintel]]
 
 Der er en rustning, som beskytter døren. [[Arcon]] viser sit stjålne identifikationskort frem, og der kommer en bog/datamind, som vil tage imod en besked? De har forberedt en besked, som skal sendes afsted. Vi udgiver os for at være budbringere.
 
-Beskeden som vi skal viderebringe omhandler [[Projek Novicide]]. Som er udkast til forskellige muligheder for at gøre noget ved [[Anasazi]]. Dokumentet er skrevet af [[Mesteren]], [[Secarian Deltreon]] og [[Primalius Vortek]]
+Beskeden som vi skal viderebringe omhandler [[Projek Novicide]]. Som er udkast til forskellige muligheder for at gøre noget ved [[Anasazi]]. Dokumentet er skrevet af [[Mesteren]], [[Secarian Deltreon]] og [[Primalius Vortek - The Tower]]
 
 Vi vil gerne snakke med [[Secarian Deltreon]]. Datamind advarer os om, at [[Secarian Deltreon]] måske vil fange os og lave eksperimenter på os. Den er gået lidt op i limningen. Den har brug for en Primalues, da den ikke har adgangskoder. Den har behov for at vi tager forbi moderarkivet.
 
 # Session 14
 ## Pre-session huskeliste
-- [ ] Arcon må lave Peddler choices som Randers lavede i sidste session.
+- [x] Arcon må lave Peddler choices som Randers lavede i sidste session.
+
+# [[Syte Harvel Quintel]]
+Vi har banket bogen, så den er blevet god igen. Men bogen skal lades op, så vi skal empower nogle Arcane Crystals i [[Secarian Deltreon]]'s reactor i hans kammer, derudover skal vi hente [[Secarian Deltreon]]'s dokumenter i biblioteket. 
+
+For at komme til reactor-kammeret, skal vi igennem kemi-lokalet, og i kemi-lokalet har der været et uheldigt udslip. Så vi henter nogle hazmat suites på lageret. Men der er også zombier på lageret. Og de er nasty.
+
+Vi får hazmat, og skal kæmpe os igennem oozes i kemi-lokalet. Det er et 1000 år gammelt gær-forsøg. Vi sørger for ikke at splitte dem alt for meget. 
+
+Vi får genopladet krystallen, som vi bruger til at vække [[Secarian Deltreon]].
+Bogen spørger om der stadig er skabninger på øen, og at [[Mesteren]] ville evakuere øen. Bogen siger at vi lugter af [[Null]] og spørger om vi har været i nærheden af [[Syte Beatan Hexum]]
+
+Hvis [[Zeta Relk Prime - The Overmind]] bliver sluppet fri, kan den slippe alle de andre [[Anasazi]]er fri. [[The Entombing War]] ville starte forfra, bortset fra at [[Mesteren]] og kompagni ville tabe, fordi de allerede mistede mange folk i første omgang.
+
+Hovedarkivet, [[Syte Centralis]], ligger i søen vest for [[Last Hope]]. Her kan vi måske finde mere information omkring [[Anasazi]] og [[Projek Novicide]].
+Derudover har de et våben-facilitet [[Syte Cata Secundu]], som har lavet et våben, der er [[Arcon]]s gud.
+
+Hvis vi skal lave et apperat til at ødelægge [[Zeta Relk Prime - The Overmind]] skal vi bruge [[Vitalloy]]. [[The Crucible of Genesis]] burde kunne skaffe det.
+# Session 15
+- Jeg er fraværende.
+Vi kom tilbage til [[Last Hope]]. Fik og modtog bank i 1:1 forhold.
+Rejste til [[Cradle of the Omen King]]. Mega struggle.
+# Session 16
+## Research [[Riela]] hideout
+- Vil gerne finde og bryde [[The Chain]].
+- Skulle have kontakt med [[K'Sum-klan]].
+- Arbejdede for [[De Drømmende Søstre]]
+	- [[Isrina cal Voktann]] er lederen for [[De Drømmende Søstre]]
+
+## Research [[Dolni Tsibar]] 
+Er en gammel [[Devla Vaults]]. Den største af dem alle. Ligger meget langt mod nord. Ofte begravet af sne. "Devla Kongen" ligger begravet her.
+
+## Rejse til [[Corinthar]]
+Målet er at komme til den ruin, hvor [[Zeta Relk Beta Cata - The Shadow]] måske er holdt fanget.
+
+På turen støder vi på en karavane. Den bliver trukket af drage-infused køer. Der rejser både mennesker og [[Low Drac]]. [[Arcon]] synes at de virker farlige, så derfor skal vi lave et bagholdsangreb. Så det gør vi selvfølgelig.
+Lederen af karavanen vil gerne bare snakke. [[Arcon]] vil bare gerne være turbo-racist. Vi bruger lidt lang tid på at snakke, og karavane-handelsmanden begynder at smutte. [[Ivailo Wycliffe]] chaser og laver en meget akavet gidseltagning.
+Der bliver slagtet nogle vagter og der bliver begået Jim Crow på de folk, som handelsmanden havde i bure.
+## Vi ankommer til ruinen
+Vi kan se der står nogen og snakker foran ruinen. Den ene af dem er måske en dværg. Den anden er en tudse/rotte-mutant. Dværgen er en discipel til frøen. Frøen har forudset at vi vil komme.
+Frøen har forudset af vi vil forsøge at befri frøens søskende.
+Frøen er [[Zeta Relk Beta Alpha - The Prophet]].
+Vi figther hans jahadist-håndlanger.
+
+## Into the ruin
+Vi spiller twister på trapperne.
+Der er en gut, som laver omelet, nogle myrere som har krig. Jeg er forvirret. Vi vinder om, healer og figther nogle spøgelsesslanger.
+Vi finder en brønd. Den lader ikke til at have nogen funktion. Vi piller ellers meget ved den.
+Vi forsøger at stjæle salat fra myrerne, og glemmer alt om tactical spacing.
+Salaten bliver konveret til potions, og vi hopper i poolen for at fighte noget, sammen med omelet-gutten.
+
+# Session 17
+Vi er i poolen sammen med omelet-manden for at samle æg (?). Hvorfor vi gør det har jeg virkeligt ingen anelse om. Vi får et enkelt fiskeæg og får lov til at beholde nogle slangeæg, fra Knokle som er Omelet-manden.
+
+Vi lægger slange og fiskeæg i brønden, som rent faktisk var en rede, og en dør åbner sig.
+
+Den leder til en dybere kælder, som er oversvømmet. Her slås vi med storm-snakes.
+
+I et rum finder vi en nøgle. Den ligner en fisk.
+
+I et andet rum finder vi en dør der passer til nøglen. Her er kutteklædte folk, en rotte-frø og en stor tudse-ting. De er igang med at lave et ritual omkring en stor slange-frø-statue. Statuen er en forstenet [[Zeta Relk Beta Cata - The Shadow]].
+
+Vi stopper ritualet og får statuen fragtet til [[Last Hope]].
+
+Der blev måske plantet et frø ovenpå statuen for [[Zeta Relk Beta Cata - The Shadow]]
+
+# Session 18
+## Magonian Court Business
+Nogle af de noble er ikke mennesker. Dobbelgangers. Minder om Artemvores. Helt røde kranier. Har disguises, som de kan tage af. Refererer til hinanden som [[Mannicks]], deres leder er [[Velanon]]. Der er mellem 9 og 12 af dem. Forsøger at blive til flere.
+## Scouts bringer en besked
+Brev fra [[Forgemaster Swoutom]] - han har mistet kontrol over [[Unkla Kesh]]. [[Eugonorinog]] ved [[Sav Fgath]] overtager produktionen. Et hold er blevet sendt til en [[The Chain]] syd for [[Kruma Pra'ga]]. 
+## Ved ruinen
+Der er en dame udenfor templet. Hun hedder [[Sagres]]. Hun tjener den, som vi lige har nakket. Hun siger at "Mesteren" er imponeret over det vi laver, men samtidigt synes at vi er ubetydelige. Hun frygter at der er en krig påvej. En rigtig krig. Vi er ikke en rigtig trussel for dem lige nu. Der er to sider, den ene side vil beskyttes af [[Zeta Relk Prime - The Overmind]], den anden side vil befri [[Zeta Relk Prime - The Overmind]] for at tage dens kræfter. Der var engang et stort samarbejder kendt som [[The Chainbreakers]], som ville befri [[Zeta Relk Prime - The Overmind]]. Hun siger at guderne har forladt os. At [[Zeta Relk Prime - The Overmind]] kan beskytte [[Velekia]] fra udefrakommende. 
+"Mesteren" er en [[Ward Soul]] - en af de tre - sammen med den statue, som vi lige har nakket. 
+
+Hun vil gerne have os til at sætte [[Zeta Relk Prime - The Overmind]] fri. Det gøres ved at bruge [[Moor Iconoclast]] til at bryde [[The Chain]]s. 
+
+## Transporting Time
+Statuen bliver fragtet til [[Last Hope]]. Ritualet for at slippe [[Zeta Relk Beta Cata - The Shadow]] fri blev næsten fuldført, så der er nogle revner i statuen, og hvis vi ikke gør noget for det, kan det være at den slipper fri.
+## Kragithon den Brutales gravkammer
+Vi forlader karavanen og tager en lille sidequest.
+Vi skal negle Kragithons kappe, så Virtuoso Ole fra [[Magonia]] kan lave sin ting.
+Vigtig note: [[Arcon]] siger at det ikke er tradition i [[Corinthar]] at lave grav-røveri, men det er ok, fordi vi gør det alligevel.
+
+Vi bytter en Arcane Crystal med Statuen, som beskytter graven, for at få lov til at stjæle kappen. Also, der er en lille rød dør, som leder til et sted. Vi går igennem døren.
+## Business fisk
+Vi er på en tømmerflåde. Der er fisk i jakkesæt, som vil sælge os creme, der gør dine skæl mere skinnende. Fisken forsøger at sælge os en pyramid-scheme, og det lyder som en god deal, så jeg køber.
+
+Also, der er 2 måner på himlen. Der hvor vi normalt befinder os, er der kun 1 måne.
+
+Business-fisken skubber vores tømmerflåde til en ø, hvor en gut med uendelig hud er. Manden med uendelig hud har ventet på os. Den laver lunger og stemmebånd af hud !?!?!
+Han kommer fra [[Manden Med Måneøjnene]], og har et tilbud til os. [[Manden Med Måneøjnene]] vil gerne købe statuen af [[Zeta Relk Beta Cata - The Shadow]]. 
+
+Vi får et tæppe, som kan bruges til at flytte statuen af [[Zeta Relk Beta Cata - The Shadow]] til [[Manden Med Måneøjnene]]. Man skal bare sætte statuen derpå, og så sørge for at der ikke er nogen, som kigger derpå.
+## To [[The Peddler]]
+Vi knækker en coin, og lander i et snelandskab. Her møder vi [[The Peddler]] i en lille, hyggelig hytte. For the low low price of der bliver monteret en hånd, som gror i mit kranie, får jeg Hat of Rabbit Pulling, dør til [[The Peddler]] og en guidet tur til [[Manden Med Måneøjnene]].
+
+## Til [[Manden Med Måneøjnene]]
+[[The Peddler]] leder os hertil. Efter en lang og sej forhandling sælger vi statuen til [[Manden Med Måneøjnene]], som betaling får vi lidt ting, og jeg får lov til at plante et frø fra [[Slimmoderen]] uden for [[Manden Med Måneøjnene]]s tempel.
+# Session 19
+## Pregame todo
+- [ ] Send scouts til [[The Chain]] syd for [[Kruma Pra'ga]].
+	- Check om [[The Chain]] er blevet smadret.
+

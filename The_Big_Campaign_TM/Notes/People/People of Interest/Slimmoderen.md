@@ -1,0 +1,4 @@
+- Har givet [[Halifax]] 5 frø, som skal plantes ved "Places of power".
+	- 1 er plantet uden for [[Manden Med Måneøjnene]]s tempel
+	- 1 er plantet på [[Zeta Relk Beta Cata - The Shadow]]-statuen.
+		- Som er blevet solgt til [[Manden Med Måneøjnene]]

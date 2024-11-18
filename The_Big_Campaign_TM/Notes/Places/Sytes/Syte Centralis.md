@@ -1,0 +1,2 @@
+- Hovedarkivet.
+- Ligger i søen vest for [[Last Hope]]

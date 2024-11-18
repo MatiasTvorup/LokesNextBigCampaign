@@ -9,5 +9,5 @@ Er nogle evil demon dudes, som har overtaget [[Magonia]].
 - Weakest save: Not Fortitude.
 - Ability: Trample 60ft line.
 - Maybe resistant to ranged?
-## Gnaffaxar - commander dude.
+## [[Gnathaxxar]] - commander dude.
 - Weakest save: Reflex

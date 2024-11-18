@@ -1,4 +1,4 @@
-Er et dokument skrevet af [[Mesteren]] (aka [[Galen]], aka [[Gaellartharien]]), [[Secarian Deltreon]] og [[Primalius Vortek]]
+Er et dokument skrevet af [[Mesteren]] (aka [[Galen]], aka [[Gaellartharien]]), [[Secarian Deltreon]] og [[Primalius Vortek - The Tower]]
 
 Det beskriver forskellige måder, at gøre noget ved [[Anasazi]].
 
