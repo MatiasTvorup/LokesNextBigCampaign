@@ -1,0 +1,3 @@
+- Er evakueret fra [[Velka]] (?) til [[Sanctia]].
+- Har arbejdet på at finde ud af hvad der sker når nogen dør.
+	- Potentielt med formål at genoplive [[Calia]].

@@ -2,3 +2,4 @@
 - Er et svin overfor sin datter, [[Prinsesse Lousada]].
 	- Har lovet hende væk til en gammel, nobel mand - i bytte for et fuckton penge, og at blive mere populær blandt folket.
 - "Øjet holder øje med mig". Han er paranoid.
+- Har en drøm om øjet. Bliver mere paranoid.

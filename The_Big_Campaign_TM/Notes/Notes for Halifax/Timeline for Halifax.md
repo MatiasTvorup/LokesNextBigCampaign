@@ -522,6 +522,67 @@ Vi knækker en coin, og lander i et snelandskab. Her møder vi [[The Peddler]] i
 [[The Peddler]] leder os hertil. Efter en lang og sej forhandling sælger vi statuen til [[Manden Med Måneøjnene]], som betaling får vi lidt ting, og jeg får lov til at plante et frø fra [[Slimmoderen]] uden for [[Manden Med Måneøjnene]]s tempel.
 # Session 19
 ## Pregame todo
-- [ ] Send scouts til [[The Chain]] syd for [[Kruma Pra'ga]].
+- [x] Send scouts til [[The Chain]] syd for [[Kruma Pra'ga]].
 	- Check om [[The Chain]] er blevet smadret.
+	- Den er blevet smadret. De brugte en [[Moor Iconoclast]], og mistede en [[Dragon Cores]] i processen.
+## [[Omen King Arena]] funtimes
+Er på alle målbare parametre en skrækkelig oplevelse.
+## [[Syte Centralis]]
+De royale troldmænd har brygget potions, som tillader os at trække vejret under vand i 7 dage, så vi kan dykke ned til [[Syte Centralis]]. Påvej ned bliver vi angrebet af en Dragon Turtle, som egentligt er mæt, men bare forsøger at spise os for sjov.
+
+Vi finder en undersøisk grotte, som ikke står under vand. Antageligtvis indgangen til [[Syte Centralis]]. Vi finder "Groof", som bor hernede og gerne vil til [[Greffen-Gornenheim]]. "Groof" havde engang en potion, som tillod dem at svømme rigtigt godt, men de har gemt den inde i grotten, og nu vil de ikke hente den, fordi "Blinke-Manden" er derinde.
+
+Mens vi undersøger hulen vader vi direkte ind i en insekt-hule, hvor vi næsten dør, hvis ikke det var for [[Arcon]]s crit-fishing.
+# Session 20
+## [[Magonia]] Court Business
+- De spiller Amongus. Stallins Paranoia. Battle Royale.
+- Forsøger at finde ud af hvem der er [[Mannicks]].
+## [[Corinthar]] Court Business
+- Evil Dragon Guys bliver lige pludseligt meget mere magtfulde
+## [[Cantua]] Court Business
+- [[Barcelos af Cantua]] drømmer om øjet. Det holder øje med ham. Han bliver mere paranoid.
+## In the cave
+Vi tager et hvil, og forsætter dybere ind i grotten. Det ligner mere at det er menneskeskabt, end det er naturligt.
+
+Vi finder en ødelagt guard-robot. Som vi belejligt scooter omkring. Længere inde er der nogen, som angriber os, fordi de vil "Stoppe [[Anasazi]]er". De hidkalder en Basilisk. 
+### Note
+Vi finder nogle noter, som er skrevet 200 år efter [[The Entombing War]]. Beskriver at de fleste [[Vinctus]] er blevet fanget, men ikke alle. 
+
+Der er en død Datamind.
+### Note
+Vi finder nogle flere noter, som er skrevet 342 år efter [[The Entombing War]]. Beskriver at [[Vinctus]] er det samme som [[Anasazi]], og at en sprække gror ned gennem verden. [[Vinctus]] tror på at sprækken er et omen, for at [[Voraxius]] kommer til denne verden. [[Merrick - The Fool]] har fået til opgave at undersøge dette. Forfatteren har fået til opgave at styre et inddæmnings-center som hedder [[Velka]], hvilket er inspireret af deres subjekter som er [[Zeta Relk]]. Derudover savner forfatteren virkeligt meget en eller anden.
+
+### Datamind & Zombie
+Vi åbner en dør ind til en datamind, som prøver at overtale en zombie, [[Secarian Penumdulo]], til at lade være med at være en zombie. Vi banker noget fornuft ind i [[Secarian Penumdulo]], og tilbyder dem derefter en krystal, så de kan få deres krafter igen.
+De vil gerne vide, om de skal tilbage. "De andre" sagde, at de ville komme tilbage til [[Secarian Penumdulo]] når krisen var overstået.
+
+Vi har lidt problemer med tidzoner. Vi regner i "Siden Rapture", [[Secarian Penumdulo]] regner i "Siden [[The Entombing War]]". 
+"De andre" er [[Galen]], [[Arion]], [[Lunara]], [[Calia]]
+Dataminden snakker om [[Xulthu'un]] og [[Xorhalvar]], som også er en [[Anasazi]].
+
+**Vi vil gerne til hoved arktivet. Til dette skal vi bruge en adgangskort.**
+Vi går ikke hen, der hvor vi kan finde adgangskortet, istedet finder vi flere spøgelser, som postulerer at vi er [[Anasazi]].
+
+### Note
+Vi finder endnu en note. Skrevet 731 år efter [[The Entombing War]]. Sprækken har delt verden i to. [[Gehen]] og [[Sanctia]], bliver delene kaldt. Forfatterens projekt er i [[Gehen]], sammen med en række af de mere følsomme "containments". 
+For at kunne rejse mellem de to verdener vil de genbruge nogle ting, som de har udviklet i [[Velka]], i [[Syte Beatan Hexum]], hvilket er [[Project Null]], som også bliver refereret til som "korridorer".
+Forfatteren siger at de savner en eller anden virkeligt meget, og når dette er ovre, så vil de lede efter dem.
+
+### Shrooms
+[[Ivailo Wycliffe]] snebolder nogle svampe, så vi kan snige os igennem et rum og undgå combat. Vi forsøger at indhente en gut, som blev angrebet af spøgelserne i det tidligere rum.
+Ved at brænde dumt mange hero-points formår vi at komme igennem, og lærer at ham gutten, som vi fulgte efter alligevel ikke kan hjælpe os med at komme ind i hovedarkivet. Istedet peger han os ind i et rum, hvor hans kollega har gjort noget dumt.
+### Note
+Vi finder en note. Skrevet 809 efter [[The Entombing War]]. [[Sateen]] bruger for meget tid på at snakke med [[Anasazi]], snakker om at kunne bruge deres krafter til at fixe deres problemer. Forfatteren beskriver at "de alle" støtter [[Thalor - The Emperor]], for begrænsninger af kontakt til [[Anasazi]], medmindre hele "The Council" siger god for det. Dog tror forfatteren, at [[Sateen]] vil forsøge at omgå en sådan begrænsning. 
+Derudover har forfatteren besøgt [[Syte Beatan Hexum]] og set [[Project Null]] som [[Primalius Vortek - The Tower]] har arbejdet på sammen med [[Secarian Ghal]]. Men det virker ikke til at de har forstået hvad de har lavet. 
+De (herunder forfatteren) har fundet ud af hvordan man rejser imellem verdener.
+### NOte
+Den sidste, angiveligtvis. Skrevet 1437 år efter [[The Entombing War]]. Forfatteren er [[Gaellartharien]], som skriver til [[Calia]]. Skriver at [[Sateen]] har forsøgt at absorbere en [[Anasazi]], og at mange [[Secarian]]s og [[Datamind]]s har sluttet sig til [[Sateen]]. 
+De evakuerer fra [[Velka]] til [[Sanctia]], igennem korridorerne i [[Project Null]]. De har ikke haft muligheden for at sikre [[Zeta Relk]], så de har gemt det istedet. 
+[[Gaellartharien]] frygter at en krig kommer, hvis [[Sateen]] ikke bliver stoppet. Derfor har han og de andre [[Primalius]] et møde, når [[Gaellartharien]] kommer til [[Sanctia]]. 
+Derudover har [[Gaellartharien]] været tæt på at finde ud af hvad der sker, når man dør.
+
+# Session 21
+## Pre-session notes
+- [ ] Undersøg starten af [[Syte Centralis]], hvor der er loot, sammen med "Blinke-manden".
+- [ ] Find ud hvad forskellen og lighederne mellem [[World Warden]]s og Primaliusser er. [[Ivailo Wycliffe]] kender svaret.
 

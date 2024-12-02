@@ -1,0 +1,3 @@
+- Er [[Anasazi]]
+- Er tidligere blevet fanget [[Secarian Penumdulo]]
+- Er Den Store Banker

@@ -1,2 +1,2 @@
 - Er en våbenfacilitet, som ligger i nærheden af [[Krato]].
-- Bygget af
+- Bygget af 

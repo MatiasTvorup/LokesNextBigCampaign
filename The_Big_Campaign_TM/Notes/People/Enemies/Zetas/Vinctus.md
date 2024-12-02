@@ -1,0 +1,1 @@
+- Er det samme som [[Anasazi]]
