@@ -1,0 +1,2 @@
+- [[Volgrar]]s reddede dem fra [[Gehen]]
+- Nogen af dem blev til mennesker, ved [[Primalius]]s hjælp.

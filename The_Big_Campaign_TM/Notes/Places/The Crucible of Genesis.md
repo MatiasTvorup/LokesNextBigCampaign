@@ -1,3 +1,7 @@
 - Kan skaffe [[Vitalloy]]
+	- "Recepticle for magical energies".
 - Ligger i [[Magonia]]
 	- Kender ikke den eksakte position, men det kan findes i [[Syte Centralis]]
+- Skabt af [[Primalius Vortek - The Tower]]
+- [[The Crucible of Genesis]] er en smedje, der er blevet brugt under [[The Entombing War]].
+- Crucible laver voldsomt meget varme, men [[Calia]] har hjulpet med at skabe en stor Frost Elemental, som kan bruges til at køle The Crucible ned.

@@ -585,4 +585,83 @@ Derudover har [[Gaellartharien]] været tæt på at finde ud af hvad der sker, n
 ## Pre-session notes
 - [ ] Undersøg starten af [[Syte Centralis]], hvor der er loot, sammen med "Blinke-manden".
 - [ ] Find ud hvad forskellen og lighederne mellem [[World Warden]]s og Primaliusser er. [[Ivailo Wycliffe]] kender svaret.
+## Message to the courts
+Spionerne har hørt meget aktivitet i [[Corinthar]], de gør klar til at marchere mod [[Last Hope]].
+## Scouting the trees
+[[Slimmoderen]] og hendes træer er begyndt at bevæge sig ned i minen [[Pivu Tivl]].
+## Dybt i [[Syte Centralis]]
+Vi støder ind i [[Secarian Pnumanoin]], som har været igang med at få sin hjerne ædt af en Animate Dream, de sidste 1000 år, eller sådan noget.
+[[Secarian Pnumanoin]] skal hente noget i arkivet. Det er meget vigtigt for dem. 
+Vi kommer til at vade ind i combat, hvor [[Secarian Pnumanoin]] finder sin dobbeltgænger.
+Vi backtracker til et rum, som føles meget kraftfuldt. Der er et dybt hul, fyldt med vand. Der ender måske et frø nede i dybet.
+# Session 22
+## State-stuff
+- Scout: Hvem er [[Uduun of Ghathoth]], Medlemmer, tilholdssted, mål.
+	- QuickScouts Free action: Gain Money
+- Move Shit
+## Tilbage i [[Syte Centralis]]
+Fight Hydra, og der er ikke nogen, som har set Disneys Hercules.
+- Hydra laver dårlige Will-saves.
+- Hoved kan specifikt targetes, for at skære dem af.
+	- Hoved kan regenereres, medmindre de tager Acid eller Fire.
+	- Har weakness overfor slashing.
+- Kan ikke dø, medmindre alle hoveder er væk.
 
+Hydraen er død, og vi har fundet nøglen, som er til biblioteket (eller central-arkivet?). 
+
+***[[The Peddler]] er i Arkivet !?!?!***
+[[Secarian Pnumanoin]] kender [[The Peddler]].
+
+Vi kommer ind i Arkiv-proper. Der er en robot, som tilbyder hjælp. Den har modtaget besked om, at 
+- [[The Creator Council]] har bestemt at, alle Sytes i [[Vargren]] skal evakueres til [[Sanctia]]
+- [[Emperyal Ward]] er blevet svækket i lang tid, fordi [[Primalius]]'erne er blevet nakket eller noget. Se [[The Banishing]].
+- Et nyt projek ved navn [[Projek Extremis Decimus]] bliver startet. Der bliver styret af [[Solarius - The Sun]]. Det vil sørge for at [[Vargren]]'s resourcer ikke falder i [[Anasazi]]'s eller [[Sateen]]'s hænder.
+
+Vi får udleveret en note ang. [[The Crucible of Genesis]]
+Vi får updates på [[The Entombing War]], [[Syte Cata Secundu]], [[Vinctus]], [[Manden Med Måneøjnene]], [[The Chain]], [[Syte Beatan Hexum]], [[The Crucible of Genesis]]
+
+Maskinen fortæller, at [[Secarian Deltreon]] er hovedet af [[Projek Novicide]], som måske ved noget om hvad [[Anasazi]] laver og hvad deres mål er.
+Den giver os en magi-krystal-mobiltelefon, som kan bruges til at [[Secarian Deltreon]] ringer til os, for at forklare at ...
+
+
+Vi kommer tilbage op fra [[Syte Centralis]]. Og Scouts siger at en hær fra [[Corinthar]] kommer marcherende mod [[Last Hope]]. 
+Der kommer soldater op fra jorden - de siger, at de er her for at hjælpe. De ligner mennesker, men har en rød-glødende hud. Nogle få med andre farver og funky abilities.
+# Session 23
+## Pre-session Notes
+- [ ] Husk at loote tilbage i tiden
+- [ ] Der kommer fjender fra [[Corinthar]]
+## Questions fra bibliotikaren
+Hvem er [[Sateen]]
+- Er [[Primalius]]. Kendt som Sataan. Har skabt [[Primalius]]. Leder efter en måde at genoplive [[Primalius]] som blev tabt under [[The Entombing War]]. Har taget [[Gehen]] som sit rige, har mistet halvdelen til en der hedder [[Volgrar]], og den halvdel hedder nu [[Vargren]].
+Generelt om [[Primalius]]
+- Er de originale skabere.
+- Skabte verdener og fyldte dem op med væsener.
+- De hyggede sig, indtil at [[Anasazi]]erne angreb.
+	- De vandt til sidst, og fik de fleste [[Anasazi]] spærret inde.
+- Efter krigen, har de mistet noget af deres energi, så de ikke kan skabe så meget mere.
+- De har hjulpet [[Volgrar]] med at stjæle halvdelen af [[Gehen]]/[[Vargren]]
+- De har lavet [[The Imperial Ward]]
+- De har hjulpet med at konverterer [[Volgrar]]s slaver ([[Vhugan]]) til mennesker.
+## Scout den kommende hær
+De har ingen våben til at smadre byens vægge, men til gengæld, har de taget drager med og ligner at de er klar til at belejre byen.
+## In the Court
+[[Ka Lier]] folket er kravlet op af jorden, og tilbyder deres hjælp. De forventer blot, at vi også hjælper til at nakke fjenden. De kommer fra en anden verden.
+Lederen af [[Ka Lier]] hedder [[Tre]] han er deres stammes hyrde.
+[[Ubba Kaum]] er høvding kriger fra Kaum-stammen. De følger en ulovlig gud, som hedder [[Ki Ham Halor]]
+
+Efter lang diskussion bliver regeringslederne enige om, at sende The Heroes (TM) afsted, for at neutralisere dragerne, som den invaderende hær har med.
+Den kriger fra [[Ka Lier]]-folket, som vi slås sammen med, hedder [[Ia Hajar]].
+## Dragon Battle
+This is where we die.
+Vi ville lave et first strike, men turns out dragen laver et first strike mod os, og laver en sammenlagt 180+ damage. Vi har allierede, som jerner ballista-pil gennem luften mod dragen, og det er vores største DPS. De bliver lagt ned, efter at have affyret tre pile. Big sad.
+By the power of Teamwork and stacked modifiers lader det rent faktisk til, at vi kan nakke den her drage.
+## After The Battle
+[[Last Hope]] er stadig under belejring. Der er stadig mindre kampe, uden for byens mure. Det er muligt at snige proviant igennem kampene, så byen sulter ikke lige så meget, som forventet.
+
+En budbringer fra fjenden, siger at [[Thal]] gerne vil diskutere betingelserne for vores overgivelse. Vi nægter, og budbringeren siger at det var det forkerte svar.
+## [[Arcon]] bliver til en mobiltelefon
+[[Secarian Deltreon]] siger, via [[Arcon]], at vi skal snakke om [[Zeta Relk Prime - The Overmind]]. [[Projek Novicide]] bliver nødt til at blive fuldendt. Fjenderne går imod [[The Chain]], og de vil blive knækket med tid. Belejringen af [[Last Hope]] er ikke vigtigt. For at kunne fuldføre [[Projek Novicide]] skal vi have mere info omkring [[Anasazi]]. Måske en måde at kommunikere med dem. Det går imod protokollerne, men [[Primalius]] er ikke her længere, så fuck it, vi kan godt bryde reglerne.
+De researchede det i [[Syte Cata Secundu]].
+
+Der er viden i [[Syte Beatan Hexum]] om hvordan man rejser til det plane, hvor [[Zeta Relk Prime - The Overmind]] er. Men Projekterne er næppe færdiggjort, og man skal højst sandsynlig bruge [[Vitalloy]] for at færdiggøre dem.
+## CHAAAAARGE!

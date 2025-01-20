@@ -6,3 +6,7 @@
 
 - Er det modsatte er [[The Peddler]].
 - Er blevet spæret inde af [[The Peddler]].
+
+- Er fjenderne af ALT.
+- Modsatte af [[Primalius]].
+- Må fanges, indtil de skal destrueres.

@@ -1,2 +1,4 @@
 - Er en våbenfacilitet, som ligger i nærheden af [[Krato]].
 - Bygget af 
+- Styret i parnetskab med [[Solarius - The Sun]]
+- Bygger våben til indfangelse af [[Vinctus]]/[[Anasazi]]

@@ -1,0 +1,4 @@
+- Er en [[Primalius]].
+- Også kendt som Satan.
+- Har skabt [[Primalius]]??
+- Ledte efter en måde af genoplive de tabte [[Primalius]] efter [[The Entombing War]]

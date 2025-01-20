@@ -33,12 +33,10 @@
 		{"id":"5b92b44068ca1e51","type":"file","file":"Notes/People/Factions/House Of Deliverance.md","x":-3040,"y":-9360,"width":400,"height":400},
 		{"id":"5e7618bdb00b353d","type":"file","file":"Notes/Places/Cities/Veramore.md","x":-5040,"y":-4976,"width":400,"height":400},
 		{"id":"fecc02dc27471723","type":"file","file":"Notes/People/People of Interest/Yuvinon von Gavigar.md","x":-7660,"y":-4660,"width":400,"height":400},
-		{"id":"d8fef2948b099d4f","type":"file","file":"Notes/Places/Countries/Greffen-Gornenheim.md","x":-6200,"y":-4260,"width":400,"height":400},
 		{"id":"e8402d0d60b31aef","type":"file","file":"Notes/People/NPCs/Sparitanere.md","x":-7460,"y":-6000,"width":400,"height":400},
 		{"id":"ddb4b265dab94e0d","type":"file","file":"Notes/People/Enemies/Averikari.md","x":-6740,"y":-6000,"width":400,"height":400},
 		{"id":"64cd7a8db2fd0c12","type":"file","file":"Notes/People/Factions/Natas Sønner.md","x":2560,"y":-100,"width":400,"height":400},
 		{"id":"5b7f0402315a8dcc","type":"file","file":"Notes/Places/Cities/Leswell.md","x":-5580,"y":-4976,"width":400,"height":400},
-		{"id":"e38d4ba5b2182cba","type":"file","file":"Notes/People/NPCs/Kongen af Greffen-Gornenheim.md","x":-7040,"y":-4260,"width":400,"height":400},
 		{"id":"e56457d3456cc912","type":"file","file":"Notes/People/People of Interest/Slimmoderen.md","x":1880,"y":-500,"width":400,"height":400},
 		{"id":"064c6b36e8781674","type":"file","file":"Notes/People/People of Interest/Tholk ga Voramm.md","x":-8680,"y":-4660,"width":400,"height":400},
 		{"id":"f2906ee91dc971ca","type":"file","file":"Notes/People/Enemies/K'Sum-klan.md","x":2560,"y":-880,"width":400,"height":400},
@@ -67,8 +65,10 @@
 		{"id":"afa4bb29c3062690","type":"file","file":"Notes/People/Galen.md","x":520,"y":-4545,"width":400,"height":394},
 		{"id":"4f8bf58df35c7836","type":"file","file":"Notes/Items/Vitalloy.md","x":120,"y":-5160,"width":400,"height":400},
 		{"id":"41c48b4ff328f7e9","type":"file","file":"Notes/People/Enemies/Zetas/Vinctus.md","x":-1160,"y":-3680,"width":400,"height":400},
-		{"id":"76bd5b4459cf787f","x":-4360,"y":-9360,"width":400,"height":400,"type":"file","file":"Notes/Places/Sytes/Syte Centralis.md"},
-		{"id":"3bddfd407443dc17","x":-4360,"y":-10080,"width":400,"height":400,"type":"file","file":"Notes/People/People of Interest/Secarian Penumdulo.md"}
+		{"id":"76bd5b4459cf787f","type":"file","file":"Notes/Places/Sytes/Syte Centralis.md","x":-4360,"y":-9360,"width":400,"height":400},
+		{"id":"3bddfd407443dc17","type":"file","file":"Notes/People/People of Interest/Secarian Penumdulo.md","x":-4360,"y":-10080,"width":400,"height":400},
+		{"id":"d8fef2948b099d4f","type":"file","file":"Notes/Places/Countries/Greffen-Gornenheim.md","x":-5700,"y":-4260,"width":400,"height":400},
+		{"id":"e38d4ba5b2182cba","type":"file","file":"Notes/People/NPCs/Kongen af Greffen-Gornenheim.md","x":-6540,"y":-4260,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"c295d4422ca2f3ab","fromNode":"d38d12154167019d","fromSide":"right","toNode":"03d6ec7f8be79d5f","toSide":"left","label":"Slås med"},

@@ -1,0 +1,8 @@
+- Er de originale skabere.
+- Skabte verdener og fyldte dem op med væsener.
+- De hyggede sig, indtil at [[Anasazi]]erne angreb.
+	- De vandt til sidst, og fik de fleste [[Anasazi]] spærret inde.
+- Efter krigen, har de mistet noget af deres energi, så de ikke kan skabe så meget mere.
+- De har hjulpet [[Volgrar]] med at stjæle halvdelen af [[Gehen]]/[[Vargren]]
+- De har lavet [[The Imperial Ward]]
+- De har hjulpet med at konverterer [[Volgrar]]s slaver ([[Vhugan]]) til mennesker.
