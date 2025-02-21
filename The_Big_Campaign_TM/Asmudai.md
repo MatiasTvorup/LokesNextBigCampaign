@@ -1,0 +1,2 @@
+- Er blevet sendt.
+- Elsker mennesker.

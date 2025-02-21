@@ -665,3 +665,39 @@ De researchede det i [[Syte Cata Secundu]].
 
 Der er viden i [[Syte Beatan Hexum]] om hvordan man rejser til det plane, hvor [[Zeta Relk Prime - The Overmind]] er. Men Projekterne er næppe færdiggjort, og man skal højst sandsynlig bruge [[Vitalloy]] for at færdiggøre dem.
 ## CHAAAAARGE!
+# Session 24
+## CHAAAAARGE!
+Vi kæmper os igennem første wave af fjender. En løve, ko og drage. I dette combat opbruger vi al vores held.
+
+Vi tager en kort pause, hvor vi refocusser og venter på forstærkninger.
+
+Og så dukker [[Thal]] op.
+OG HAN HAR EN HEALTH-BAR!
+Og det betyder at han kan nakkes.
+[[Corinthar]] slipper en drage med hvide skæl fri. Den flyver mod [[Last Hope]]. Den skinner som solen. Dive-Bomber ned mod byen.
+[[Corinthar]]-kongen laver noget funny magic, så dragen kun crasher ned i hans egen bydel, what a silly man. Der er nu et kæmpe krater i [[Last Hope]], hvor der ligger drage-rester i (Potentielt spot for seed??)
+## På eventyr i [[Magonia]]
+Vi rejser ud, for at finde [[The Crucible of Genesis]], hvor der kan laves [[Vitalloy]], for at vi kan fuldende [[Projek Novicide]].
+På vejen finder vi en mand, som bliver chikaneret af nogle små [[Artemvores]]. Han lader ikke til at være up-to-date med current events i verden. Han vil gerne kaldes [[Mesteren]]. Andre kalder ham Skiderikken. Men han virker ret hyggelig, selvom han er lidt hjælpeløs. Han siger, at der er noget galt med landet. Han tror han var død, lige indtil at han valgte at lade være. What a chad. Han har dårlige erfaringer med dumme væsener som os. Vi er ikke særligt lærde, sådan på en kosmisk målestok.
+[[Mesteren]] snakkede med [[Baltor]] (Kragen), om at der var en træls gut, som [[Mesteren]] havde til ansvar om at stoppe.
+# Session 25
+[[Mesteren]] smutter for at pisse, og han forudsiger at det varer et par dage.
+
+Et par dage senere, eksploderer sneen omkring os. Vi er vadet direkte ind i en oversized bjørnefælde. Som står på en søjle i en lavasø.
+Der er en gut. Med ulve-kranie. Med en kappe lavet af fine, hvide fjer. Han vil gerne vide hvor [[Mesteren]] er. Han arbejder for [[Sateen]](?), som er mesteren af [[Helvede]]. Han vil tage [[Mesteren]] med dertil. Han vil ikke sige sit navn, så vi kalder ham [[Jægeren]].
+[[Ia Hajar]] forsøger at smigre ulve-kranie-bounty-hunteren, og får et visit-kort som kan tilkalde dem. Skal smides i ilden.
+
+[[Jægeren]] advarer os om, at vi bør forlade denne ø ([[Velekia]]), fordi [[Asmudai]] er blevet sendt, og han elsker mennesker.
+
+4 dages vandring senere.
+Vi møder nogle gigantiske [[Artemvores]]. De vil have betaling for at lade os passere. De får Barmi the Bear, en magisk mønt og en fortælling om denne verdens arkitektur.
+
+Vi ender ved Virtuoso Tomb, hvor der er en fucked up struds. 
+Der har været nogen her, for at stjæle Virtuosoens arbejde. Det er forresten Jørgen den Første, som er begravet har. [[Ivailo Wycliffe]] knækker Jørgens lår og propper det i baglommen.
+
+Der er en fucked up robot, som vil have os ud af graven. Robotten siger, at de er lavet af [[Livsvæverne]], at dette er Kvadrant 2, og at [[Barokar]] snart vågner. 
+Robot siger at [[Dolni Tsibar]] er blevet taget af udefrakommende, at de skal bruge det til at lave [[Vitalloy]], så de kan vække skaberne og [[Barokar]].
+Robotten er lavet af Skaberne, som er i [[Zlatna Niva]].
+
+Vi fortsætter forvirrede mod [[Dolni Tsibar]] og skal gennem bjergene, fordi [[Magonia]]s store storm er påvej imod os.
+Vi er overhovedet ikke forberedt på at skulle klatre i bjerge.
