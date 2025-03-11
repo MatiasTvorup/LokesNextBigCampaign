@@ -1,0 +1,3 @@
+- Har brugt [[The Crucible of Genesis]] til at skabe [[Artemvores]]
+- Har solgt sine evner til [[Zeta Relk Beta Beta - The Warrior]]
+- Har været søn til lederen af [[Mortleg-klanen]]-klanen.

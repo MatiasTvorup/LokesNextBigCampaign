@@ -1,0 +1,4 @@
+- Er et land, som kan tilgås via [[Dolni Tsibar]].
+- Er regeret af [[Sommerfugle-kongen]]
+- Et vibe-check af universet fortæller, at dette ikke er et alternativt univers, på samme måde som Korridorerner, som The peddler vandrer i.
+- Folk herfra refererer til outside-world som [[Greffen-Gornenheim]]

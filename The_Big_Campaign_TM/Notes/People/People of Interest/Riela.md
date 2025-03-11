@@ -6,3 +6,4 @@
 - Kommer fra [[Lorath]].
 - Er [[Averikari]]
 - Er del af [[The Eight Hands]]
+- Har arbejdet sammen med [[Raduvar Mortleg]]

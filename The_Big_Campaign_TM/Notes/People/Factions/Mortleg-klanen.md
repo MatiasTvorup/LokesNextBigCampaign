@@ -1,0 +1,4 @@
+- Aka Swole-klanen
+- Er en nomadestamme fra [[Magonia]], som har specialiceret sig i at bygge kroppe. Body-building style, yoga-kursus, madplaner.
+- Forsvandt da folk flygtede fra [[Magonia]]
+- [[Raduvar Mortleg]] ledte [[Mortleg-klanen]] til [[Dolni Tsibar]]

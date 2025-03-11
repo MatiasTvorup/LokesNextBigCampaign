@@ -1,0 +1,4 @@
+- Ligger dybt inde i [[Magonia]].
+- Der er en [[The Chain]] her.
+- [[The Crucible of Genesis]] er her.
+	- Her bliver lavet [[Vitalloy]].

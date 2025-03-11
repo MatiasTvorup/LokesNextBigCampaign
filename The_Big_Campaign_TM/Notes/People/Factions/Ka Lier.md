@@ -1,0 +1,2 @@
+- Et folk, som er kravlet op af Jorden.
+- Hjælper [[Last Hope]] i deres struggles.

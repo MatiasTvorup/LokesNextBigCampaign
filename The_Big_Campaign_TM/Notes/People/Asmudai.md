@@ -1,0 +1,2 @@
+- Er blevet sendt til denne ø.
+- Elsker mennesker.

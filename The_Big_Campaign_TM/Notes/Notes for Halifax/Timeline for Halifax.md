@@ -695,9 +695,79 @@ Vi møder nogle gigantiske [[Artemvores]]. De vil have betaling for at lade os p
 Vi ender ved Virtuoso Tomb, hvor der er en fucked up struds. 
 Der har været nogen her, for at stjæle Virtuosoens arbejde. Det er forresten Jørgen den Første, som er begravet har. [[Ivailo Wycliffe]] knækker Jørgens lår og propper det i baglommen.
 
-Der er en fucked up robot, som vil have os ud af graven. Robotten siger, at de er lavet af [[Livsvæverne]], at dette er Kvadrant 2, og at [[Barokar]] snart vågner. 
-Robot siger at [[Dolni Tsibar]] er blevet taget af udefrakommende, at de skal bruge det til at lave [[Vitalloy]], så de kan vække skaberne og [[Barokar]].
+Der er en fucked up robot, som vil have os ud af graven. Robotten siger, at de er lavet af [[Dricaris Gildalon]], at dette er Kvadrant 2, og at [[Secarian Barokar]] snart vågner. 
+Robot siger at [[Dolni Tsibar]] er blevet taget af udefrakommende, at de skal bruge det til at lave [[Vitalloy]], så de kan vække skaberne og [[Secarian Barokar]].
 Robotten er lavet af Skaberne, som er i [[Zlatna Niva]].
 
 Vi fortsætter forvirrede mod [[Dolni Tsibar]] og skal gennem bjergene, fordi [[Magonia]]s store storm er påvej imod os.
 Vi er overhovedet ikke forberedt på at skulle klatre i bjerge.
+# Session 26
+## Scout drage-krater i [[Last Hope]]
+Det er dækket til af gyldent energi. Hårdt nok til at man kan gå på det. Hvis vi researcher nok kan vi måske bryde igennem det. Der ligger noget kraftfuldt dernede.
+## En gave fra en gammel ven
+En hvid maske, som gled på væggen. Efterlod en masse bøger fuld af hemmeligheder.
+## Tilbage i [[Magonia]]
+Vi er ankommet til [[Dolni Tsibar]]. Der er en mega-grande metal-port som blokerer vores adgang dertil. Og der er 2 [[Artemvores]] som holder vagt. Metal-porten har et huge øje, som holder øje med hvem der må komme ind.
+
+Vi går tættere på for at snakke med [[Artemvores]], som faktisk viser sig at være en [[Mannicks]] istedet. [[Mannicks]]en siger at han har ventet på os. At der er længe siden vi sidst sås. At planerne skrider fremad. Som [[Ivailo Wycliffe]] spørger hvem [[Mannicks]]en er, så skylder en sort bølge gennem landet, hvilket indikerer at endnu en [[The Chain]] er blevet ødelagt.
+[[Mannicks]]en siger at han er [[Gnathaxxar]]. Han har fået en midlertidlig krop. Han fortæller, at der er en [[The Chain]] i [[Dolni Tsibar]].
+
+### I [[Dolni Tsibar]]
+Døren vil ikke lukke os ind, men heldigvis har [[Arcon]] et ID kort, som kan lukke os ind.
+Der er gange til:
+- Grand Hall
+- Teaching Facility
+- Creature Labs
+- Habitation
+- Alchemy
+
+Vi tager til Alchemy Labs, men der er en gut som advarer os om at lade være. Han siger at vi kun må gå derind, hvis vi er klar. Han spørger hvem vi er, og vi svarer ikke rigtigt. Det er et [[Magonia]]nsk menneske. Han hedder [[Ulbar Mortleg]]. Han spurgte om vi var med [[Raduvar Mortleg]]. Han fortæller, at de er ganske få folk her. [[Raduvar Mortleg]] ledte [[Mortleg-klanen]] til [[Dolni Tsibar]]. [[Raduvar Mortleg]] har brugt [[The Crucible of Genesis]] til at skabe [[Artemvores]], som han har sendt ud, for at få mere skabelses-energi. [[Raduvar Mortleg]] har låst sig inde i [[The Crucible of Genesis]], hvorefter han ikke er blevet set i flere dage.
+
+[[Ulbar Mortleg]] leder os til [[Mortleg-klanen]] hemmelige base i [[Dolni Tsibar]]. De har tidligere forsøgt at lede et oprør her, men fejlede. Nu gemmer de sig i maskinrum og ventilationsskakte. 
+Her snakker vi med oprørs-[[Mortleg-klanen]]-lederen. Han fortæller at vi skal slukke for energien, for at undgå at [[Raduvar Mortleg]] laver noget i Grand Hall. 
+De har ikke kunnet lede i Creature Labs, fordi [[Mouth of Ghar]] er gået amok. [[Raduvar Mortleg]] har derfor afspærret dette område.
+
+[[Ivailo Wycliffe]] vil gerne hjælpe [[Mortleg-klanen]]-klanen, ved at give dem noget mad. Derfor trækker de nogle kaniner op af hatten - og ruller en 6'er. Så hatten suger dem ind, [[Arcon]] prøver at redde [[Ivailo Wycliffe]], og bliver suget med ind. [[Halifax]] forsøger at redde [[Arcon]] og bliver suget med ind. Og vi bliver alle tre spyttet ud igen som kaniner.
+Efter et par timer bliver vi vores almindelige selv.
+
+Vi forsøger at bullshitte os ind i Creature Labs, og vagterne forsøger prompte at pågribe os. Via vold kommer vi til Creature Labs, for at snakke med [[Mouth of Ghar]] og forhåbentligt skabe en alliance med dem, imod [[Raduvar Mortleg]].
+
+Vi bliver "fundet" af en "hund", som måske vil lede os til [[Mouth of Ghar]]. Men først bliver vi indlogeret på et ganske hyggeligt værelse, indtil at [[Mouth of Ghar]] har tid til at mødes med os. Og vi kommer måske under falske påskud af at være ambassadører fra [[Greffen-Gornenheim]].
+
+# Session 27
+"Hunden" bringer os mad, og siger at [[Sommerfugle-kongen]] glæder sig til at diskutere problemerne i [[Dolni Tsibar]] med os. Vi tager et hvil, og venter på at hunden vil bringe os til [[Sommerfugle-kongen]].
+
+Som hunden kommer tilbage, informerer os om, at vi er i et helt andet land, som hedder [[Ghardonia]], og giver os nogle sommerfugle-brocher, som indikerer at vi er gæster, og ikke affilieret med nogen af [[Ghardonia]]s adelige familier.
+
+Et vibecheck af [[Ghardonia]] siger, at det ikke er et alternativt univers på samme måde, som [[The Peddler]]s korridorer er.
+
+Hunden hedder forresten Gutnar.
+
+Vi følger Hunden, Gutnar, op til hoffet, hvor vi skal møde [[Sommerfugle-kongen]]. Folk omkring os siger at vi er sendt fra [[Greffen-Gornenheim]] og at de håber at vi kan hjælpe dem mod [[Nemisarerne]].
+
+[[Sommerfugle-kongen]] ligner en gammel mand. Er omgivet af sommerfugle. Han kan ikke lide at tale om [[Mouth of Ghar]]. Hver gang det bliver nævnt, flipper kongen lidt ud. Begynder om snakke om [[Nemisarerne]], en Fazir og deres angreb i Munta-provisen.
+
+[[Sommerfugle-kongen]] får overbevist os om, at vi skal hjælpe dem. Og tage til Faziren, i Munta-provinsen. I skoven bliver vi mødt at en stor, gammel, rimende dame, som fortæller os at vi skal tage mod nord, for at finde Faziren. Damen fortæller os forresten også, at vi skal spille skuespil ved åen. Det gør vi, og en lillebitte fugl lader være med, at stoppe os fra at rejse videre. Som om den kunne.
+
+Efter nogle mærkelige encounters begynder vi at chante "Munden af Agar", og verden begynder at opføre sig mærkeligt. Vi begynder at synke igennem jorden. 
+Verden bliver revet i stykker, og vi er tilbage i et mørkt rum, hvor der løber blod ned ad væggene.
+Der kommer nogle nasty ryttere og ser aggresive ud. Vi er counter-aggresive og dør kun næsten.
+# Session 28
+## Møde i Court of [[Last Hope]]
+[[Riela]]s Journal er blevet decoded. Der står:
+- [[Sparitanere]] er begyndt at lave oprør. [[The Chosen Hand]] er blevet oprettet til at slå dem ned, rapporterer til High [[Averikari]].
+- [[Riela]] snakker med [[Maravek vo Durillio]], som frygter at [[The Eight Hands]] er i fare. De tror at [[Søstrene]]/[[De Drømmende Søstre]] og [[Uduun of Ghathoth]] arbejder sammen, og måske at de vil slutte sig til [[The Unbound]]
+- [[Riela]] har fået ordre til at hjælpe [[Velanon]] med at bringe kaos til [[Last Hope]], så hans agenter kan lede efter [[The Well]], hvilket burde være et sted dybt under [[Last Hope]].
+
+## Tilbage i [[Dolni Tsibar]]
+Vi er i "Creature Training". Der kommer et råb fra "Creature Storage". Vi antager at det er [[Mouth of Ghar]], som er blevet sur over, at vi ødelage deres hallucination. Vi gemmer os for at heale.
+
+Vi vender tilbage mod "Creature Storage". Verden begynder at flicker lidt. Men vi kan sige "Munden af Ghar" for at skræmme det væk. Vi kommer til en dør markeret med "Extra Large Creature Containment". Der er flere personer som snakker bagved.
+
+Bag døren er en masse ulækre skabninger. De lader til at være bange for os. Bagerst i rummet sidder en konge på en trone, som er omgivet er døde sommerfugle. Bag kongen er en stor åben mund, som hvisker til kongen.
+
+Kongen siger at vi er deres fjender. Kongen er stadig [[Sommerfugle-kongen]], som siger at vi står i ledtog med Nemisarerne, og derfor går han i krig mod os.
+
+Vi har et uendeligt langt combat, hvor big bad king-man har en second healthbar. Halvdelen af holdet går ned, før at [[Ia Hajar]] straight up super-hero puncher hovedet af [[Sommerfugle-kongen]].
+
+Also, der er en gut, som har overværet hele kampen. Han er glad for at møde [[Ia Hajar]]. Han var her egentligt bare for at møde noget familie. Hans arbejdsgiver vil blive glad for {et eller andet}. [[Unsch Ratar Kalesch]] er blevet befriet siger han.

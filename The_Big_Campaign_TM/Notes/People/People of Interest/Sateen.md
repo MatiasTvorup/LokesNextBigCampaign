@@ -1,0 +1,6 @@
+- Er en [[Primalius]].
+- Også kendt som Satan.
+- Har skabt [[Primalius]]??
+- Ledte efter en måde af genoplive de tabte [[Primalius]] efter [[The Entombing War]]
+	- Ved at bruge [[Anasazi]] kræfter.
+- Kom til/blev forvist til [[Gehen]]

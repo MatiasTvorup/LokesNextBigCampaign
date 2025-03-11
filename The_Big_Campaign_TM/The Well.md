@@ -1,0 +1,2 @@
+- Er under [[Last Hope]].
+- [[Velanon]] leder efter det.

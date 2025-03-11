@@ -1,0 +1,3 @@
+- Holder til i [[Dolni Tsibar]]
+- Er gået amok.
+	- Stopper [[Raduvar Mortleg]] fra at gøre et-eller-andet i "Creature Labs"
