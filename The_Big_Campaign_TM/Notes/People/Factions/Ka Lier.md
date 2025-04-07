@@ -1,2 +1,3 @@
+- Er nok det samme som [[Ki Jinglet]]
 - Et folk, som er kravlet op af Jorden.
 - Hjælper [[Last Hope]] i deres struggles.

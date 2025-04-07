@@ -717,7 +717,7 @@ Døren vil ikke lukke os ind, men heldigvis har [[Arcon]] et ID kort, som kan lu
 Der er gange til:
 - Grand Hall
 - Teaching Facility
-- Creature Labs
+- Creature Labs/Storage
 - Habitation
 - Alchemy
 
@@ -771,3 +771,49 @@ Kongen siger at vi er deres fjender. Kongen er stadig [[Sommerfugle-kongen]], so
 Vi har et uendeligt langt combat, hvor big bad king-man har en second healthbar. Halvdelen af holdet går ned, før at [[Ia Hajar]] straight up super-hero puncher hovedet af [[Sommerfugle-kongen]].
 
 Also, der er en gut, som har overværet hele kampen. Han er glad for at møde [[Ia Hajar]]. Han var her egentligt bare for at møde noget familie. Hans arbejdsgiver vil blive glad for {et eller andet}. [[Unsch Ratar Kalesch]] er blevet befriet siger han.
+
+# Session 29
+Vi er i hvad der engang var [[Sommerfugle-kongen]]s tron-rum. 
+Rundt i rummet er [[Artemvores]]-gone-wrong. De skriger og begynder at angribe hinanden. De stikker af. De lader ikke til at være interesseret i os.
+I hjørnet af rummet er et lig, som har keycard. "Keycard of [[Ghinanog]]". 
+
+Vi forsøger at snakke med [[Mouth of Ghar]]. Den vil have os tættere på. Den vil have os til træde ind i [[Mouth of Ghar]]. 
+[[Mouth of Ghar]] siger at [[Raduvar Mortleg]] og [[Zeta Relk Beta Beta - The Warrior]] er ligegyldige. Den vil vise [[Ivailo Wycliffe]] hvad der er vigtigt.
+
+[[Ivailo Wycliffe]], the absolute madman, træder ind i [[Mouth of Ghar]], som synker ham.
+Efter et stykke tid dukker [[Ivailo Wycliffe]] op igen. Han kommer ikke fra [[Mouth of Ghar]], han er bare bag os.
+[[Ivailo Wycliffe]] har nyheder. 
+De dårlige: Han har muligvis undsluppet en trussel med [[Zeta Relk Prime - The Overmind]]. Den har virkeligt lange arme.
+De gode: Vi kan dræbe [[Zeta Relk Beta Beta - The Warrior]], sådan for reals. Ikke bare forstene.
+
+Hele historien (det virker ikke som det hele, og det er ret forvirrende):
+[[Ivailo Wycliffe]] blev slugt af [[Mouth of Ghar]], som tilbyder at hjælpe med at dræbe [[Zeta Relk Beta Beta - The Warrior]].
+[[Mouth of Ghar]] er forbundet med [[Zeta Relk Prime - The Overmind]]. De tjener samme formål, hvilket er at forberede forberedelsen. 
+Alternativt, vil [[Mouth of Ghar]] gerne have at [[Mesteren]] bliver fodret til dem. Det vil [[Ivailo Wycliffe]] ikke være med til. Så derfor tillader [[Ivailo Wycliffe]] at [[Mouth of Ghar]] rejser ind i deres sind. 
+
+[[Ivailo Wycliffe]] kan snakke med [[Mouth of Ghar]] inde i sit hoved.
+
+Vi vender tilbage til de gode [[Mortleg-klanen]]. De spørger om vi har fundet ud af hvordan man får adgang til Power Core - det har vi, vi har et nøglekort.
+
+Vi skal bruge adgang til Power Core, for at kunne stoppe den energistorm, som er inde i Grand Hall.
+
+Vi vader ned til Power Core. Her er meget varmt, og en dværg. Den har en chrome-dome. Vi overbeviser den om at slukke for Power Core.
+
+Herefter tager vi til Grand Hall, hvor energistormen nu er stoppet. Her er adgang til Alchemy Lab, Magic Lab, Administration og Teaching Facility. 
+
+Vi tager til Administration. Det ligner at det har været forladt i meget langt tid. 
+I det største kontor sidder der en skabning, som kalder sig [[Secarian Tricaris]], men også siger at de er selvpromoveret. Vi kan kalde dem [[Bidenskabs Rapport]]. De kender til [[Gnathaxxar]], og ved at de er ved at lave deres nye krop inde i [[The Crucible of Genesis]]. 
+Der har været en [[The Chain]] her, men den er blevet ødelagt.
+
+Vi tager igennem Magic Lab til [[The Crucible of Genesis]].
+I Magic Lab er ret tomt. Der er en gut, som er igang med at skrive. Han har travlt, vi skal nok lade være med at forstyrre. Han arbejder på tidsrejse via mega-punch.
+
+Vi vandrer videre til [[The Crucible of Genesis]]. Her er [[Raduvar Mortleg]] og han er mega-buff. Det lader til at [[Raduvar Mortleg]] har stjålet [[Gnathaxxar]]s nye krop. Eller måske omvendt. Jeg er ikke sikker.
+
+DET ER TID!
+
+Vi kom til at nakke [[Gnathaxxar]] før at [[Ivailo Wycliffe]] og [[Mouth of Ghar]] kunne finde ud af at sørge for at [[Gnathaxxar]] blev udslettet ordentligt. Nu sidder [[Mouth of Ghar]] fast i [[Ivailo Wycliffe]].
+
+Nevermind, [[Mouth of Ghar]] åbner en portal til [[Helvede]] og smutter derind. Jeg spiser portalen til [[Helvede]]?
+
+## Big news! Hånden er moden.
