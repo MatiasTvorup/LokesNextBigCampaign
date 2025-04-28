@@ -1,0 +1,2 @@
+- Er steppet højere end en [[Anasazi]].
+- Er ikke ankommet endnu.

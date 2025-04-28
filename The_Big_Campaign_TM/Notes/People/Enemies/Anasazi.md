@@ -10,3 +10,7 @@
 - Er fjenderne af ALT.
 - Modsatte af [[Primalius]].
 - Må fanges, indtil de skal destrueres.
+
+- De arbejder for [[Voraxius]]
+- Det var dem som flækkede verden, tilbage for lang tid siden.
+	- Vil gerne have verden i mindre bidder - som et fordøjelses-system.

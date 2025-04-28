@@ -3,3 +3,6 @@
 - Ligger i bjergene tæt på [[Veramore]].
 - Arbejder med extra-planar teknologi.
 - Ledet af [[Secarian Ghal]]
+
+# Theory
+- Er en våbenfacilitet

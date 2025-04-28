@@ -8,5 +8,7 @@ Er en [[Anasazi]], som bliver holdt fanget af [[The Chain]].
 
 En ukendt person har fanget The Overmind, med hjælp fra 3 andre ukendte, som lader til at være medlemmer af samme organisation eller gruppering.
 
+Bliver også kaldt [[Gooth Ganoon]]
+- Pånær [[Galen]], som var en nørd.
 # Spekulation
 Er måske relateret til [[Zeta Relk Cata]].

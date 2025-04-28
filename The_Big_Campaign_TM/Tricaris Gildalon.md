@@ -1,0 +1,2 @@
+- Er [[Livsvæverne]] af [[Zlatna Niva]]
+- Er flyttet til [[Dolni Tsibar]] for at operere [[The Crucible of Genesis]]

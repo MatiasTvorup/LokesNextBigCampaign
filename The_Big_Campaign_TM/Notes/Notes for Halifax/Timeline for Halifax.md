@@ -679,7 +679,7 @@ Og det betyder at han kan nakkes.
 ## På eventyr i [[Magonia]]
 Vi rejser ud, for at finde [[The Crucible of Genesis]], hvor der kan laves [[Vitalloy]], for at vi kan fuldende [[Projek Novicide]].
 På vejen finder vi en mand, som bliver chikaneret af nogle små [[Artemvores]]. Han lader ikke til at være up-to-date med current events i verden. Han vil gerne kaldes [[Mesteren]]. Andre kalder ham Skiderikken. Men han virker ret hyggelig, selvom han er lidt hjælpeløs. Han siger, at der er noget galt med landet. Han tror han var død, lige indtil at han valgte at lade være. What a chad. Han har dårlige erfaringer med dumme væsener som os. Vi er ikke særligt lærde, sådan på en kosmisk målestok.
-[[Mesteren]] snakkede med [[Baltor]] (Kragen), om at der var en træls gut, som [[Mesteren]] havde til ansvar om at stoppe.
+[[Mesteren]] snakkede med [[Valtor]] (Kragen), om at der var en træls gut, som [[Mesteren]] havde til ansvar om at stoppe.
 # Session 25
 [[Mesteren]] smutter for at pisse, og han forudsiger at det varer et par dage.
 
@@ -817,3 +817,54 @@ Vi kom til at nakke [[Gnathaxxar]] før at [[Ivailo Wycliffe]] og [[Mouth of Gha
 Nevermind, [[Mouth of Ghar]] åbner en portal til [[Helvede]] og smutter derind. Jeg spiser portalen til [[Helvede]]?
 
 ## Big news! Hånden er moden.
+
+# Session 30
+## Dragon Hide Barrier
+- Kræver en [[Moor Iconoclast]] for at kunne brydes.
+
+## Tilbage i [[Dolni Tsibar]]
+Vi er ved [[The Crucible of Genesis]]. Der er ikke noget [[Vitalloy]]. [[Mouth of Ghar]] har spist al [[Vitalloy]], før de smuttede til [[Helvede]].
+Vi prøver at finde ud af hvordan [[The Crucible of Genesis]] virker.
+
+[[Ulbar Mortleg]] fortæller, at folkene i [[Zlatna Niva]] kunne finde ud af at håndtere [[The Crucible of Genesis]]. [[Raduvar Mortleg]] kunne heller ikke rigtigt håndtere det.
+
+[[Ivailo Wycliffe]] har en teori om, at der er en gut i Alchemy Lab, som er ved at blive uetisk tortureret, og som ved hvordan man håndterer [[The Crucible of Genesis]]. Så der tager vi hen.
+
+Vi finder en lille hunde-mand, som render rundt med reagensglas og alkemi-supplies. De virker overraskede over, at vi overlevede [[Sommerfugle-kongen]]. 
+Hunden arbejder for den, som styrer Alchemy-Lab. Men siger også, at de ikke har flere forsøgspersoner.
+
+Hunden leder os dertil, og [[Arcon]] brækker sig i hjelmen.
+
+I laboratoriet er en stor grøn mand, med en sav. Der er også en masse mennesker, som er blevet skilt ad. Sammen med manden forsøger vi at samle det puslespil, som er [[Secarian Barokar]]. Det går ikke godt. [[Arcon]] slår det ihjel igen.
+
+Hvis vi nu finder nogle friske dele, så kan det måske lykkes at samle [[Secarian Barokar]] eller andre [[Livsvæverne]].
+
+Vi tager til [[Bidenskabs Rapport]] for at se, om de kan finde en rapport om [[Secarian Barokar]]. Det kan de ikke umiddelbart. Til gengæld kan vi få lov til at se den første rapport. [[Ivailo Wycliffe]] stenhugger en kopi. Det er en rapport omkring et væsen, der blev skabt af [[Primalius Gaia]]. Det er ikke vigtigt for vores opgave.
+
+[[Ivailo Wycliffe]] vil rigtigt gerne afskaffe [[Bidenskabs Rapport]] og deres bror. Men da vi sidst snakkede med dem, virkede det ikke til at de havde lyst til at være udenfor [[Dolni Tsibar]], så vi lader dem være her, og håber på, at de ikke laver balllade.
+
+Vi beder [[Bidenskabs Rapport]] om at lede efter rapporten angående [[Secarian Barokar]], som kan finde ud af at bruge [[The Crucible of Genesis]]. Vi skal tilbage om 4 uger, for at hente rapporten.
+
+Vi bestemmer os for at tage til [[Zlatna Niva]]. Før vi kommer afsted, dukker [[Mesteren]] op. Vi lukker ham ind. Dusørjægeren fandt ham. Men han overlevede.[[Mesteren]] er færdig med at være [[Mesteren]]. Han fortæller at [[Helvede]] har sendt en hær, for at indvadere, og dusørjægeren tog ham dertil. Men hæren er vendt om, for at deale med [[Mouth of Ghar]]. 
+
+[[Arcon]] piller ved liget, som er infused med [[Vitalloy]]. [[Arcon]]s spøgelse flytter ind i liget. Det er [[Vethanor]]. Han spørger om vi har snakket med en [[Anasazi]], så vi kan lære mere om dem.
+
+[[Mesteren]] spørger om vi har set [[Valtor]].
+- Hans mission er hemmelig.
+
+Vi lader [[Vethanor]] i hans nye krop, bliver sat til at holde styr [[Dolni Tsibar]]
+
+## Til [[Zlatna Niva]]
+Vi bliver mødt af [[Tricaris Gildalon]]s megafon-hund. De vil mobilisere alle [[Livsvæverne]], og så vil de nakke [[Tempestari]].
+
+[[Tricaris Gildalon]] rejser med os tilbage til [[Dolni Tsibar]] og [[The Crucible of Genesis]], for at kunne vække [[Secarian Barokar]] - den retmæssige afdelingsbestyrer af [[Magonia]].
+Der er kommet rapporter om mystiske ting, der sker i landet. 
+Men det har ikke prioritet. Der er kvoter for hvor mange kreaturer, der skal skabes. Og de er 2000 år bagud.
+
+[[Ivailo Wycliffe]] er ude for at minecrafte til hans sidequest.
+
+## Tilbage til [[Last Hope]]
+[[Ivailo Wycliffe]] fulender hans virtuoso's indkøbsliste. Til gengæld dør Ole, og [[Ivailo Wycliffe]] får et WWE World Heavyweight Champion bælte.
+Og begår vi dumheder i [[Omen King Arena]] og vinder en sej hat.
+
+Næste mål er [[Syte Beatan Hexum]]
