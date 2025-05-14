@@ -868,3 +868,47 @@ Men det har ikke prioritet. Der er kvoter for hvor mange kreaturer, der skal ska
 Og begår vi dumheder i [[Omen King Arena]] og vinder en sej hat.
 
 Næste mål er [[Syte Beatan Hexum]]
+
+# Session 31
+## Spies
+- Finder at der er [[The Chain]] i den syd-vestlige del af [[Cantua]].
+	- I nærheden af [[Sav Fgath]]
+- [[Dragon Cores]] bliver lavet af dragen, ved at spise en masse mennesker.
+	- Dragen ligger under [[Last Hope]] lige nu, så den laver nok ikke nogen [[Dragon Cores]] pt.
+- Der er opfanget en besked fra [[Lorath]] til [[Sav Fgath]] med teksten (decoded):
+	- "Lab onderneath [[Veramore]] must have [[The Chain]]. We lost crucible should have enough iconoclast. Start making [[Annihilators]]. Any news of [[Zeta Relk Beta Cata - The Shadow]], seems it is nowhere to be found."
+## Tour de [[Veramore]]
+Vi er påvej til [[Veramore]] for at finde [[Syte Beatan Hexum]], hvor der er en [[The Chain]], og hvor de engang for lang tid siden arbejdede på [[Project Null]], som kræver [[Vitalloy]] for at fuldende. Vi vi gerne fuldende det, så vi kan låse [[Anasazi]]erne inde for evigt. Derudover vil vi gerne stjæle deres [[Moor Iconoclast]]s, hvis de har dem.
+
+Påvej til [[Veramore]] ankommer vi til [[Venstadt]], en plantage hvor [[Sparitanere]] bliver tvunget til at arbejde. Folk virker ret usikre på os, som vi rejser igennem her.
+Nogle vagter stopper os. Det er en [[Midnatsridder]], som tjener [[Borodel]]. Han er tæt knyttet til [[Averikari]].  Vagten fortæller os, at vi ikke må komme ind i den bevogtede bymidte, og at vi skal lade være med at snakke med [[Sparitanere]].
+
+Vi tager til en kro, for at snakke med nogle af [[Sparitanere]]. [[Benkel]] er krofatter. Han spørger om vi skal med til hængning. Det er nogle folk, som blev taget i at planlægge et oprør. Btw, der er daglige henrettelser.
+
+[[Benkel]] advarer os mod [[Nattegængerne]], som gør at folk, der går ud om natten forsvinder. Det minder om da [[Averikari]] hidkaldte skyggemonstre. Han fortæller os også om [[Profetens Flammer]], som er en oprørsgruppe her og ledes af [[Ydriel]]. [[Benkel]] tror ikke på, at de holder sig selv i live i særligt lang tid endnu.  De holder til i en udbrændt kirke i nord-enden af [[Venstadt]].
+
+Der kommer nogen gutter, som vil have penge fra [[Benkel]]. Jeg overtaler dem til at være gode samfundsborgere og tjene deres egne penge. På den måde, at jeg betaler dem for at guide os til den udbrændte ruin. Det vil de gerne. Men de kan først gøre det imorgen.
+
+Hvis vi skal redde nogen, der skal henrettes, så skal vi gøre det til henrettelsen. 
+- Jeg kan evt swoope ind som en stor flyvende dino.
+
+# Session 32
+Vi er i [[Venstadt]] i [[Benkel]]s kro. Vi planlægger et prisonbreak. Men byen er hyldet i et unaturligt mørke. Vi bruger lang tid på at planlægge.
+
+Final plan: Darkvision til alle, og en kæmpe flagermus til at løfte os over muren. Vi kan nu se, at der er mørke tentakler overalt i byen. Det minder om hvad vi så, dengang den sidste [[The Chain]] blev brudt. Min Darkvision er ikke højt nok level, så jeg kan se fuckall.
+
+Vi kommer over muren og begynder at lede efter et fængsel. Vi finder en patrulje [[Midnatsridder]]e.
+
+Vi finder fængslet. Der er en gut holdt fanget. Han er meget bange for skyggerne. Han ville bare tage æblet. Vi kan kun komme ind gennem hoveddøren, og der er måske noget ude i skyggerne, som holder øje med os.
+
+Vi tager hoveddøren ind, og det leder til combat. Combat hvor der konsekvent står en gut i døren, og vi ikke kan komme ind og hjælpe [[Arcon]]. Og al den støj vi laver, det hidkalder et væsen fra skyggerne. Væsenet forsøger at stjæle [[Arcon]]!!
+
+Vi gemmer os indenfor, og væsenet opgiver at komme ind for at fange os. 
+
+Fanger bliver befriet, og de er overbevist om at vi er med [[Ydriel]] og [[Profetens Flammer]]. Sammen sniger vi os hen til væggen, som er virkeligt fucking høj, og vi har ikke nogen plan for at komme over den.
+
+Der er stadigt mørkt, så vi holder en pause og [[Ivailo Wycliffe]] bygger en skov, for at dække os. Dette hidkalder et væsen, som begynder at råbe af os, hvilket alarmerer vagterne. Så vi stikker ild til skoven og stikker af tilbage ud i den fattige del af byen. Den meget mørke del af byen.
+
+Vi ender tilbage hos [[Benkel]]s kro. Vi har reddet 5 [[Sparitanere]], så der ikke er nogen henrettelser idag. Men så kommer der nogle vagter og henter [[Fafnik]], som holdte til på [[Benkel]]s kro. Nu skal han bare henrettes istedetfor.
+
+Vi venter på kroen, indtil at vores ride kommer, og siger at der er en dusør på os, så prisen er steget il 50GP. Det er en god handel, og vi tager til kirken, hvor vi møder [[Ydriel]]s discipel. De vil fortælle os [[Ydriel]] profesi. De frygter hvad [[Midnatsridder]]ne og [[Borodel]] vil gøre. Ofte er det flere henrettelser. [[Ydriel]] vil gerne møde os, og diskutere hvordan folket kan befries. Disciplen hidkalder [[Ydriel]] - plot tvist, det er [[Sagres]]???? Eller ligner ihvertfald ret meget.
