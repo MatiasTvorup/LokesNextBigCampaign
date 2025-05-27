@@ -912,3 +912,19 @@ Der er stadigt mørkt, så vi holder en pause og [[Ivailo Wycliffe]] bygger en s
 Vi ender tilbage hos [[Benkel]]s kro. Vi har reddet 5 [[Sparitanere]], så der ikke er nogen henrettelser idag. Men så kommer der nogle vagter og henter [[Fafnik]], som holdte til på [[Benkel]]s kro. Nu skal han bare henrettes istedetfor.
 
 Vi venter på kroen, indtil at vores ride kommer, og siger at der er en dusør på os, så prisen er steget il 50GP. Det er en god handel, og vi tager til kirken, hvor vi møder [[Ydriel]]s discipel. De vil fortælle os [[Ydriel]] profesi. De frygter hvad [[Midnatsridder]]ne og [[Borodel]] vil gøre. Ofte er det flere henrettelser. [[Ydriel]] vil gerne møde os, og diskutere hvordan folket kan befries. Disciplen hidkalder [[Ydriel]] - plot tvist, det er [[Sagres]]???? Eller ligner ihvertfald ret meget.
+
+# Session 33
+## Scouts: Annihilators
+[[Sav Fgath]]. Stjæler schematics. Tager en dværg [[K'Sum-klan]] til fange. [[Annihilators]] er deres magnum opus. [[K'Sum-klan]] havde fået [[Dragon Cores]] fra [[Corinthar]], men har nu ikke noget at bruge dem til længere - fordi de efterhånden har smadret alle [[The Chain]]. Så har nu bygget en voldstor kanon, som kan skyde med [[Dragon Cores]]. Er i størrelsesordenen, hvor en enkelt kanon, ville væren nok til at ødelægge [[Last Hope]].
+## Veramore - Hos [[Profetens Flammer]]
+Et hologram af [[Sagres]]/[[Ydriel]] er blevet hidkaldt. [[Sagres]] bekræfter at vi har mødtes tidligere, og at hun er tilhænger af "Profeten", [[Modrath]], [[Zeta Relk Beta Alpha - The Prophet]]. Deres plan er at sætte [[Zeta Relk Prime - The Overmind]] fri.
+
+[[Sagres]] har fundet info om, at [[World Warden]]s har planlagt en rensning. 
+
+Kosmiske entiteter, [[Helvede]] og guderne kæmper en krig.
+
+[[K'Sum-klan]] og [[The Eight Hands]] arbejder sammen for at kontrollere [[Zeta Relk Prime - The Overmind]], så både de udefrakommende, [[World Warden]]s og [[Helvede]] kan tabe krigen.
+
+Vi kan ikke blive enige med [[Sagres]] om hvad den rigtige vej frem er for at redde verden, så [[Sagres]] kalder os for onde. Og så knækker hun en ordentligt røvfuld [[The Chain]] og verden bliver spooks. Og de lokaler bliver sure på os. Og der er mange af dem. Oh god, der er mange af dem. Det er så synd for dem.
+
+Efter kampen finder vi ud af, at hele byen nu er blevet indhyldet i mørke og tentakler.

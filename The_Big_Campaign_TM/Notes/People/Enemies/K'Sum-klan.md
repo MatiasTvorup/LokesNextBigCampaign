@@ -1,4 +1,5 @@
 Er bad guys, som har overtaget [[Cantua]]
+- Når de keder sig, bygger de åbentbart masseudryddelsesvåben, se [[Annihilators]]
 # B-0 XOR
 Weakest save:
 Weaknesses: Electric

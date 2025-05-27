@@ -1,0 +1,3 @@
+- Bliver bygget af [[K'Sum-klan]]en.
+- Er en kæmpe kanon, som skyder med [[Dragon Cores]].
+- 
