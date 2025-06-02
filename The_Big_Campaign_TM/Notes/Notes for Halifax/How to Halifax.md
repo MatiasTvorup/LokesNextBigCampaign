@@ -15,3 +15,18 @@
 		2. Hit by fire damage? (Any kind)
 			1. Pyrophillic Recovery
 				1. Regain HP == Half level.
+
+# How to Gypsie-Danger
+## Round 1
+Enten
+- Haste Arcon & Recall knowledge, hvis der er 1 enkelt big bad
+- Summon Troll, hvis der er mange fjender.
+
+## Round 2
+Enten
+- Albatross Curse, hvis 1 big Bad.
+- Hvis der er mange enemies: Noget AOE eller summon wall, fuck jeg har glemt mine spells.
+
+## Round 3
+
+

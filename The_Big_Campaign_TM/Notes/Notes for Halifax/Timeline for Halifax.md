@@ -433,6 +433,7 @@ Vi får hazmat, og skal kæmpe os igennem oozes i kemi-lokalet. Det er et 1000 �
 Vi får genopladet krystallen, som vi bruger til at vække [[Secarian Deltreon]].
 Bogen spørger om der stadig er skabninger på øen, og at [[Mesteren]] ville evakuere øen. Bogen siger at vi lugter af [[Null]] og spørger om vi har været i nærheden af [[Syte Beatan Hexum]]
 
+*(Edit: Årsag til ikke at holde med [[Sagres]], [[K'Sum-klan]] og [[Uduun of Ghathoth]])*
 Hvis [[Zeta Relk Prime - The Overmind]] bliver sluppet fri, kan den slippe alle de andre [[Anasazi]]er fri. [[The Entombing War]] ville starte forfra, bortset fra at [[Mesteren]] og kompagni ville tabe, fordi de allerede mistede mange folk i første omgang.
 
 Hovedarkivet, [[Syte Centralis]], ligger i søen vest for [[Last Hope]]. Her kan vi måske finde mere information omkring [[Anasazi]] og [[Projek Novicide]].
