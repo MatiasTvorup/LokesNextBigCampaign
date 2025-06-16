@@ -1,0 +1,5 @@
+- Bestyrer [[Syte Siren]] sammen med [[The Eye in The Sky]]
+- Er skabt i [[Relkara]] af [[Lunara]].
+- Er en [[Secarian]]
+- Vil gerne besøge [[Herren af Sangen]]
+- [[The Eye in The Sky]] kender også [[Vandreren]] som "The Warden".

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"762f58c109e57fcf","type":"file","file":"Twisting Corridors.md","x":-1540,"y":440,"width":400,"height":400},
+		{"id":"36041682b962ab08","type":"file","file":"Paradis.md","x":-1540,"y":-120,"width":400,"height":400},
+		{"id":"86f9cc973b345118","type":"file","file":"Notes/Places/Null.md","x":-1540,"y":1040,"width":400,"height":400},
+		{"id":"e78ecf4658de7c6b","type":"file","file":"Notes/Places/Vargren.md","x":-920,"y":440,"width":400,"height":400},
+		{"id":"47965b9116a4cd57","type":"file","file":"Notes/Places/Velekia.md","x":-920,"y":1040,"width":400,"height":400},
+		{"id":"a125169c0b124c2b","type":"file","file":"Notes/Places/Gehen.md","x":-240,"y":440,"width":400,"height":400},
+		{"id":"55b66d380c821320","x":400,"y":440,"width":400,"height":400,"type":"file","file":"Sanctia.md"},
+		{"id":"67e48eea6bcb8bca","x":-120,"y":1440,"width":400,"height":400,"type":"file","file":"Notes/People/People of Interest/Sateen.md"}
+	],
+	"edges":[
+		{"id":"f415852c200f0f24","fromNode":"86f9cc973b345118","fromSide":"top","toNode":"762f58c109e57fcf","toSide":"bottom","label":"Er en del af"},
+		{"id":"046ef7139f67bff9","fromNode":"47965b9116a4cd57","fromSide":"top","toNode":"e78ecf4658de7c6b","toSide":"bottom","label":"Er i"},
+		{"id":"6a1290b0aaa9baf9","fromNode":"67e48eea6bcb8bca","fromSide":"top","toNode":"a125169c0b124c2b","toSide":"bottom","label":"Hersker i"}
+	]
+}

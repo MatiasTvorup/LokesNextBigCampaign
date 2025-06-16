@@ -1,0 +1,3 @@
+- Det er her [[Zeta Relk Prime - The Overmind]] er fanget.
+- [[Broder Coranar]] bor her.
+- Man kan komme hertil via en kirke i [[Venstadt]], hvis man er villig til at betale et øje.

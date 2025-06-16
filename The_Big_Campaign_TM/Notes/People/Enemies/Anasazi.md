@@ -14,3 +14,10 @@
 - De arbejder for [[Voraxius]]
 - Det var dem som flækkede verden, tilbage for lang tid siden.
 	- Vil gerne have verden i mindre bidder - som et fordøjelses-system.
+
+Stærke [[Anasazi]], som er kendt:
+- [[Xorhalvar]] 
+- [[Mouth of Ghar]] 
+- [[Zeta Relk Prime - The Overmind]]
+- [[Xulthu'un]]
+- [[Unsch Ratar Kalesch]]

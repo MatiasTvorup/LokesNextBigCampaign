@@ -1,0 +1,3 @@
+- Er overseeren af [[Syte Siren]].
+	- Giver ordrer til [[Dricaris]]
+- Bliver også kaldt "Det Tredje Øje" eller "Månen over [[Siren]]".

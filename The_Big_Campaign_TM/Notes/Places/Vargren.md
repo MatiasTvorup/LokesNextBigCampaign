@@ -1,2 +1,3 @@
 - [[Volgrar]] hersker her.
 - Er den anden halvdel af [[Gehen]]
+- Det er det plane/verden, hvor [[Velekia]] er.

@@ -1,2 +1,3 @@
+- Er den verden som vi kommer fra.
 # Theory
-- Er måske det samme som [[Velka]]
+- Blev tidligere omtalt som [[Velkia]]

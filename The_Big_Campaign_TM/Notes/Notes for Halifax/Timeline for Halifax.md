@@ -551,7 +551,7 @@ Vi finder nogle noter, som er skrevet 200 år efter [[The Entombing War]]. Beskr
 
 Der er en død Datamind.
 ### Note
-Vi finder nogle flere noter, som er skrevet 342 år efter [[The Entombing War]]. Beskriver at [[Vinctus]] er det samme som [[Anasazi]], og at en sprække gror ned gennem verden. [[Vinctus]] tror på at sprækken er et omen, for at [[Voraxius]] kommer til denne verden. [[Merrick - The Fool]] har fået til opgave at undersøge dette. Forfatteren har fået til opgave at styre et inddæmnings-center som hedder [[Velka]], hvilket er inspireret af deres subjekter som er [[Zeta Relk]]. Derudover savner forfatteren virkeligt meget en eller anden.
+Vi finder nogle flere noter, som er skrevet 342 år efter [[The Entombing War]]. Beskriver at [[Vinctus]] er det samme som [[Anasazi]], og at en sprække gror ned gennem verden. [[Vinctus]] tror på at sprækken er et omen, for at [[Voraxius]] kommer til denne verden. [[Merrick - The Fool]] har fået til opgave at undersøge dette. Forfatteren har fået til opgave at styre et inddæmnings-center som hedder [[Velkia]], hvilket er inspireret af deres subjekter som er [[Zeta Relk]]. Derudover savner forfatteren virkeligt meget en eller anden.
 
 ### Datamind & Zombie
 Vi åbner en dør ind til en datamind, som prøver at overtale en zombie, [[Secarian Penumdulo]], til at lade være med at være en zombie. Vi banker noget fornuft ind i [[Secarian Penumdulo]], og tilbyder dem derefter en krystal, så de kan få deres krafter igen.
@@ -566,7 +566,7 @@ Vi går ikke hen, der hvor vi kan finde adgangskortet, istedet finder vi flere s
 
 ### Note
 Vi finder endnu en note. Skrevet 731 år efter [[The Entombing War]]. Sprækken har delt verden i to. [[Gehen]] og [[Sanctia]], bliver delene kaldt. Forfatterens projekt er i [[Gehen]], sammen med en række af de mere følsomme "containments". 
-For at kunne rejse mellem de to verdener vil de genbruge nogle ting, som de har udviklet i [[Velka]], i [[Syte Beatan Hexum]], hvilket er [[Project Null]], som også bliver refereret til som "korridorer".
+For at kunne rejse mellem de to verdener vil de genbruge nogle ting, som de har udviklet i [[Velkia]], i [[Syte Beatan Hexum]], hvilket er [[Project Null]], som også bliver refereret til som "korridorer".
 Forfatteren siger at de savner en eller anden virkeligt meget, og når dette er ovre, så vil de lede efter dem.
 
 ### Shrooms
@@ -578,7 +578,7 @@ Derudover har forfatteren besøgt [[Syte Beatan Hexum]] og set [[Project Null]] 
 De (herunder forfatteren) har fundet ud af hvordan man rejser imellem verdener.
 ### NOte
 Den sidste, angiveligtvis. Skrevet 1437 år efter [[The Entombing War]]. Forfatteren er [[Gaellartharien]], som skriver til [[Calia]]. Skriver at [[Sateen]] har forsøgt at absorbere en [[Anasazi]], og at mange [[Secarian]]s og [[Datamind]]s har sluttet sig til [[Sateen]]. 
-De evakuerer fra [[Velka]] til [[Sanctia]], igennem korridorerne i [[Project Null]]. De har ikke haft muligheden for at sikre [[Zeta Relk]], så de har gemt det istedet. 
+De evakuerer fra [[Velkia]] til [[Sanctia]], igennem korridorerne i [[Project Null]]. De har ikke haft muligheden for at sikre [[Zeta Relk]], så de har gemt det istedet. 
 [[Gaellartharien]] frygter at en krig kommer, hvis [[Sateen]] ikke bliver stoppet. Derfor har han og de andre [[Primalius]] et møde, når [[Gaellartharien]] kommer til [[Sanctia]]. 
 Derudover har [[Gaellartharien]] været tæt på at finde ud af hvad der sker, når man dør.
 
@@ -929,3 +929,84 @@ Kosmiske entiteter, [[Helvede]] og guderne kæmper en krig.
 Vi kan ikke blive enige med [[Sagres]] om hvad den rigtige vej frem er for at redde verden, så [[Sagres]] kalder os for onde. Og så knækker hun en ordentligt røvfuld [[The Chain]] og verden bliver spooks. Og de lokaler bliver sure på os. Og der er mange af dem. Oh god, der er mange af dem. Det er så synd for dem.
 
 Efter kampen finder vi ud af, at hele byen nu er blevet indhyldet i mørke og tentakler.
+
+# Session 34
+Vi er stadig stuck i [[Venstadt]]. Byen er indhyldet i mørke og spooky væsener. Og vi skal stjæle det magisk lygte-pulver fra nogle [[Midnatsridder]]e, for at vi kan lave magisk fyrværkeri og ødelægge mørket.
+- Vi var påvej til [[Veramore]], for at fuldende [[Project Null]], fordi nu havde vi endeligt fanget nok [[Vitalloy]].
+
+Vi forsøger at klække en plan til at komme ud herfra/befri byen
+- Vi kan knække en [[The Peddler]]-coin, og bruge [[Twisting Corridors]] til at stikke af.
+- Vi kan fucking slås os igennem
+- Vi kan flyve
+
+Vi forsøger at sneak. Det går ikke godt. Vi finder samme bæst, som blev sur på os, da vi forsøgte prisonbreak. Og det går meget bedre denne gang, for some reason.
+
+Vi bryder ind på indersiden af murene, finder nogle [[Midnatsridder]]e, som vi vil have til at lede os til deres pulver-lager. [[Midnatsridder]]en siger at hans mester ([[Struanar]]) vil snakke med os. Ridderen siger også noget om [[Virimar]] og [[Void Whiskers]] - og at de har brug for hjælp til noget. [[Midnatsridder]]erne er pro [[The Eight Hands]] og anti [[Uduun of Ghathoth]].
+
+Ridderen tager os til paladset midt i [[Venstadt]]. Her er en masse fine folk, som kigger på et kort over byen. Her møder vi [[Struanar]], som siger at han har ladet tingene gå for langt.
+[[Struanar]] siger:
+- Der er en ustabilitet, som begyndte da de fandt en [[The Chain]] og ødelagte den.
+- [[Virimar]] sagde at der er en tynd væg mellem denne verden og [[Zeta Relk Prime - The Overmind]]s fængsel.
+	- Nu bliver der trukket væsener igennem.
+	- Under byen.
+- Han plejede at have kontrol over byen
+- Han er [[The Eight Hands]]
+- [[Virimar]] har spredt propagande via hans [[Void Whiskers]], som kontrollerer riften mellem verdenerne.
+	- Det har fået befolkningen til at holde med [[Virimar]]
+	- [[Virimar]] er [[Uduun of Ghathoth]].
+- [[Void Whiskers]] producerer lysstøvet.
+	- Det gør de ikke længere, fordi de ikke er venner længere.
+
+Vi vil gerne have riften til [[Zeta Relk Prime - The Overmind]]s verden lukket. Vi vil også gerne have skygge-domen ødelagt. Til dette vil vi gerne bruge fyrværkeri. [[Ivailo Wycliffe]] forsøger at lave en lys-pulver-bombe. Det fumler han lidt, så vi bliver forsinket. Men det fucking virker.
+
+Vi bliver ledt til en kirke, som er indgangen til riften til [[Zeta Relk Prime - The Overmind]]s verden. Der er hyggeligt stearinlys tændt. Der er ikke nogen siddepladser, og kun en enkelt person til stede.
+Han omtaler sig selv som Transportøren. Han siger, at vi er kommet for at kommet til [[Paradis]]. Hvis vi fortyder er "Guth Ganum the overmind er almægtig" safe-wordet.
+
+[[Ivailo Wycliffe]] betaler et øje for at [[Arcon]] kan komme med. Vi bliver ledt til riften.
+Vi bliver dunket ned i en meget kold væske, som nok er hinden mellem verdenerne. Der er noget som trækker os ned, og tilbage op. Vi lander på et stengulv. Der er mange kultister omkring os. En af dem byder os velkommen til [[Paradis]]. [[Broder Coranar]] hedder han. De mangler alle sammen et øje. 
+
+[[Broder Coranar]] siger at de skal gøre "[[Paradis]]et" til [[Paradis]], og gøre det klar til at alle de andre ankommer. 
+Det ligner at [[Zeta Relk Prime - The Overmind]] er fanget af kæder i himlen her i "[[Paradis]]". [[Broder Coranar]] kalder det for Gud, og vil gerne have dem befriet, så "[[Paradis]]et" kan bliver terraformet til et godt sted, hvor der ikke er nogen sociale klasser, drager, guder, dæmoner eller korte folk. 
+
+Vi bliver ledt til udkanten af samfundet i "[[Paradis]]", hvor der sidder en gammel [[Ki Jinglet]]-dude, han er [[Navigatøren]]. Han var på jagt efter [[Unsch Ratar Kalesch]], og så endte han i menneske-verdenen. Han siger "der er slet ikke nogen krig længere" - det er mellem [[Primalius]] og [[Anasazi]]erne. 
+Den gamle mødte [[The Peddler]], som ledte ham til "[[Paradis]]". 
+[[Navigatøren]] har kortlagt "[[Paradis]]", og han har fundet en underlig lilla by, hvor der er en stort øje i himlen. [[Ia Hajar]] husker at kongen af [[Cantua]] har haft underlige mareridt der matcher denne beskrivelse.
+[[Navigatøren]] fortæller også at der er nogle huler i bjergene, hvor der bor nogle væsener, men de er meget svære at huske.
+
+Vi sætter kurs mod den underlige by, som kongen af [[Cantua]] har haft mareridt om.
+
+# Session 35
+## Kongen har en ond drøm.
+En lilla by. Med skyskrapere. Og et øje i himlen. Og succes på et check, så nu har han 1 eye insight og 2 eye strength. Ingen ved hvad de betyder.
+## Tilbage til at lave dumme valg
+Som vi går ud af byen "New Haven" i "Paradis", kommer der stemningsmusik - åh nej.
+Påvej til den mærkelige by, finder vi et væsen, som vi får en potion fra, som forstærker vores Glarp.
+De omtaler "Paradis" som [[Relkara]]. Siger at de måske vil besøge [[Herren af Sangen]]. Både væsenet og øjnet er [[Secarian]]s, som er her for at bestyre [[Syte Siren]]. Skabningen i himlen er en [[Anasazi]]. Der er nogen som bor under bjerget, og måske inde i bjerget. Væsenet er skabt af [[Lunara]]. De er løbet tør for kraft i deres facilitet. Strømmen kommer fra [[The Chain]]s. Nu mangler de strøm. [[Vandreren]] kalder væsenet sig selv.
+
+[[Vandreren]] vandrer med os til bjergene, hvor [[Vandreren]] skal besøge [[Herren af Sangen]]. Vi skal besøge nogen, som bor under bjerget, og som ligner os.
+
+Vi går ned igennem nogle tunneller, og finder kradsemærker på vores sprog, hvor der står "Denne vej ->". Jo længere ned vi kommer, desto flere kradsemærker ser vi. Der er nogle stemmer, som er meget begejstrede for at vi er ankommet. 
+
+Stemmerne kommer fra [[The Forgotten Ones]], som vi også mødte i [[Greffen-Gornenheim]]. De byder os på gammelt vand.
+De kan rejse fra vores verden til [[Relkara]]. Man skal bare ikke gøre det for ofte, for så bliver man spist af "monsteret" (?). 
+Vi bliver enige om, at udnytte [[The Forgotten Ones]] passage hjem senere, og så tage til [[Siren]]-byen for at tale med [[The Eye in The Sky]].
+
+Vi vader ind i [[Siren]]. Her er meget tåget. Der er mange mennskelige skabninger, men de forsvinder, når vi kommer tæt på dem. Vi klatrer op på en bygning og får [[The Eye in The Sky]]s opmærksomhed, som fortæller at [[Syte Siren]] bruges til at researche hvordan [[Zeta Relk Prime - The Overmind]] fungerer.
+[[The Eye in The Sky]] fortæller at de skal bruge en kraftig magisk genstand for at sætte gang i systemet. Der er sådan en genstand i tårnet på søen, i skoven og i bjerget. Derudover har både [[Ivailo Wycliffe]] og [[Arcon]] også en tilpas stærkt magisk genstand på sig, til at det kunne ofres for at starte systemet.
+
+[[The Eye in The Sky]] fortæller at et individ kun kan snakke med [[Zeta Relk Prime - The Overmind]] 1 gang, derefter bliver de sindsyge. 
+[[The Eye in The Sky]] ville være i stand til at flytte [[Zeta Relk Prime - The Overmind]] til en anden dimension - [[Project Null]] for eksempel.
+
+[[The Eye in The Sky]] er gode venner med [[Barcelos af Cantua]](?), som laver research i [[Syte Siren]].
+
+**New Goal: Find et mega-magisk item, for at sætte strøm til [[Syte Siren]]**.
+
+Vi tager til bjerget for at finde et mega-magisk item, og vi kan høre sangen. [[Arcon]] bliver lidt mad. Det er måske [[Herren af Sangen]]. 
+
+Efter et par sanity-checks ender vi inde bjerget, hvor der er en magisk skabning, som måske kan bruges til at give strøm til [[Syte Siren]]. Skabningen giver os ønsker. 
+Første ønske var et give [[Zeta Relk Prime - The Overmind]] lyst til at danse, så det kan generere energi til [[Syte Siren]].
+
+Vi samler [[Vandreren]] op fra dybt inde i bjerget, og overtaler dem til at tage med os tilbage i [[Syte Siren]], for at se om der bliver lavet strøm nok. Det er [[Vandreren]], som har bygget maskinrummet.
+Nu hvor strømmen er tændt, kan vi tage videre til arkiverne, hvor vi kan finde info om [[Zeta Relk Prime - The Overmind]], [[Project Null]] og hvordan vi bygger et nyt fængsel til [[Zeta Relk Prime - The Overmind]].
+
+Her lærer vi en masse on [[Zeta Relk Prime - The Overmind]] og [[Anasazi]] generelt.

@@ -1,0 +1,4 @@
+- Er det fængsel som er lavet til at holde [[Zeta Relk Prime - The Overmind]] fanget.
+- Er ikke operationelt lige nu. 
+	- Blev brugt til at researche hvordan [[Zeta Relk Prime - The Overmind]] fungerer.
+- 
