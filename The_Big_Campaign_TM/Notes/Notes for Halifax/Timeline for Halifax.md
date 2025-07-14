@@ -1010,3 +1010,76 @@ Vi samler [[Vandreren]] op fra dybt inde i bjerget, og overtaler dem til at tage
 Nu hvor strømmen er tændt, kan vi tage videre til arkiverne, hvor vi kan finde info om [[Zeta Relk Prime - The Overmind]], [[Project Null]] og hvordan vi bygger et nyt fængsel til [[Zeta Relk Prime - The Overmind]].
 
 Her lærer vi en masse on [[Zeta Relk Prime - The Overmind]] og [[Anasazi]] generelt.
+
+# Session 36
+## Hvorfor er det vi er her
+Der var kultister, som har bragt monstre til [[Venstadt]]. Portalen mellem [[Venstadt]] og [[Zeta Relk Prime - The Overmind]]s verden ligger i en kirke i [[Venstadt]]. Portalen skulle vi ødelægge, men istedet kom vi til at gå igennem den. Så nu skal vi finde en ny måde at ødelægge det på.
+
+## Svar på spørgsmål
+1. Er Slimmoderen på samme badness-level som Overmind and The Gang?
+	1. Er usikker på om [[Slimmoderen]] er [[Anasazi]] eller [[Secarian]], men er ihvertfald ikke samme niveau som [[Zeta Relk Prime - The Overmind]].
+2. Kan vi få opskriften på at fuldføre [[Project Null]]?
+	1. Det er bedst af henvende sig til [[Syte Beatan Hexum]]
+3. Hvad mener Det Tredje Øje med, at Barcelos laver god research i Syte Siren?
+	1. De kan sende signaler til [[Barcelos af Cantua]]. De føler at han har en vigtig funktion senere. Ved ikke hvordan. 
+4. Hvad er tidsplanen for exterminatus?
+	1. No fucking clue.
+
+## Eventyret fortsætter
+Vi skal ødelægge portalen herfra til [[Venstadt]]. Enten skal vi tage portalen tilbage til [[Venstadt]] (hvilket måske ikke er muligt), ellers skal vi ødelægge portalen i [[New Haven]]. Derefter kan vi komme herfra til vores verden, via [[The Forgotten Ones]] portal under bjerget.
+
+Arkivet i [[Syte Siren]] har information om [[New Haven]], som byen omkring portalen hedder. De laver et ritual, som absorberer "Gunk" ([[Anasazi]]-energi) der falder fra [[Zeta Relk Prime - The Overmind]]. Dette sender de videre til et andet sted.
+
+## Tilbage i [[New Haven]]
+Vi er her for at undersøge ritualet. Vi skal finde ud af om det er ondt.
+De har været igang med at indfange ånder, som de sender tilbage til overfladen. Det virker til at være de monstre, som vandrer rundt i [[Venstadt]] om natten.
+
+Vi bliver enige om:
+1. Vi skal smadre krukkerne.
+2. Vi skal smadre portalen.
+3. Smadre [[Broder Coranar]]
+	1. Og alle andre, som kan lave forsendelsesritualet.
+4. Løb.
+
+Vi tager til der hvor vi tror [[Broder Coranar]] holder til. Vi prøver at overbevise ham om, at de skal lade være med at sende "engle" igennem portalen. Det vil han ikke, så vi tyer til vold. [[Broder Coranar]] smadrer en krukke og tvinger os i kamp mod en dæmon-ting.
+
+Efter kamp følger vi efter [[Broder Coranar]] ned i en kælder, hvor han truer med at hidkalde en masse dæmoner fra alle hans krukker. By the power of voldsomt gode initiative rolls, undgår vi combat, og så henretter vi [[Broder Coranar]].
+
+Vi stjæler dæmon-krukkerne og tager dem med ud til glassøen. På vej møder vi en af borgerne fra [[New Haven]], som stiller spørgsmål til hvorfor vi bærer på dæmon-krukkerne midt om natten. Vi siger, at [[Broder Coranar]] siger at det er ok. De tager ud for at bekræfte med [[Broder Coranar]]. 
+Vi stikker af og kort efter ringer kirkeklokkerne alarm. Krukkerne bliver smidt i søen, og de lokale kan ikke få dem tilbage - lige nu ihvertfald.
+
+Vi tager tilbage til [[New Haven]] og ødelægger portalen.
+
+## Hjemad
+Vi rejser til [[The Forgotten Ones]], for at komme tilbage til vores egen verden. Vi diskuterer meget, om vi skal gå som en gruppe, eller individuelt, og om vi egentligt gerne vil spises af monsteret.
+
+Jeg dropper et af [[Slimmoderen]]s frø i [[Relkara]].
+
+## Tilbage til main quest.
+Vi kommer tilbage til vores egen verden. Vi er landet i [[Greffen-Gornenheim]].
+
+Vi er ikke blevet time-warped, mens vi har været inde i [[Relkara]], så vi skynder os videre mod [[Veramore]]. Men først stopper vi ved [[Venstadt]], for at se om vi har gjort en forskel. Borgmesteren af [[Venstadt]] er glade for vores hjælp, og giver os heste, og navnet på en informant i [[Veramore]], som måske kan hjælpe os. [[Yulkala Tol Ren]] hedder informanten. Vi får beskrivelse til hvordan vi finder informanten. Det er sejt og alt muligt. "En faxe kondi, uden is, og uden kondi."
+
+Main questen er:
+	Vi er påvej til [[Veramore]] for at finde [[Syte Beatan Hexum]], hvor der er en [[The Chain]], og hvor de engang for lang tid siden arbejdede på [[Project Null]], som kræver [[Vitalloy]] for at fuldende. Vi vi gerne fuldende det, så vi kan låse [[Anasazi]]erne inde for evigt. Derudover vil vi gerne stjæle deres [[Moor Iconoclast]]s, hvis de har dem.
+
+## Ankommet til [[Veramore]]:
+Byen er inddelt i flere lag. Der er mange [[Sparitanere]], som ikke bliver behandlet særligt godt.
+Der vader også monstre rundt i gaderne. Mindre end hvad vi før har set. Bliver trukket rundt af vagterne.
+
+Vi mødes med [[Yulkala Tol Ren]]. Han er en gammel mand. Han har sin nevø med, og siger at han er god nok.
+[[Yulkala Tol Ren]] siger, at der foregår ting i [[Veramore]]. De har fundet noget under byen. Gamle kamre. De fik en stor maskine kørt ind. De højere klasser er helt oppe og køre over det. Dem som går ned i kamrene kommer ikke op igen.
+
+Alle de 3 grupperinger i [[Lorath]] kæmper mod hinanden, for at finde hvad der er i de underjordiske kamre. [[De Drømmende Søstre]], [[The Eight Hands]] og [[Uduun of Ghathoth]].
+
+[[De Drømmende Søstre]] er forsvundet fra offentligheden.
+
+## Goals:
+- Tag ned i de underjordiske kamre, for at finde ud af, hvad det er der sker dernede.
+	- Og hvorfor de andre factions vil derned.
+	- Og hvordan vi stopper dem.
+- Stjæl deres [[Moor Iconoclast]]
+	- Så vi kan bryde igennem drageskjoldet i [[Last Hope]]
+- Find [[Syte Beatan Hexum]]
+	- Så vi kan afslutte [[Project Null]]
+	- Med det [[Vitalloy]], som vi har fundet.

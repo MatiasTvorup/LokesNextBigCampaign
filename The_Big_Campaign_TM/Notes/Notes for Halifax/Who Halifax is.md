@@ -9,3 +9,4 @@ Slimmoderen - det cursed træ i [[Argar-skoven]] - har givet [[Halifax]] 5 frø,
 - Et er plantet ovenpå [[Zeta Relk Beta Cata - The Shadow]] som er forstenet.
 - Et er plantet lige udenfor [[Manden Med Måneøjnene]]s tempel.
 - Et er plantet inde i [[Syte Centralis]], i det rum, hvor der er en uendelig dyb sø.
+- Et er plantet i [[Relkara]], som er dimensionen, hvor [[Zeta Relk Prime - The Overmind]] bliver holdt fanget.
