@@ -1,0 +1,5 @@
+- Er blevet befriet
+- //Er på rejse igennem [[Twisting Corridors]]
+- [[Ki Jinglet]] har mødt [[Unsch Ratar Kavesch]] i [[Twisting Corridors]]
+	- [[Ki Jinglet]] har nakket [[Unsch Ratar Kavesch]] og solgt det til [[Det Blege Blik]]
+- Er også kendt som "The Hunger"

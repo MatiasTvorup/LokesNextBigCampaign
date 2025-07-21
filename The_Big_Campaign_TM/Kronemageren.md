@@ -1,0 +1,3 @@
+- Aka Kongen af Konger
+- Vi har hans lugt.
+- Har udnævnt sig selv som [[Primalius]], men det er ikke blevet bekræftet.

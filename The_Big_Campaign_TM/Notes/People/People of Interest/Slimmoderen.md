@@ -2,3 +2,5 @@
 	- 1 er plantet uden for [[Manden Med Måneøjnene]]s tempel
 	- 1 er plantet på [[Zeta Relk Beta Cata - The Shadow]]-statuen.
 		- Som er blevet solgt til [[Manden Med Måneøjnene]]
+	- 1 er plantet i [[Syte Centralis]], i et rum som føles meget kraftfuldt
+	- 1 er plantet i [[Relkara]]

@@ -20,4 +20,4 @@ Stærke [[Anasazi]], som er kendt:
 - [[Mouth of Ghar]] 
 - [[Zeta Relk Prime - The Overmind]]
 - [[Xulthu'un]]
-- [[Unsch Ratar Kalesch]]
+- [[Unsch Ratar Kavesch]]

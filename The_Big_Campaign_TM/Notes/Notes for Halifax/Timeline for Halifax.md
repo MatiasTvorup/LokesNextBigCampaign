@@ -594,7 +594,7 @@ Spionerne har hørt meget aktivitet i [[Corinthar]], de gør klar til at marcher
 Vi støder ind i [[Secarian Pnumanoin]], som har været igang med at få sin hjerne ædt af en Animate Dream, de sidste 1000 år, eller sådan noget.
 [[Secarian Pnumanoin]] skal hente noget i arkivet. Det er meget vigtigt for dem. 
 Vi kommer til at vade ind i combat, hvor [[Secarian Pnumanoin]] finder sin dobbeltgænger.
-Vi backtracker til et rum, som føles meget kraftfuldt. Der er et dybt hul, fyldt med vand. Der ender måske et frø nede i dybet.
+Vi backtracker til et rum, som føles meget kraftfuldt. Der er et dybt hul, fyldt med vand. Der ender måske et af [[Slimmoderen]]s frø nede i dybet.
 # Session 22
 ## State-stuff
 - Scout: Hvem er [[Uduun of Ghathoth]], Medlemmer, tilholdssted, mål.
@@ -771,7 +771,7 @@ Kongen siger at vi er deres fjender. Kongen er stadig [[Sommerfugle-kongen]], so
 
 Vi har et uendeligt langt combat, hvor big bad king-man har en second healthbar. Halvdelen af holdet går ned, før at [[Ia Hajar]] straight up super-hero puncher hovedet af [[Sommerfugle-kongen]].
 
-Also, der er en gut, som har overværet hele kampen. Han er glad for at møde [[Ia Hajar]]. Han var her egentligt bare for at møde noget familie. Hans arbejdsgiver vil blive glad for {et eller andet}. [[Unsch Ratar Kalesch]] er blevet befriet siger han.
+Also, der er en gut, som har overværet hele kampen. Han er glad for at møde [[Ia Hajar]]. Han var her egentligt bare for at møde noget familie. Hans arbejdsgiver vil blive glad for {et eller andet}. [[Unsch Ratar Kavesch]] er blevet befriet siger han.
 
 # Session 29
 Vi er i hvad der engang var [[Sommerfugle-kongen]]s tron-rum. 
@@ -968,7 +968,7 @@ Vi bliver dunket ned i en meget kold væske, som nok er hinden mellem verdenerne
 [[Broder Coranar]] siger at de skal gøre "[[Paradis]]et" til [[Paradis]], og gøre det klar til at alle de andre ankommer. 
 Det ligner at [[Zeta Relk Prime - The Overmind]] er fanget af kæder i himlen her i "[[Paradis]]". [[Broder Coranar]] kalder det for Gud, og vil gerne have dem befriet, så "[[Paradis]]et" kan bliver terraformet til et godt sted, hvor der ikke er nogen sociale klasser, drager, guder, dæmoner eller korte folk. 
 
-Vi bliver ledt til udkanten af samfundet i "[[Paradis]]", hvor der sidder en gammel [[Ki Jinglet]]-dude, han er [[Navigatøren]]. Han var på jagt efter [[Unsch Ratar Kalesch]], og så endte han i menneske-verdenen. Han siger "der er slet ikke nogen krig længere" - det er mellem [[Primalius]] og [[Anasazi]]erne. 
+Vi bliver ledt til udkanten af samfundet i "[[Paradis]]", hvor der sidder en gammel [[Ki Jinglet]]-dude, han er [[Navigatøren]]. Han var på jagt efter [[Unsch Ratar Kavesch]], og så endte han i menneske-verdenen. Han siger "der er slet ikke nogen krig længere" - det er mellem [[Primalius]] og [[Anasazi]]erne. 
 Den gamle mødte [[The Peddler]], som ledte ham til "[[Paradis]]". 
 [[Navigatøren]] har kortlagt "[[Paradis]]", og han har fundet en underlig lilla by, hvor der er en stort øje i himlen. [[Ia Hajar]] husker at kongen af [[Cantua]] har haft underlige mareridt der matcher denne beskrivelse.
 [[Navigatøren]] fortæller også at der er nogle huler i bjergene, hvor der bor nogle væsener, men de er meget svære at huske.
@@ -1083,3 +1083,58 @@ Alle de 3 grupperinger i [[Lorath]] kæmper mod hinanden, for at finde hvad der 
 - Find [[Syte Beatan Hexum]]
 	- Så vi kan afslutte [[Project Null]]
 	- Med det [[Vitalloy]], som vi har fundet.
+
+# Session 37
+## Into the meget snævre hul
+Vi er landet i [[Veramore]], hvor de har gravet et hul ned til noget spændende. Der vil vi gerne ned, så vi lader [[Yulkala Tol Ren]] lede os derned i nattens mulm og mørke.
+
+Vi er måske endt i [[Twisting Corridors]]. Der er en blå dør. Der er ikke andre døre. Vi går igennem den blå dør. Vi er endt i `de_office`.  Der er en alien-agtig skikkelse. Skikkelsen byder os velkommen, og vi spørger hvor vi er. Det kan den ikke svare på. Skikkelsen siger at vi er kommet til [[Syte Beatan Hexum]]. Det lader til at de er en pleaser og bare siger at vi er der hvor vi gerne vil være.
+Bag dem er en grøn, brun og orange dør. Skikkelsen siger at de er [[Ekspedienten]], som svar til om de kender [[The Peddler]].
+[[Ekspedienten]] siger at [[Secarian Ghal]] leder [[Syte Beatan Hexum]], og at [[Gaellartharien]] ikke er til stede lige nu - medmindre kongen af konger, aka [[Kronemageren]] er til stede. 
+[[Ekspedienten]] siger at [[Secarian Ghal]]s kontor ligger bag den brune eller orange dør.
+
+## Bolstre
+Vi går igennem den brune dør, og finder en bog der gerne vil læses. Der står kun "bolstre" i bogen. Jeg kommer til at sige ordnet høj, og det hidkalder en trold. Som hidkalder en advokat. Som hidkalder politiet. Som vil anholde mig for at sige "bolstre", hvilket bryder copyright loven.
+
+Og de har license to bølle.
+
+[[Ivailo Wycliffe]] caster "gå. bed om" på politiet, og det virker.
+## Badehus
+Efter dette kaos-encounter kommer vi til 2 døre. En hvid og blå-brunlig. Vi går igennem den blå-brunlige dør. Der er kar og håndklæder. Det virker som et badehus. Vi kan høre en mumlen længere væk.
+
+Vi sniger os tættere på lyden, og finder 3 rotter i jakkesæt, som sidder i et bad. De snakker om business. 
+
+Vi finder en gul-rød-stribet dør, og den går vi igennem.
+## Gameshow
+Pludseligt sidder vi ved et bord. Der kommer et spotlight på os. Det lader til at der er publikum omkring os, som alle har hvide masker på. Hosten kommer ind på scenen. Det er en klovn, som kalder sig for quizmesteren. 
+
+Hvis vi vinder spillet, så kan vi vinde et kort, der leder til [[Secarian Ghal]]s kontor. Vil skal blot svare rigtigt på nogle spørgsmål. Hvis vi svarer forkert, så "Fucking Dør Vi". Showet hedder "I Fucking Dør".
+
+Vi svarer rigtigt på 3 ud af 5 spørgsmål og vinder kortet.
+
+	Ud herfra
+	Igennem badehus
+	Tag Grønne 
+	Tag Hvide
+	Tag Orange
+	Tag Lilla
+
+## Door-ception
+Vi farer forvirret rundt og ender i 5 cirkulært forbundne rum.
+
+I et af rummene finder vi et lig, som er dækket til med visne, hvide blade. Det er nogle sovende blade, som fortæller at jeg skulle lede der. Bladende beder os også om at lugte til blomsterne. Og så kommer der en brise, hvilket afslører en grå dør. Men det er ikke en hvid dør, så vi fortsætter.
+
+I næste rum er en busk, der er klippet til at forestille en and.  Jeg snakker med en blomst, løber lidt og tager et snif, hvilket afslører en gul dør med blod på.
+
+I næste run afslører et big whiff, en kridhvid dør. Vi går igennem.
+
+## The Return of the Kok
+Rummet vi ankommer i minder om de andre Sytes. Der ligger lig rundtomkring, i orange jumpsuites, og andre lig i sort rustning (Special-vagter fra [[The Eight Hands]]). Der er en mand, som er igang med at skære ligene istykker. Det er kokken, som Rotterne forsøgte at købe [[Ia Hajar]] til. Kokken vil meget gerne fodre [[Ia Hajar]] til hans mester, aka [[Unsch Ratar Kavesch]]. 
+
+Kokken lavede et ordspil med "Gal", så [[Ivailo Wycliffe]] tror at [[Secarian Ghal]] og [[Unsch Ratar Kavesch]] er samme person.
+
+Combat. 
+Kokken vorer sig selv i en af hans meat-mutants.
+
+Vi går videre gennem en orange dør, hvorfra vi kan hører stempler, lugte olie og rust, og se maskineri og rørledninger.
+
