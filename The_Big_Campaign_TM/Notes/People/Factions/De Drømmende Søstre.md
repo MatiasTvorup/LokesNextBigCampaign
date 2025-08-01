@@ -1,3 +1,7 @@
 - Er baseret i [[Lorath]].
 - En af de tre factions i [[Averikari]].
 - [[Isrina cal Voktann]] er lederen for [[De Drømmende Søstre]]
+- Vores spioner har svært ved at finde ud af noget omkring dem, fordi de bare er væk.
+	- Før plejede de at have en lille tilstedeværelse
+	- Der er mange, som har fundet ud af, at de forsvandt samtidigt med at katakomberne under [[Veramore]] blev fundet.
+	- Folk har teorier om at de er forsvundet derned.

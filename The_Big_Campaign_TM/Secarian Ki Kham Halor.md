@@ -1,0 +1,2 @@
+- Er [[Secarian Ghal]]
+- Har været med til at skabe [[Ki Jinglet]]-folket.

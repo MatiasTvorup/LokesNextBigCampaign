@@ -648,7 +648,7 @@ De har ingen våben til at smadre byens vægge, men til gengæld, har de taget d
 ## In the Court
 [[Ka Lier]] folket er kravlet op af jorden, og tilbyder deres hjælp. De forventer blot, at vi også hjælper til at nakke fjenden. De kommer fra en anden verden.
 Lederen af [[Ka Lier]] hedder [[Tre]] han er deres stammes hyrde.
-[[Ubba Kaum]] er høvding kriger fra Kaum-stammen. De følger en ulovlig gud, som hedder [[Ki Ham Halor]]
+[[Ubba Kaum]] er høvding kriger fra Kaum-stammen. De følger en ulovlig gud, som hedder [[Secarian Ki Kham Halor]]
 
 Efter lang diskussion bliver regeringslederne enige om, at sende The Heroes (TM) afsted, for at neutralisere dragerne, som den invaderende hær har med.
 Den kriger fra [[Ka Lier]]-folket, som vi slås sammen med, hedder [[Ia Hajar]].
@@ -1138,3 +1138,25 @@ Kokken vorer sig selv i en af hans meat-mutants.
 
 Vi går videre gennem en orange dør, hvorfra vi kan hører stempler, lugte olie og rust, og se maskineri og rørledninger.
 
+# Session 38
+Der er 4 forskellige rørledninger. Markeret med 65, 07, 1111 og 2. Vi følger efter 1111. Det leder til et kogerum, hvorfor der kommer en snorken. Her er en skildpadde, med menneskearme. Den sover.
+Skildpadden stikker af, og har forresten ikke nogen gode svar på vores spørgsmål.
+Fra skildpadderummet bliver der suget skildpaddesuppe-dampe op i rør 1111.
+
+Vi følger rør-1111 i den modsatte retning. Her finder vi en af nøglevogterne til [[Mesteren]]s kontor. Efter et lille kirurgisk indgreb overdrager han nøglen til os.
+
+Herefter vandrer vi lidt tilfældigt rundt. Finder en hvid, mørkerød og lilla dør. Derudover finder vi ud af at der også burde være en fjerde dør.
+Vi går gennem. Det leder til et kontor. Her møder vi en bog med et ansigt, [[Secarian Ghal]], aka [[Secarian Ki Kham Halor]].
+
+Fortæller at vi kan tage til [[The Dimension Forge]] for at færdiggøre [[Project Null]] med vores [[Vitalloy]]. [[The Dimension Forge]] kan findes bag den sorte dør.
+Fortæller også at [[The Peddler]] er bag den mørkerøde dør. 
+
+Vi går igennem en mørkerød dør, i håb om at finde [[The Peddler]]. [[Ivailo Wycliffe]] sælger sin tro på [[Tempestari]] for at finde ud hvad [[The Peddler]] tidligere hed, og hvor [[Unsch Ratar Kavesch]] er.
+
+[[The Peddler]] fortæller at [[Unsch Ratar Kavesch]] er en gammel rival, som går rundt her, og gemmer sig bag landsbyen, som er bag den gule dør med blod. Til gengæld fortæller han ikke særligt meget om sig selv.
+
+Vi går igennem en sølvdør. Og vi er tilbage hvor vi startede, med alienen der svarer på vores spørgsmål.
+
+Vi tager turen igennem labyrinten og prøver os nu med en grå dør. Her finder vi en mærkelig opfindelse, hvor vi """""""Gætter"""""""" en kode, som vi bruger til at åbne en ny dør, som leder til en [[The Chain]].
+
+Døren leder os først til et hospital, hvor vi bliver tvangsfodret nogle skumle stoffer. Derefter bliver vi sendt ind til rummet, hvor der er en [[The Chain]]. Her bliver vi angrebet af skyer. Under combat bliver [[The Chain]] smadret. Ikke af os.
