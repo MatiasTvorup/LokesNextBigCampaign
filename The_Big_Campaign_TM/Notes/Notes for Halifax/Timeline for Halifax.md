@@ -1160,3 +1160,38 @@ Vi går igennem en sølvdør. Og vi er tilbage hvor vi startede, med alienen der
 Vi tager turen igennem labyrinten og prøver os nu med en grå dør. Her finder vi en mærkelig opfindelse, hvor vi """""""Gætter"""""""" en kode, som vi bruger til at åbne en ny dør, som leder til en [[The Chain]].
 
 Døren leder os først til et hospital, hvor vi bliver tvangsfodret nogle skumle stoffer. Derefter bliver vi sendt ind til rummet, hvor der er en [[The Chain]]. Her bliver vi angrebet af skyer. Under combat bliver [[The Chain]] smadret. Ikke af os.
+
+# Session 39
+Hvad skete der sidste uge? Det er lige meget. Fuck heltene. Vi er tilbage i [[Last Hope]]. Der er en ny gut i byen [[The Renegade]] hedder han. Han har viden om mange ting, men er kryptisk og dårlig til at kommunikere.
+
+Scouts rapporterer at, [[K'Sum-klan]]en er begyndt at bringe deres [[Annihilators]] mod [[Last Hope]]. Derfor bestemmer vi at flytte hærene til [[Ka Sor]], for at kunne beskytte [[Last Hope]], og kunne møde dem før at de kan skyde på [[Last Hope]].
+
+Et par dage senere, triller en lille tank med [[K'Sum-klan]]-dværge op mod [[Ka Sor]]. De har hejst et hvidt flag. De er diplomater og vil snakke om at [[K'Sum-klan]]ens konge gerne vil snakke med [[Last Hope]]s ledere. 
+
+Vi aftaler at møde et sted mit ude i ingenting, så vi er mindst muligt en trussel for hinanden.
+
+Dværgene dukker op. Deres konge vil ikke komme ud af sin tank, før [[Last Hope]]s ledere er mødt op. Men lederne tager til mødet, og en kæmpe stor dværg træder ud af tanken. Det er [[Højkongen]], Harold. Bag ham er en robot med alt for mange lemmer - 4 arme og 2 hoveder.
+
+[[Højkongen]] postulerer, at han ikke vil gøre nogen fortræd. Han siger også "Høj" virkeligt mange gange. "Kanonen er ikke for jer. Vi kan bruge den sammen."
+
+[[Højkongen]] vil gerne befri [[Zeta Relk Prime - The Overmind]], for at fortære og absorbere ham. (Han har spist en [[Anasazi]] før. Men han havde andre han skulle dele med, så han spildte meget energi.) Derefter vil [[Højkongen]] rejse videre. [[The Master]]/[[Mesteren]]/[[Den Store Banker]]/[[Xorhalvar]] har givet [[Højkongen]] krafter, som tillader ham at absorbere [[Anasazi]]er.
+
+[[Højkongen]] vil også gerne være ok med at hjælpe med at nakke guderne/world wardens. Men han vil bare gerne rejse videre og absorbere flere [[Anasazi]]er. Måske selv blive en gud. 
+
+[[Højkongen]] vil bruge [[Annihilators]] til at skyde på [[Zeta Relk Prime - The Overmind]], så den bliver svækket, og han kan absorbere den. For at kunne skyde på [[Zeta Relk Prime - The Overmind]] skal den blive en del af vores verden, og for at dette kan ske, skal alle [[The Chain]]s ødelægges.
+
+SPOILER ALERT: Der er en [[The Chain]] under [[Last Hope]].
+
+Der er en artifakt i en facilitet der hedder [[Syte Cata Secundu]], som er blevet spist af en drage fra havet. Den kan bruges til noget?? 
+
+## Back To The Boys
+Vi er i smadret chain-rum. Vi vil gerne til [[The Dimension Forge]]. Men først skal vi finde den sorte dør dertil.
+
+Vi tager til GameShowet, fordi [[Ivailo Wycliffe]] husker at der er en sort dør der. 
+
+Vi er landet i [[The Dimension Forge]]. Der er et stor flyvende øje, som siger at [[Unsch Ratar Kavesch]] leder efter [[Ia Hajar]]. Øjet siger at de er en [[Tricaris]], som skulle holde [[The Dimension Forge]] klar, til når [[Secarian Deltreon]] vender tilbage med [[Vitalloy]] for at færdiggøre [[Project Null]]. 
+
+Vi overdrager [[Vitalloy]] til øjet, som vil lave et device, der kan fanget en svækket [[Anasazi]]. Vi får en kasse med en knap og en udmunding, med instruktionerne om at mundingen skal stikkes i en [[Anasazi]], hvorefter der kan trykkes på knappen, hvilket fanger [[Anasazi]]en. 
+Den kan genbruges, men kræver at den skal genoplades med en stærk energikilde. Det hedder en [[Null Sender]]. 
+
+Vi tager en lur, leveller up, og overvejer om vi skal have en dårlig dag med [[Unsch Ratar Kavesch]].
