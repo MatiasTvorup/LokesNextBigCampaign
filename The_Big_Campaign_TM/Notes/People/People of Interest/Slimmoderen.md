@@ -4,3 +4,4 @@
 		- Som er blevet solgt til [[Manden Med Måneøjnene]]
 	- 1 er plantet i [[Syte Centralis]], i et rum som føles meget kraftfuldt
 	- 1 er plantet i [[Relkara]]
+	- De sidste frø skal smadres i [[Zeta Relk Prime - The Overmind]], når de er svækket.

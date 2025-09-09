@@ -1,4 +1,4 @@
-Er meget loyale overfor [[Zeta Relk Prime - The Overmind]] som de også kalder for [[Guth Ganuun]]
+Er meget loyale overfor [[Zeta Relk Prime - The Overmind]] som de også kalder for [[Zeta Relk Prime - The Overmind]]
 Er ledt af [[Tholk ga Voramm]].
 Er en kult. Meget religiøs.
 Leder efter Arcane Secrets.

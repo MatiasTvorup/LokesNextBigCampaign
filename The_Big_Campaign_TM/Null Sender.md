@@ -1,0 +1,2 @@
+- Er et artifakt, som er skabt i [[The Dimension Forge]].
+- Kan bruges til at fange [[Anasazi]]

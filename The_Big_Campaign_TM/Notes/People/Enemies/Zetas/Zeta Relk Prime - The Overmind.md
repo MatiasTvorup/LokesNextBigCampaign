@@ -8,9 +8,10 @@ Er en [[Anasazi]], som bliver holdt fanget af [[The Chain]].
 
 En ukendt person har fanget The Overmind, med hjælp fra 3 andre ukendte, som lader til at være medlemmer af samme organisation eller gruppering.
 
-Bliver også kaldt [[Guth Ganuun]]
+Bliver også kaldt [[Zeta Relk Prime - The Overmind]]
 - Pånær [[Galen]], som var en nørd.
 Bliver også kaldt [[Velkia One]]
 - Bliver kaldt dette fordi de var fanget i [[Velkia]]
+Bliver også kaldt for [[Ghuth'Gannun]]
 # Spekulation
 Er måske relateret til [[Zeta Relk Cata]].

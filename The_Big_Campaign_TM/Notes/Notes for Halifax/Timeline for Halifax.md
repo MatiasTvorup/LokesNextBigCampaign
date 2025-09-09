@@ -258,7 +258,7 @@ Vi venter lidt, med at re-surface. Og har planer om at fortælle, at dværgene s
 
 Endeligt kommer vi til overfladen. Og snakker med nogle lokale, som er skuffede over at dværgene er OK. Minearbejderne er [[Sparitanere]]. Og de er fucking klar til at lave oprør.
 
-Vi beder om betaling og [[Grevalt Oslwill]] vil ikke betale uden beviser, så han sender nogle folk ned i minen. Vi venter til de er væk, og begynder at udspørge ham om [[The Eight Hands]] og [[Riela]]. Han bliver ret panisk, og spørger om vi er blevet sendt af [[Uduun of Ghathoth]] og [[Søstrene]].
+Vi beder om betaling og [[Grevalt Oslwill]] vil ikke betale uden beviser, så han sender nogle folk ned i minen. Vi venter til de er væk, og begynder at udspørge ham om [[The Eight Hands]] og [[Riela]]. Han bliver ret panisk, og spørger om vi er blevet sendt af [[Uduun of Ghathoth]] og [[De Drømmende Søstre]].
 
 [[Grevalt Oslwill]]'s grævling bliver mega-mad, trækker en kniv på os og turbocritter. 
 Det ender med at [[Grevalt Oslwill]] begår sudoku, for at vi ikke kommer til at kende [[The Eight Hands]] hemmeligheder.
@@ -757,7 +757,7 @@ Der kommer nogle nasty ryttere og ser aggresive ud. Vi er counter-aggresive og d
 ## Møde i Court of [[Last Hope]]
 [[Riela]]s Journal er blevet decoded. Der står:
 - [[Sparitanere]] er begyndt at lave oprør. [[The Chosen Hand]] er blevet oprettet til at slå dem ned, rapporterer til High [[Averikari]].
-- [[Riela]] snakker med [[Maravek vo Durillio]], som frygter at [[The Eight Hands]] er i fare. De tror at [[Søstrene]]/[[De Drømmende Søstre]] og [[Uduun of Ghathoth]] arbejder sammen, og måske at de vil slutte sig til [[The Unbound]]
+- [[Riela]] snakker med [[Maravek vo Durillio]], som frygter at [[The Eight Hands]] er i fare. De tror at [[De Drømmende Søstre]]/[[De Drømmende Søstre]] og [[Uduun of Ghathoth]] arbejder sammen, og måske at de vil slutte sig til [[The Unbound]]
 - [[Riela]] har fået ordre til at hjælpe [[Velanon]] med at bringe kaos til [[Last Hope]], så hans agenter kan lede efter [[The Well]], hvilket burde være et sted dybt under [[Last Hope]].
 
 ## Tilbage i [[Dolni Tsibar]]
@@ -1195,3 +1195,15 @@ Vi overdrager [[Vitalloy]] til øjet, som vil lave et device, der kan fanget en 
 Den kan genbruges, men kræver at den skal genoplades med en stærk energikilde. Det hedder en [[Null Sender]]. 
 
 Vi tager en lur, leveller up, og overvejer om vi skal have en dårlig dag med [[Unsch Ratar Kavesch]].
+
+# Session 40
+Vi går igennem døren, hvor vi troede [[Unsch Ratar Kavesch]] skulle være bag. Nu er vi i en uendelig landsby. Her er mennesker uden ansigt, som vi ikke kan finde ud af at kommunikere med.
+
+Vi undersøger landsbyen, og hører nogen som rent faktisk snakker. De er skatteopkrævere. Og ret voldelige. De samler "Baronens" skatter. Vi betaler, men ikke nok. Så vi forsøger at blive skatteopkrævere selv, så vi kan få lov til at snakke med "Baronen".
+
+Vi bliver uvenner med opkræverne. [[Arcon]] nakker den ene af dem, og så bliver han plukket af en hånd. Vi åbner døren ind til det hus, hvor han blev yoinket ind i, finder en shell-shocked mand, samt [[Arcon]]s armor. Vi giver manden armor på, og så bliver han til [[Arcon]].
+
+Vi tager til byens Town Square. Der er en brønd, som de lokale undgår. Her møder vi Agnes, fra [[De Drømmende Søstre]], som tilbyder at tage [[Unsch Ratar Kavesch]] med et sted langt væk. De vil lave en ny verden inde i [[Twisting Corridors]]. Dette kræver at de kan stjæle [[Unsch Ratar Kavesch]] krafter. Vi bliver enige med dem, om at vi hjælper dem med at nakke [[Unsch Ratar Kavesch]]. Vi svækker dem, og [[De Drømmende Søstre]] sørger for at [[Unsch Ratar Kavesch]] aldrig kommer tilbage igen.
+
+For at finde [[Unsch Ratar Kavesch]] skal vi finde "Baronen", som måske befinder sig i Det Store Klokketårn. [[De Drømmende Søstre]] leder os derhen. Tiden opfører sig mærkeligt her. Vi kan ikke finde ud af at gå ned igennem tårnet. Men vi kan godt gå op. Vi finder ur-værket og prøver at ødelægge det. Vi fejler. Samtlige gange. Og så rammer vi bunden. Here be [[Unsch Ratar Kavesch]]. 
+Som vi nakker. Og så nakker [[De Drømmende Søstre]] kadaveret.

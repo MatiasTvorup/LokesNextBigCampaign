@@ -7,4 +7,4 @@ Han rapporterer til [[Riela]], omkring hans arbejde med at komme frem til [[The 
 
 # Teori
 - Er en del af [[The Eight Hands]]
-- Er bange for [[Uduun of Ghathoth]] og [[Søstrene]]
+- Er bange for [[Uduun of Ghathoth]] og [[De Drømmende Søstre]]
